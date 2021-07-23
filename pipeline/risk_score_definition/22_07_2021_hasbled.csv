@@ -1,0 +1,2115 @@
+,score,component,cui,term,points
+0,hasbled,bleeding_medications,S-15100811000001100,Ibuprofen 100mg/5ml oral suspension sugar free (Sigma Pharmaceuticals Plc),1
+1,hasbled,bleeding_medications,S-18109611000001100,Ibuprofen 100mg/5ml oral suspension sugar free (Phoenix Healthcare Distribution Ltd),1
+2,hasbled,bleeding_medications,S-24174611000001100,Ibuprofen 100mg/5ml oral suspension sugar free (DE Pharmaceuticals),1
+3,hasbled,bleeding_medications,S-30804111000001100,Ibuprofen 100mg/5ml oral suspension sugar free (Accord Healthcare Ltd),1
+4,hasbled,bleeding_medications,S-37421811000001104,Ibuprofen 100mg/5ml oral suspension sugar free (Relonchem Ltd),1
+5,hasbled,bleeding_medications,S-12597711000001100,Ibuprofen 200mg/5ml oral suspension (Special Order),1
+6,hasbled,bleeding_medications,S-9210011000001100,Ibuprofen 100mg/5ml oral suspension 5ml sachets sugar free (Thornton & Ross Ltd),1
+7,hasbled,bleeding_medications,S-9458211000001100,Ibuprofen 100mg/5ml oral suspension 5ml sachets sugar free (A A H Pharmaceuticals Ltd),1
+8,hasbled,bleeding_medications,S-13623911000001100,Ibuprofen 100mg/5ml oral suspension 5ml sachets sugar free (Pinewood Healthcare),1
+9,hasbled,bleeding_medications,S-694411000001106,Nurofen 200mg tablets (Reckitt Benckiser Healthcare (UK) Ltd),1
+10,hasbled,bleeding_medications,S-621911000001109,Nurofen 200mg caplets (Reckitt Benckiser Healthcare (UK) Ltd),1
+11,hasbled,bleeding_medications,S-3869111000001100,Nurofen Meltlets 200mg tablets (Reckitt Benckiser Healthcare (UK) Ltd),1
+12,hasbled,bleeding_medications,S-3917611000001100,Nurofen 200mg liquid capsules (Reckitt Benckiser Healthcare (UK) Ltd),1
+13,hasbled,bleeding_medications,S-664811000001105,Nurofen for Children 100mg/5ml oral suspension orange (Reckitt Benckiser Healthcare (UK) Ltd),1
+14,hasbled,bleeding_medications,S-3915411000001100,Nurofen Plus tablets (Reckitt Benckiser Healthcare (UK) Ltd),1
+15,hasbled,bleeding_medications,S-4605611000001100,Nurofen for Children Singles 100mg/5ml oral suspension 5ml sachets orange (Reckitt Benckiser Healthcare (UK) Ltd),1
+16,hasbled,bleeding_medications,S-8061211000001100,Nurofen Back Pain SR 300mg capsules (Reckitt Benckiser Healthcare (UK) Ltd),1
+17,hasbled,bleeding_medications,S-4606211000001100,Nurofen Cold and Flu tablets (Reckitt Benckiser Healthcare (UK) Ltd),1
+18,hasbled,bleeding_medications,S-9164611000001100,Nurofen for Children 100mg/5ml oral suspension strawberry (Reckitt Benckiser Healthcare (UK) Ltd),1
+19,hasbled,bleeding_medications,S-9164311000001100,Nurofen for Children Singles 100mg/5ml oral suspension 5ml sachets strawberry (Reckitt Benckiser Healthcare (UK) Ltd),1
+20,hasbled,bleeding_medications,S-10768811000001100,Nurofen Extra Strength 400mg capsules (Reckitt Benckiser Healthcare (UK) Ltd),1
+21,hasbled,bleeding_medications,S-11934511000001100,Nurofen Express 200mg liquid capsules (Reckitt Benckiser Healthcare (UK) Ltd),1
+22,hasbled,bleeding_medications,S-11934911000001100,Nurofen Express 400mg liquid capsules (Reckitt Benckiser Healthcare (UK) Ltd),1
+23,hasbled,bleeding_medications,S-21524011000001100,Nurofen Express Period Pain 200mg capsules (Reckitt Benckiser Healthcare (UK) Ltd),1
+24,hasbled,bleeding_medications,S-23649611000001100,Nurofen for Children Cold Pain and Fever Strawberry Flavour 100mg/5ml oral suspension (Reckitt Benckiser Healthcare (UK) Ltd),1
+25,hasbled,bleeding_medications,S-23649811000001100,Nurofen for Children Cold Pain and Fever Orange Flavour 100mg/5ml oral suspension (Reckitt Benckiser Healthcare (UK) Ltd),1
+26,hasbled,bleeding_medications,S-31394911000001100,Nurofen Joint & Back Pain Relief 200mg capsules (Reckitt Benckiser Healthcare (UK) Ltd),1
+27,hasbled,bleeding_medications,S-31396411000001100,Nurofen Sinus Pressure & Headache Relief 200mg/30mg tablets (Reckitt Benckiser Healthcare (UK) Ltd),1
+28,hasbled,bleeding_medications,S-32390811000001100,Nurofen for Children 100mg chewable capsules (Reckitt Benckiser Healthcare (UK) Ltd),1
+29,hasbled,bleeding_medications,S-477011000001101,Orbifen For Children 100mg/5ml oral suspension (Orbis Consumer Products Ltd),1
+30,hasbled,bleeding_medications,S-7664811000001100,Orbifen For Children 100mg/5ml oral suspension 5ml sachets (Orbis Consumer Products Ltd),1
+31,hasbled,bleeding_medications,S-8008611000001100,Sudafed Sinus Pressure & Pain tablets (McNeil Products Ltd),1
+32,hasbled,bleeding_medications,S-34874211000001100,Sudafed Sinus Pain Relief 200mg/6.1mg tablets (McNeil Products Ltd),1
+33,hasbled,bleeding_medications,S-29666011000001100,Care Ibuprofen for Children 100mg/5ml oral suspension (Thornton & Ross Ltd),1
+34,hasbled,bleeding_medications,S-4535711000001100,Fenpaed 100mg/5ml oral suspension (Pinewood Healthcare),1
+35,hasbled,bleeding_medications,S-7997311000001100,Mandafen for Children 100mg/5ml oral suspension sugar free (M & A Pharmachem Ltd),1
+36,hasbled,bleeding_medications,S-7997811000001100,Mandafen 400mg tablets (M & A Pharmachem Ltd),1
+37,hasbled,bleeding_medications,S-4585211000001100,Calprofen 100mg/5ml oral suspension (McNeil Products Ltd),1
+38,hasbled,bleeding_medications,S-11753011000001100,Calprofen 100mg/5ml oral suspension 5ml sachets (McNeil Products Ltd),1
+39,hasbled,bleeding_medications,S-9993111000001100,Galpharm Ibuprofen For Children 100mg/5ml oral suspension 5ml sachets (Galpharm International Ltd),1
+40,hasbled,bleeding_medications,S-13636911000001100,Ibuprofen for Children 100mg/5ml oral suspension (Galpharm International Ltd),1
+41,hasbled,bleeding_medications,S-17303111000001100,Galpharm Migraine Relief 200mg capsules (Galpharm International Ltd),1
+42,hasbled,bleeding_medications,S-10194911000001100,Solpadeine Migraine Ibuprofen & Codeine tablets (Omega Pharma Ltd),1
+43,hasbled,bleeding_medications,S-16528311000001100,Ibucalm 200mg tablets (Aspar Pharmaceuticals Ltd),1
+44,hasbled,bleeding_medications,S-16528811000001100,Ibucalm 400mg tablets (Aspar Pharmaceuticals Ltd),1
+45,hasbled,bleeding_medications,S-34790511000001100,Flarin 200mg capsules (infirst Healthcare Ltd),1
+46,hasbled,bleeding_medications,S-36105911000001104,Ibular 200mg tablets (Ennogen Pharma Ltd),1
+47,hasbled,bleeding_medications,S-36106111000001104,Ibular 400mg tablets (Ennogen Pharma Ltd),1
+48,hasbled,bleeding_medications,S-36603011000001104,Ibuprofen Twelve Plus Pain Relief 200mg/5ml oral suspension (Aspire Pharma Ltd),1
+49,hasbled,bleeding_medications,S-36760411000001104,Ibuprofen Seven Plus Pain Relief 200mg/5ml oral suspension (Aspire Pharma Ltd),1
+50,hasbled,bleeding_medications,S-24411000001107,Indometacin 25mg capsules (Actavis UK Ltd),1
+51,hasbled,bleeding_medications,S-387211000001109,Indometacin 25mg capsules (Alliance Healthcare (Distribution) Ltd),1
+52,hasbled,bleeding_medications,S-564511000001104,Indometacin 25mg capsules (The Boots Company Plc),1
+53,hasbled,bleeding_medications,S-746311000001109,Indometacin 25mg capsules (A A H Pharmaceuticals Ltd),1
+54,hasbled,bleeding_medications,S-770811000001101,Indometacin 25mg capsules (Kent Pharmaceuticals Ltd),1
+55,hasbled,bleeding_medications,S-4331311000001100,Indometacin 25mg capsules (Sandoz Ltd),1
+56,hasbled,bleeding_medications,S-10381711000001100,Indometacin 25mg capsules (Arrow Generics Ltd),1
+57,hasbled,bleeding_medications,S-11017711000001100,Indometacin 25mg capsules (Dr Reddy's Laboratories (UK) Ltd),1
+58,hasbled,bleeding_medications,S-10239611000001100,Nurofen Maximum Strength Migraine Pain 684mg caplets (Reckitt Benckiser Healthcare (UK) Ltd),1
+59,hasbled,bleeding_medications,S-4603811000001100,Nurofen Migraine Pain 342mg tablets (Reckitt Benckiser Healthcare (UK) Ltd),1
+60,hasbled,bleeding_medications,S-9511211000001100,Nurofen Tension Headache 342mg caplets (Reckitt Benckiser Healthcare (UK) Ltd),1
+61,hasbled,bleeding_medications,S-11934111000001100,Nurofen Express 342mg caplets (Reckitt Benckiser Healthcare (UK) Ltd),1
+62,hasbled,bleeding_medications,S-11935111000001100,Nurofen Express 684mg caplets (Reckitt Benckiser Healthcare (UK) Ltd),1
+63,hasbled,bleeding_medications,S-21679511000001100,Nurofen Express Soluble 400mg oral powder sachets (Reckitt Benckiser Healthcare (UK) Ltd),1
+64,hasbled,bleeding_medications,S-17538811000001100,Feminax Express 342mg tablets (Bayer Plc),1
+65,hasbled,bleeding_medications,S-2892711000001100,Keral 25mg tablets (A. Menarini Farmaceutica Internazionale SRL),1
+66,hasbled,bleeding_medications,S-16236911000001100,Diclofenac potassium 25mg tablets (Accord Healthcare Ltd),1
+67,hasbled,bleeding_medications,S-17014711000001100,Diclofenac potassium 25mg tablets (A A H Pharmaceuticals Ltd),1
+68,hasbled,bleeding_medications,S-16237611000001100,Diclofenac potassium 50mg tablets (Accord Healthcare Ltd),1
+69,hasbled,bleeding_medications,S-16650211000001100,Diclofenac potassium 50mg tablets (A A H Pharmaceuticals Ltd),1
+70,hasbled,bleeding_medications,S-17664811000001100,Diclofenac potassium 50mg tablets (Focus Pharmaceuticals Ltd),1
+71,hasbled,bleeding_medications,S-18341211000001100,Diclofenac potassium 50mg tablets (Alliance Healthcare (Distribution) Ltd),1
+72,hasbled,bleeding_medications,S-18618611000001100,Diclofenac potassium 50mg tablets (Phoenix Healthcare Distribution Ltd),1
+73,hasbled,bleeding_medications,S-30048011000001100,Diclofenac potassium 50mg tablets (DE Pharmaceuticals),1
+74,hasbled,bleeding_medications,S-663411000001105,Voltarol Rapid 25mg tablets (Novartis Pharmaceuticals UK Ltd),1
+75,hasbled,bleeding_medications,S-605911000001102,Voltarol Rapid 50mg tablets (Novartis Pharmaceuticals UK Ltd),1
+76,hasbled,bleeding_medications,S-14033611000001100,Voltarol Pain-eze 12.5mg tablets (Novartis Consumer Health UK Ltd),1
+77,hasbled,bleeding_medications,S-19363611000001100,Voltarol Pain-eze Extra Strength 25mg tablets (Novartis Consumer Health UK Ltd),1
+78,hasbled,bleeding_medications,S-17526411000001100,Voltarol Joint Pain 12.5mg tablets (Novartis Consumer Health UK Ltd),1
+79,hasbled,bleeding_medications,S-18637011000001100,First Resort Double Action Pain Relief 12.5mg tablets (Actavis UK Ltd),1
+80,hasbled,bleeding_medications,S-28001111000001100,Celecoxib 100mg capsules (Teva UK Ltd),1
+81,hasbled,bleeding_medications,S-28011711000001100,Celecoxib 100mg capsules (Upjohn UK Ltd),1
+82,hasbled,bleeding_medications,S-28039011000001100,Celecoxib 100mg capsules (Alliance Healthcare (Distribution) Ltd),1
+83,hasbled,bleeding_medications,S-28292711000001100,Celecoxib 100mg capsules (Zentiva),1
+84,hasbled,bleeding_medications,S-28378211000001100,Celecoxib 100mg capsules (Actavis UK Ltd),1
+85,hasbled,bleeding_medications,S-28378611000001100,Celecoxib 100mg capsules (A A H Pharmaceuticals Ltd),1
+86,hasbled,bleeding_medications,S-29784511000001100,Celecoxib 100mg capsules (Sigma Pharmaceuticals Plc),1
+87,hasbled,bleeding_medications,S-33136211000001100,Naproxen 125mg/5ml oral suspension sugar free (Alliance Healthcare (Distribution) Ltd),1
+88,hasbled,bleeding_medications,S-8638311000001100,Naproxen 250mg/5ml oral suspension (Special Order),1
+89,hasbled,bleeding_medications,S-33743911000001100,Naproxen 50mg/ml oral suspension (Thornton & Ross Ltd),1
+90,hasbled,bleeding_medications,S-34195911000001100,Naproxen 50mg/ml oral suspension (Alliance Healthcare (Distribution) Ltd),1
+91,hasbled,bleeding_medications,S-34328011000001100,Naproxen 50mg/ml oral suspension (A A H Pharmaceuticals Ltd),1
+92,hasbled,bleeding_medications,S-37609211000001104,Naproxen 50mg/ml oral suspension (DE Pharmaceuticals),1
+93,hasbled,bleeding_medications,S-894311000001106,Naprosyn 250mg tablets (Atnahs Pharma UK Ltd),1
+94,hasbled,bleeding_medications,S-162011000001106,Naprosyn 500mg tablets (Atnahs Pharma UK Ltd),1
+95,hasbled,bleeding_medications,S-178811000001105,Naprosyn EC 250mg tablets (Atnahs Pharma UK Ltd),1
+96,hasbled,bleeding_medications,S-611711000001104,Naprosyn EC 375mg tablets (Atnahs Pharma UK Ltd),1
+97,hasbled,bleeding_medications,S-434011000001107,Naprosyn EC 500mg tablets (Atnahs Pharma UK Ltd),1
+98,hasbled,bleeding_medications,S-61111000001105,Naprosyn S/R 500mg tablets (Roche Products Ltd),1
+99,hasbled,bleeding_medications,S-15512111000001100,Feminax Ultra 250mg gastro-resistant tablets (Bayer Plc),1
+100,hasbled,bleeding_medications,S-18233711000001100,Vimovo 500mg/20mg modified-release tablets (AstraZeneca UK Ltd),1
+101,hasbled,bleeding_medications,S-31279811000001100,Stirlescent 250mg effervescent tablets (Stirling Anglian Pharmaceuticals Ltd),1
+102,hasbled,bleeding_medications,S-36736411000001104,Nexocin EC 250mg gastro-resistant tablets (Noumed Life Sciences Ltd),1
+103,hasbled,bleeding_medications,S-36737211000001104,Nexocin EC 500mg gastro-resistant tablets (Noumed Life Sciences Ltd),1
+104,hasbled,bleeding_medications,S-10360711000001100,Phenylbutazone 100mg tablets (Alliance Healthcare (Distribution) Ltd),1
+105,hasbled,bleeding_medications,S-10423311000001100,Phenylbutazone 100mg tablets (Essential Generics Ltd),1
+106,hasbled,bleeding_medications,S-11256211000001100,Phenylbutazone 100mg tablets (A A H Pharmaceuticals Ltd),1
+107,hasbled,bleeding_medications,S-10361211000001100,Phenylbutazone 200mg tablets (Alliance Healthcare (Distribution) Ltd),1
+108,hasbled,bleeding_medications,S-10423711000001100,Phenylbutazone 200mg tablets (Essential Generics Ltd),1
+109,hasbled,bleeding_medications,S-11256411000001100,Phenylbutazone 200mg tablets (A A H Pharmaceuticals Ltd),1
+110,hasbled,bleeding_medications,S-286411000001100,Piroxicam 10mg capsules (Mylan),1
+111,hasbled,bleeding_medications,S-310111000001102,Piroxicam 10mg capsules (IVAX Pharmaceuticals UK Ltd),1
+112,hasbled,bleeding_medications,S-317911000001103,Piroxicam 10mg capsules (The Boots Company Plc),1
+113,hasbled,bleeding_medications,S-385011000001106,Piroxicam 10mg capsules (Alliance Healthcare (Distribution) Ltd),1
+114,hasbled,bleeding_medications,S-468211000001100,Piroxicam 10mg capsules (Actavis UK Ltd),1
+115,hasbled,bleeding_medications,S-494511000001107,Piroxicam 10mg capsules (Approved Prescription Services Ltd),1
+116,hasbled,bleeding_medications,S-349811000001107,Ibuprofen 600mg tablets (Teva UK Ltd),1
+117,hasbled,bleeding_medications,S-372911000001106,Ibuprofen 600mg tablets film coated (Alliance Healthcare (Distribution) Ltd),1
+118,hasbled,bleeding_medications,S-451211000001103,Ibuprofen 600mg tablets (A A H Pharmaceuticals Ltd),1
+119,hasbled,bleeding_medications,S-641211000001103,Ibuprofen 600mg tablets (Actavis UK Ltd),1
+120,hasbled,bleeding_medications,S-901511000001105,Ibuprofen 600mg tablets (Aspar Pharmaceuticals Ltd),1
+121,hasbled,bleeding_medications,S-928211000001108,Ibuprofen 600mg tablets (Sterwin Medicines),1
+122,hasbled,bleeding_medications,S-9805911000001100,Ibuprofen 600mg tablets (Almus Pharmaceuticals Ltd),1
+123,hasbled,bleeding_medications,S-10379411000001100,Ibuprofen 600mg tablets (Arrow Generics Ltd),1
+124,hasbled,bleeding_medications,S-11177711000001100,Ibuprofen 600mg tablets (Zentiva),1
+125,hasbled,bleeding_medications,S-14773611000001100,Ibuprofen 600mg tablets (Boston Healthcare Ltd),1
+126,hasbled,bleeding_medications,S-15101111000001100,Ibuprofen 600mg tablets (Sigma Pharmaceuticals Plc),1
+127,hasbled,bleeding_medications,S-17931811000001100,Ibuprofen 600mg tablets (Phoenix Healthcare Distribution Ltd),1
+128,hasbled,bleeding_medications,S-18078211000001100,Ibuprofen 600mg tablets (Fannin UK Ltd),1
+129,hasbled,bleeding_medications,S-21033511000001100,Ibuprofen 600mg tablets (Bristol Laboratories Ltd),1
+130,hasbled,bleeding_medications,S-22057111000001100,Ibuprofen 600mg tablets (Waymade Healthcare Plc),1
+131,hasbled,bleeding_medications,S-36043011000001104,Ibuprofen 600mg tablets (Medreich Plc),1
+132,hasbled,bleeding_medications,S-36080311000001104,Ibuprofen 600mg tablets (Crescent Pharma Ltd),1
+133,hasbled,bleeding_medications,S-36513111000001104,Ibuprofen 600mg tablets (Dalkeith Laboratories Ltd),1
+134,hasbled,bleeding_medications,S-36700311000001104,Ibuprofen 600mg tablets (Noumed Life Sciences Ltd),1
+135,hasbled,bleeding_medications,S-37079111000001104,Ibuprofen 600mg tablets (Relonchem Ltd),1
+136,hasbled,bleeding_medications,S-37422011000001104,Ibuprofen 600mg tablets (DE Pharmaceuticals),1
+137,hasbled,bleeding_medications,S-23811000001106,Ibuprofen 100mg/5ml oral suspension sugar free (Alliance Healthcare (Distribution) Ltd),1
+138,hasbled,bleeding_medications,S-26311000001106,Ibuprofen 100mg/5ml oral suspension sugar free (Sandoz Ltd),1
+139,hasbled,bleeding_medications,S-731611000001107,Ibuprofen 100mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd),1
+140,hasbled,bleeding_medications,S-3323411000001100,Ibuprofen 100mg/5ml oral suspension sugar free (Kent Pharmaceuticals Ltd),1
+141,hasbled,bleeding_medications,S-5021111000001100,Ibuprofen 100mg/5ml oral suspension sugar free (Vantage),1
+142,hasbled,bleeding_medications,S-7944111000001100,Ibuprofen 100mg/5ml oral suspension sugar free (Teva UK Ltd),1
+143,hasbled,bleeding_medications,S-9209811000001100,Ibuprofen 100mg/5ml oral suspension sugar free (Thornton & Ross Ltd),1
+144,hasbled,bleeding_medications,S-13623411000001100,Ibuprofen 100mg/5ml oral suspension sugar free (Pinewood Healthcare),1
+145,hasbled,bleeding_medications,S-429511000001103,Orudis 50mg capsules (Sanofi),1
+146,hasbled,bleeding_medications,S-155411000001100,Oruvail 100 modified-release capsules (Sanofi),1
+147,hasbled,bleeding_medications,S-345311000001100,Oruvail 200 modified-release capsules (Sanofi),1
+148,hasbled,bleeding_medications,S-657811000001107,Oruvail 150 modified-release capsules (Sanofi),1
+149,hasbled,bleeding_medications,S-419711000001102,Ketovail 100mg modified-release capsules (Teva UK Ltd),1
+150,hasbled,bleeding_medications,S-106011000001106,Ketovail 200mg modified-release capsules (Teva UK Ltd),1
+151,hasbled,bleeding_medications,S-482011000001109,Larafen CR 200mg capsules (Ennogen Pharma Ltd),1
+152,hasbled,bleeding_medications,S-294311000001102,Ketocid 200 modified-release capsules (Chiesi Ltd),1
+153,hasbled,bleeding_medications,S-98811000001106,Fenoket 200mg modified-release capsules (Opus Pharmaceuticals Ltd),1
+154,hasbled,bleeding_medications,S-8211000001106,Ketotard XL 200mg capsules (Galen Ltd),1
+155,hasbled,bleeding_medications,S-793611000001101,Valket 200 Retard capsules (Tillomed Laboratories Ltd),1
+156,hasbled,bleeding_medications,S-804611000001103,Tiloket CR 100mg capsules (Tillomed Laboratories Ltd),1
+157,hasbled,bleeding_medications,S-7498011000001100,Tiloket 50mg capsules (Tillomed Laboratories Ltd),1
+158,hasbled,bleeding_medications,S-29742611000001100,Tiloket CR 200mg capsules (Tillomed Laboratories Ltd),1
+159,hasbled,bleeding_medications,S-16148311000001100,Axorid 100mg/20mg modified-release capsules (Meda Pharmaceuticals Ltd),1
+160,hasbled,bleeding_medications,S-16140611000001100,Axorid 200mg/20mg modified-release capsules (Meda Pharmaceuticals Ltd),1
+161,hasbled,bleeding_medications,S-164411000001109,Mefenamic acid 250mg capsules (Zentiva),1
+162,hasbled,bleeding_medications,S-188111000001107,Mefenamic acid 250mg capsules (Alliance Healthcare (Distribution) Ltd),1
+163,hasbled,bleeding_medications,S-269111000001100,Mefenamic acid 250mg capsules (A A H Pharmaceuticals Ltd),1
+164,hasbled,bleeding_medications,S-756011000001108,Mefenamic acid 250mg capsules (Mylan),1
+165,hasbled,bleeding_medications,S-767711000001103,Mefenamic acid 250mg capsules (Kent Pharmaceuticals Ltd),1
+166,hasbled,bleeding_medications,S-10389911000001100,Mefenamic acid 250mg capsules (Arrow Generics Ltd),1
+167,hasbled,bleeding_medications,S-14945211000001100,Mefenamic acid 250mg capsules (Essential Generics Ltd),1
+168,hasbled,bleeding_medications,S-17939411000001100,Mefenamic acid 250mg capsules (Phoenix Healthcare Distribution Ltd),1
+169,hasbled,bleeding_medications,S-19310911000001100,Mefenamic acid 250mg capsules (Advanz Pharma),1
+170,hasbled,bleeding_medications,S-21791511000001100,Mefenamic acid 250mg capsules (Waymade Healthcare Plc),1
+171,hasbled,bleeding_medications,S-24378611000001100,Mefenamic acid 250mg capsules (DE Pharmaceuticals),1
+172,hasbled,bleeding_medications,S-29904711000001100,Mefenamic acid 250mg capsules (Sigma Pharmaceuticals Plc),1
+173,hasbled,bleeding_medications,S-186711000001109,Mefenamic acid 50mg/5ml oral suspension (Alliance Healthcare (Distribution) Ltd),1
+174,hasbled,bleeding_medications,S-10378911000001100,Ibuprofen 200mg tablets (Arrow Generics Ltd),1
+175,hasbled,bleeding_medications,S-11579811000001100,Ibuprofen 200mg tablets (Sandoz Ltd),1
+176,hasbled,bleeding_medications,S-13578911000001100,Ibuprofen 200mg tablets (DE Pharmaceuticals),1
+177,hasbled,bleeding_medications,S-14772411000001100,Ibuprofen 200mg tablets (Boston Healthcare Ltd),1
+178,hasbled,bleeding_medications,S-14784511000001100,Ibuprofen 200mg tablets (Galpharm International Ltd),1
+179,hasbled,bleeding_medications,S-16056611000001100,Ibuprofen 200mg tablets (Bristol Laboratories Ltd),1
+180,hasbled,bleeding_medications,S-17023611000001100,Ibuprofen 200mg tablets (BellSons & Co (Druggists) Ltd),1
+181,hasbled,bleeding_medications,S-17931411000001100,Ibuprofen 200mg tablets (Phoenix Healthcare Distribution Ltd),1
+182,hasbled,bleeding_medications,S-18074911000001100,Ibuprofen 200mg tablets (Fannin UK Ltd),1
+183,hasbled,bleeding_medications,S-18557911000001100,Ibuprofen 200mg caplets (Bristol Laboratories Ltd),1
+184,hasbled,bleeding_medications,S-22046511000001100,Ibuprofen 200mg tablets (Waymade Healthcare Plc),1
+185,hasbled,bleeding_medications,S-27170011000001100,Ibuprofen 200mg caplets (Wockhardt UK Ltd),1
+186,hasbled,bleeding_medications,S-28984611000001100,Ibuprofen 200mg tablets (Crescent Pharma Ltd),1
+187,hasbled,bleeding_medications,S-29875911000001100,Ibuprofen 200mg tablets (Sigma Pharmaceuticals Plc),1
+188,hasbled,bleeding_medications,S-30212411000001100,Ibuprofen 200mg tablets (Mawdsley-Brooks & Company Ltd),1
+189,hasbled,bleeding_medications,S-35851611000001100,Ibuprofen 200mg tablets (Medreich Plc),1
+190,hasbled,bleeding_medications,S-37862011000001104,Ibuprofen 200mg tablets (Actavis UK Ltd),1
+191,hasbled,bleeding_medications,S-1511000001104,Ibuprofen 400mg tablets (Teva UK Ltd),1
+192,hasbled,bleeding_medications,S-207911000001105,Ibuprofen 400mg tablets (Thornton & Ross Ltd),1
+193,hasbled,bleeding_medications,S-273411000001104,Ibuprofen 400mg tablets film coated (Actavis UK Ltd),1
+194,hasbled,bleeding_medications,S-333311000001102,Ibuprofen 400mg tablets (Vantage),1
+195,hasbled,bleeding_medications,S-415811000001107,Ibuprofen 400mg tablets sugar coated (Actavis UK Ltd),1
+196,hasbled,bleeding_medications,S-420811000001109,Ibuprofen 400mg tablets sugar coated (Kent Pharmaceuticals Ltd),1
+197,hasbled,bleeding_medications,S-434811000001101,Ibuprofen 400mg tablets (Sterwin Medicines),1
+198,hasbled,bleeding_medications,S-491911000001103,Ibuprofen 400mg tablets (Kent Pharmaceuticals Ltd),1
+199,hasbled,bleeding_medications,S-497111000001108,Ibuprofen 400mg tablets (Alliance Healthcare (Distribution) Ltd),1
+200,hasbled,bleeding_medications,S-522911000001108,Ibuprofen 400mg tablets (Aspar Pharmaceuticals Ltd),1
+201,hasbled,bleeding_medications,S-644111000001107,Ibuprofen 400mg tablets (Ranbaxy (UK) Ltd),1
+202,hasbled,bleeding_medications,S-714611000001102,Ibuprofen 400mg tablets (OBG Pharmaceuticals Ltd),1
+203,hasbled,bleeding_medications,S-18722511000001100,Diclofenac sodium 50mg gastro-resistant tablets (Sigma Pharmaceuticals Plc),1
+204,hasbled,bleeding_medications,S-20323711000001100,Diclofenac sodium 50mg gastro-resistant tablets (Genesis Pharmaceuticals Ltd),1
+205,hasbled,bleeding_medications,S-21943211000001100,Diclofenac sodium 50mg gastro-resistant tablets (Waymade Healthcare Plc),1
+206,hasbled,bleeding_medications,S-30049011000001100,Diclofenac sodium 50mg gastro-resistant tablets (DE Pharmaceuticals),1
+207,hasbled,bleeding_medications,S-30825611000001100,Diclofenac sodium 50mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd),1
+208,hasbled,bleeding_medications,S-34603211000001100,Diclofenac sodium 50mg gastro-resistant tablets (Medreich Plc),1
+209,hasbled,bleeding_medications,S-36785011000001104,Diclofenac sodium 50mg gastro-resistant tablets (Crescent Pharma Ltd),1
+210,hasbled,bleeding_medications,S-37926911000001104,Diclofenac sodium 50mg gastro-resistant tablets (Dexcel-Pharma Ltd),1
+211,hasbled,bleeding_medications,S-22679511000001100,Diclofenac sodium 50mg gastro-resistant / Misoprostol 200microgram tablets (A A H Pharmaceuticals Ltd),1
+212,hasbled,bleeding_medications,S-11634411000001100,Diclofenac 50mg/5ml oral solution (Special Order),1
+213,hasbled,bleeding_medications,S-8439611000001100,Diclofenac 25mg/5ml oral solution (Special Order),1
+214,hasbled,bleeding_medications,S-8440111000001100,Diclofenac 25mg/5ml oral suspension (Special Order),1
+215,hasbled,bleeding_medications,S-17359311000001100,Diclofenac 10mg dispersible tablets (Special Order),1
+216,hasbled,bleeding_medications,S-11632711000001100,Diclofenac 12.5mg/5ml oral suspension (Special Order),1
+217,hasbled,bleeding_medications,S-11633411000001100,Diclofenac 12.5mg/5ml oral solution (Special Order),1
+218,hasbled,bleeding_medications,S-8438311000001100,Diclofenac 10mg/5ml oral solution (Special Order),1
+219,hasbled,bleeding_medications,S-8438611000001100,Diclofenac 10mg/5ml oral suspension (Special Order),1
+220,hasbled,bleeding_medications,S-15238211000001100,Diclofenac 100mg/5ml oral solution (Special Order),1
+221,hasbled,bleeding_medications,S-15238511000001100,Diclofenac 100mg/5ml oral suspension (Special Order),1
+222,hasbled,bleeding_medications,S-28414411000001100,Diclofenac 40mg/5ml oral solution (Special Order),1
+223,hasbled,bleeding_medications,S-28414711000001100,Diclofenac 40mg/5ml oral suspension (Special Order),1
+224,hasbled,bleeding_medications,S-11615511000001100,Diclofenac 50mg/5ml oral suspension (Drug Tariff Special Order),1
+225,hasbled,bleeding_medications,S-2911000001100,Voltarol 25mg gastro-resistant tablets (Novartis Pharmaceuticals UK Ltd),1
+226,hasbled,bleeding_medications,S-745711000001100,Voltarol 50mg gastro-resistant tablets (Novartis Pharmaceuticals UK Ltd),1
+227,hasbled,bleeding_medications,S-804711000001107,Voltarol Retard 100mg tablets (Novartis Pharmaceuticals UK Ltd),1
+228,hasbled,bleeding_medications,S-3354811000001100,Voltarol 50mg dispersible tablets (Novartis Pharmaceuticals UK Ltd),1
+229,hasbled,bleeding_medications,S-763111000001107,Voltarol 75mg SR tablets (Novartis Pharmaceuticals UK Ltd),1
+230,hasbled,bleeding_medications,S-358411000001104,Rhumalgan CR 75 tablets (Sandoz Ltd),1
+231,hasbled,bleeding_medications,S-324811000001106,Rhumalgan CR 100 tablets (Sandoz Ltd),1
+232,hasbled,bleeding_medications,S-182611000001101,Diclofenac sodium 25mg gastro-resistant tablets (IVAX Pharmaceuticals UK Ltd),1
+233,hasbled,bleeding_medications,S-268911000001105,Diclofenac sodium 25mg gastro-resistant tablets (Sterwin Medicines),1
+234,hasbled,bleeding_medications,S-271711000001109,Diclofenac sodium 25mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd),1
+235,hasbled,bleeding_medications,S-326211000001100,Diclofenac sodium 25mg gastro-resistant tablets (Pfizer Ltd),1
+236,hasbled,bleeding_medications,S-530011000001108,Diclofenac sodium 25mg gastro-resistant tablets (Sandoz Ltd),1
+237,hasbled,bleeding_medications,S-534911000001102,Diclofenac sodium 25mg gastro-resistant tablets (Mylan),1
+238,hasbled,bleeding_medications,S-555811000001109,Diclofenac sodium 25mg gastro-resistant tablets (A A H Pharmaceuticals Ltd),1
+239,hasbled,bleeding_medications,S-780411000001108,Diclofenac sodium 25mg gastro-resistant tablets (Actavis UK Ltd),1
+240,hasbled,bleeding_medications,S-829411000001105,Diclofenac sodium 25mg gastro-resistant tablets (Kent Pharmaceuticals Ltd),1
+241,hasbled,bleeding_medications,S-10401011000001100,Diclofenac sodium 25mg gastro-resistant tablets (Arrow Generics Ltd),1
+242,hasbled,bleeding_medications,S-17891411000001100,Diclofenac sodium 25mg gastro-resistant tablets (Phoenix Healthcare Distribution Ltd),1
+243,hasbled,bleeding_medications,S-21943011000001100,Diclofenac sodium 25mg gastro-resistant tablets (Waymade Healthcare Plc),1
+244,hasbled,bleeding_medications,S-23862211000001100,Diclofenac sodium 25mg gastro-resistant tablets (DE Pharmaceuticals),1
+245,hasbled,bleeding_medications,S-34604011000001100,Diclofenac sodium 25mg gastro-resistant tablets (Medreich Plc),1
+246,hasbled,bleeding_medications,S-36784811000001104,Diclofenac sodium 25mg gastro-resistant tablets (Crescent Pharma Ltd),1
+247,hasbled,bleeding_medications,S-37236911000001104,Diclofenac sodium 25mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd),1
+248,hasbled,bleeding_medications,S-37926711000001104,Diclofenac sodium 25mg gastro-resistant tablets (Dexcel-Pharma Ltd),1
+249,hasbled,bleeding_medications,S-13011000001106,Diclofenac sodium 50mg gastro-resistant tablets (Actavis UK Ltd),1
+250,hasbled,bleeding_medications,S-137711000001101,Diclofenac sodium 50mg gastro-resistant tablets (Sterwin Medicines),1
+251,hasbled,bleeding_medications,S-252911000001102,Diclofenac sodium 50mg gastro-resistant tablets (Teva UK Ltd),1
+252,hasbled,bleeding_medications,S-256211000001107,Diclofenac sodium 50mg gastro-resistant tablets (Mylan),1
+253,hasbled,bleeding_medications,S-302411000001106,Diclofenac sodium 50mg gastro-resistant tablets (Kent Pharmaceuticals Ltd),1
+254,hasbled,bleeding_medications,S-547611000001101,Diclofenac sodium 50mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd),1
+255,hasbled,bleeding_medications,S-625011000001107,Diclofenac sodium 50mg gastro-resistant tablets (Sandoz Ltd),1
+256,hasbled,bleeding_medications,S-699311000001103,Diclofenac sodium 50mg gastro-resistant tablets (A A H Pharmaceuticals Ltd),1
+257,hasbled,bleeding_medications,S-700211000001105,Diclofenac sodium 50mg gastro-resistant tablets (Pfizer Ltd),1
+258,hasbled,bleeding_medications,S-741211000001109,Diclofenac sodium 50mg gastro-resistant tablets (IVAX Pharmaceuticals UK Ltd),1
+259,hasbled,bleeding_medications,S-10401211000001100,Diclofenac sodium 50mg gastro-resistant tablets (Arrow Generics Ltd),1
+260,hasbled,bleeding_medications,S-17891611000001100,Diclofenac sodium 50mg gastro-resistant tablets (Phoenix Healthcare Distribution Ltd),1
+261,hasbled,bleeding_medications,S-4626911000001100,Eccoxolac 300mg capsules (Meda Pharmaceuticals Ltd),1
+262,hasbled,bleeding_medications,S-10925311000001100,Etopan XL 600mg tablets (Sun Pharmaceutical Industries Europe B.V.),1
+263,hasbled,bleeding_medications,S-33548811000001100,Etolyn 600mg modified-release tablets (Mylan),1
+264,hasbled,bleeding_medications,S-866711000001104,Fenbufen 300mg capsules (Genus Pharmaceuticals Ltd),1
+265,hasbled,bleeding_medications,S-920011000001100,Fenbufen 300mg capsules (IVAX Pharmaceuticals UK Ltd),1
+266,hasbled,bleeding_medications,S-931711000001108,Fenbufen 300mg capsules (Alliance Healthcare (Distribution) Ltd),1
+267,hasbled,bleeding_medications,S-940111000001102,Fenbufen 300mg capsules (A A H Pharmaceuticals Ltd),1
+268,hasbled,bleeding_medications,S-343711000001102,Lederfen 450mg tablets (Mercury Pharma Group Ltd),1
+269,hasbled,bleeding_medications,S-3684611000001100,Fenopron 300 tablets (Typharm Ltd),1
+270,hasbled,bleeding_medications,S-3685511000001100,Fenopron 600 tablets (Typharm Ltd),1
+271,hasbled,bleeding_medications,S-323611000001109,Flurbiprofen 50mg tablets (Kent Pharmaceuticals Ltd),1
+272,hasbled,bleeding_medications,S-477611000001108,Flurbiprofen 50mg tablets (A A H Pharmaceuticals Ltd),1
+273,hasbled,bleeding_medications,S-510811000001107,Flurbiprofen 50mg tablets (Alliance Healthcare (Distribution) Ltd),1
+274,hasbled,bleeding_medications,S-574511000001107,Flurbiprofen 50mg tablets (Sandoz Ltd),1
+275,hasbled,bleeding_medications,S-825611000001105,Flurbiprofen 50mg tablets (Actavis UK Ltd),1
+276,hasbled,bleeding_medications,S-4820811000001100,Flurbiprofen 50mg tablets (Genus Pharmaceuticals Ltd),1
+277,hasbled,bleeding_medications,S-17909911000001100,Flurbiprofen 50mg tablets (Phoenix Healthcare Distribution Ltd),1
+278,hasbled,bleeding_medications,S-24616411000001100,Flurbiprofen 50mg tablets (Mylan),1
+279,hasbled,bleeding_medications,S-91911000001105,Flurbiprofen 100mg tablets (A A H Pharmaceuticals Ltd),1
+280,hasbled,bleeding_medications,S-363911000001106,Flurbiprofen 100mg tablets (Actavis UK Ltd),1
+281,hasbled,bleeding_medications,S-410711000001109,Flurbiprofen 100mg tablets (Alliance Healthcare (Distribution) Ltd),1
+282,hasbled,bleeding_medications,S-686111000001107,Flurbiprofen 100mg tablets (Sandoz Ltd),1
+283,hasbled,bleeding_medications,S-732111000001109,Flurbiprofen 100mg tablets (Kent Pharmaceuticals Ltd),1
+284,hasbled,bleeding_medications,S-4821011000001100,Flurbiprofen 100mg tablets (Genus Pharmaceuticals Ltd),1
+285,hasbled,bleeding_medications,S-17910111000001100,Flurbiprofen 100mg tablets (Phoenix Healthcare Distribution Ltd),1
+286,hasbled,bleeding_medications,S-22014911000001100,Flurbiprofen 100mg tablets (Waymade Healthcare Plc),1
+287,hasbled,bleeding_medications,S-24616611000001100,Flurbiprofen 100mg tablets (Mylan),1
+288,hasbled,bleeding_medications,S-762311000001104,Froben 50mg tablets (Abbott Laboratories Ltd),1
+289,hasbled,bleeding_medications,S-538211000001100,Froben 100mg tablets (Abbott Laboratories Ltd),1
+290,hasbled,bleeding_medications,S-779411000001108,Ibuprofen 400mg tablets (Sandoz Ltd),1
+291,hasbled,bleeding_medications,S-878411000001103,Ibuprofen 400mg tablets (IVAX Pharmaceuticals UK Ltd),1
+292,hasbled,bleeding_medications,S-913811000001105,Ibuprofen 400mg tablets (A A H Pharmaceuticals Ltd),1
+293,hasbled,bleeding_medications,S-4604211000001100,Ibuprofen 400mg tablets (Sussex Pharmaceutical Ltd),1
+294,hasbled,bleeding_medications,S-7928011000001100,Ibuprofen 400mg caplets (Lloyds Pharmacy Ltd),1
+295,hasbled,bleeding_medications,S-9502111000001100,Ibuprofen 400mg tablets (Wockhardt UK Ltd),1
+296,hasbled,bleeding_medications,S-9648711000001100,Ibuprofen 400mg tablets (Galpharm International Ltd),1
+297,hasbled,bleeding_medications,S-9746611000001100,Ibuprofen 400mg caplets (The Boots Company Plc),1
+298,hasbled,bleeding_medications,S-9816611000001100,Ibuprofen 400mg tablets (Almus Pharmaceuticals Ltd),1
+299,hasbled,bleeding_medications,S-10379111000001100,Ibuprofen 400mg tablets (Arrow Generics Ltd),1
+300,hasbled,bleeding_medications,S-11177511000001100,Ibuprofen 400mg tablets (Zentiva),1
+301,hasbled,bleeding_medications,S-13579211000001100,Ibuprofen 400mg tablets (DE Pharmaceuticals),1
+302,hasbled,bleeding_medications,S-14772911000001100,Ibuprofen 400mg tablets (Boston Healthcare Ltd),1
+303,hasbled,bleeding_medications,S-15055611000001100,Ibuprofen 400mg tablets (Sigma Pharmaceuticals Plc),1
+304,hasbled,bleeding_medications,S-16057111000001100,Ibuprofen 400mg tablets (Bristol Laboratories Ltd),1
+305,hasbled,bleeding_medications,S-17931611000001100,Ibuprofen 400mg tablets (Phoenix Healthcare Distribution Ltd),1
+306,hasbled,bleeding_medications,S-18075111000001100,Ibuprofen 400mg tablets (Fannin UK Ltd),1
+307,hasbled,bleeding_medications,S-18558411000001100,Ibuprofen 400mg caplets (Bristol Laboratories Ltd),1
+308,hasbled,bleeding_medications,S-22046911000001100,Ibuprofen 400mg tablets (Waymade Healthcare Plc),1
+309,hasbled,bleeding_medications,S-28984811000001100,Ibuprofen 400mg tablets (Crescent Pharma Ltd),1
+310,hasbled,bleeding_medications,S-30213011000001100,Ibuprofen 400mg tablets (Mawdsley-Brooks & Company Ltd),1
+311,hasbled,bleeding_medications,S-36042811000001104,Ibuprofen 400mg tablets (Medreich Plc),1
+312,hasbled,bleeding_medications,S-37062811000001104,Ibuprofen 400mg tablets (Relonchem Ltd),1
+313,hasbled,bleeding_medications,S-15711000001109,Ibuprofen 600mg tablets (Ranbaxy (UK) Ltd),1
+314,hasbled,bleeding_medications,S-25311000001101,Ibuprofen 600mg tablets (IVAX Pharmaceuticals UK Ltd),1
+315,hasbled,bleeding_medications,S-32011000001107,Ibuprofen 600mg tablets (Kent Pharmaceuticals Ltd),1
+316,hasbled,bleeding_medications,S-177111000001104,Ibuprofen 600mg tablets (OBG Pharmaceuticals Ltd),1
+317,hasbled,bleeding_medications,S-281911000001103,Ibuprofen 600mg tablets (Sandoz Ltd),1
+318,hasbled,bleeding_medications,S-334411000001107,Ibuprofen 600mg tablets (Alliance Healthcare (Distribution) Ltd),1
+319,hasbled,bleeding_medications,S-368211000001105,Naproxen 500mg gastro-resistant tablets (Mylan),1
+320,hasbled,bleeding_medications,S-678411000001107,Naproxen 500mg gastro-resistant tablets (IVAX Pharmaceuticals UK Ltd),1
+321,hasbled,bleeding_medications,S-692711000001105,Naproxen 500mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd),1
+322,hasbled,bleeding_medications,S-936011000001104,Naproxen 500mg gastro-resistant tablets (A A H Pharmaceuticals Ltd),1
+323,hasbled,bleeding_medications,S-11426811000001100,Naproxen 500mg gastro-resistant tablets (Almus Pharmaceuticals Ltd),1
+324,hasbled,bleeding_medications,S-16213011000001100,Naproxen 500mg gastro-resistant tablets (Ranbaxy (UK) Ltd),1
+325,hasbled,bleeding_medications,S-17945711000001100,Naproxen 500mg gastro-resistant tablets (Phoenix Healthcare Distribution Ltd),1
+326,hasbled,bleeding_medications,S-20325911000001100,Naproxen 500mg gastro-resistant tablets (Genesis Pharmaceuticals Ltd),1
+327,hasbled,bleeding_medications,S-21817911000001100,Naproxen 500mg gastro-resistant tablets (Waymade Healthcare Plc),1
+328,hasbled,bleeding_medications,S-29928711000001100,Naproxen 500mg gastro-resistant tablets (Sigma Pharmaceuticals Plc),1
+329,hasbled,bleeding_medications,S-30062811000001100,Naproxen 500mg gastro-resistant tablets (DE Pharmaceuticals),1
+330,hasbled,bleeding_medications,S-30850111000001100,Naproxen 500mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd),1
+331,hasbled,bleeding_medications,S-36781911000001104,Naproxen 500mg gastro-resistant tablets (Sovereign Medical Ltd),1
+332,hasbled,bleeding_medications,S-37999611000001104,Naproxen 500mg gastro-resistant tablets (Medreich Plc),1
+333,hasbled,bleeding_medications,S-658611000001107,Naproxen 375mg gastro-resistant tablets (Actavis UK Ltd),1
+334,hasbled,bleeding_medications,S-817811000001105,Naproxen 375mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd),1
+335,hasbled,bleeding_medications,S-842611000001103,Naproxen 375mg gastro-resistant tablets (Kent Pharmaceuticals Ltd),1
+336,hasbled,bleeding_medications,S-7898511000001100,Naproxen 375mg gastro-resistant tablets (A A H Pharmaceuticals Ltd),1
+337,hasbled,bleeding_medications,S-15236411000001100,Naproxen 375mg gastro-resistant tablets (Sigma Pharmaceuticals Plc),1
+338,hasbled,bleeding_medications,S-30062611000001100,Naproxen 375mg gastro-resistant tablets (DE Pharmaceuticals),1
+339,hasbled,bleeding_medications,S-37336111000001104,Naproxen 375mg gastro-resistant tablets (Sovereign Medical Ltd),1
+340,hasbled,bleeding_medications,S-37999411000001104,Naproxen 375mg gastro-resistant tablets (Medreich Plc),1
+341,hasbled,bleeding_medications,S-8637511000001100,Naproxen 125mg/5ml oral suspension (Special Order),1
+342,hasbled,bleeding_medications,S-8639711000001100,Naproxen 500mg/5ml oral suspension (Special Order),1
+343,hasbled,bleeding_medications,S-12257211000001100,Naproxen 100mg/5ml oral suspension (Special Order),1
+344,hasbled,bleeding_medications,S-12258411000001100,Naproxen 75mg/5ml oral suspension (Special Order),1
+345,hasbled,bleeding_medications,S-12257611000001100,Naproxen 200mg/5ml oral suspension (Drug Tariff Special Order),1
+346,hasbled,bleeding_medications,S-32636911000001100,Naproxen 25mg/ml oral suspension sugar free (Orion Pharma (UK) Ltd),1
+347,hasbled,bleeding_medications,S-32775911000001100,Naproxen 125mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd),1
+348,hasbled,bleeding_medications,S-802111000001103,Nabumetone 500mg tablets (Accord Healthcare Ltd),1
+349,hasbled,bleeding_medications,S-4870111000001100,Nabumetone 500mg tablets (Sandoz Ltd),1
+350,hasbled,bleeding_medications,S-5003211000001100,Nabumetone 500mg tablets (IVAX Pharmaceuticals UK Ltd),1
+351,hasbled,bleeding_medications,S-10301011000001100,Nabumetone 500mg tablets (Focus Pharmaceuticals Ltd),1
+352,hasbled,bleeding_medications,S-17308011000001100,Nabumetone 500mg tablets (Beechmere Pharmaceuticals Ltd),1
+353,hasbled,bleeding_medications,S-17944911000001100,Nabumetone 500mg tablets (Phoenix Healthcare Distribution Ltd),1
+354,hasbled,bleeding_medications,S-17966411000001100,Nabumetone 500mg tablets (Almus Pharmaceuticals Ltd),1
+355,hasbled,bleeding_medications,S-18080011000001100,Nabumetone 500mg tablets (Fannin UK Ltd),1
+356,hasbled,bleeding_medications,S-21816811000001100,Nabumetone 500mg tablets (Waymade Healthcare Plc),1
+357,hasbled,bleeding_medications,S-30062011000001100,Nabumetone 500mg tablets (DE Pharmaceuticals),1
+358,hasbled,bleeding_medications,S-35861211000001100,Nabumetone 500mg tablets (Tillomed Laboratories Ltd),1
+359,hasbled,bleeding_medications,S-32777811000001100,Nabumetone 500mg/5ml oral suspension (Special Order),1
+360,hasbled,bleeding_medications,S-3023411000001100,Relifex 500mg tablets (Mylan),1
+361,hasbled,bleeding_medications,S-329914002,Tenoxicam 20mg tablets,1
+362,hasbled,bleeding_medications,S-329907004,Acemetacin 60mg capsules,1
+363,hasbled,bleeding_medications,S-322299000,Naproxen sodium 275mg tablets,1
+364,hasbled,bleeding_medications,S-329925006,Aceclofenac 100mg tablets,1
+365,hasbled,bleeding_medications,S-329927003,Meloxicam 7.5mg tablets,1
+366,hasbled,bleeding_medications,S-329928008,Meloxicam 15mg tablets,1
+367,hasbled,bleeding_medications,S-22648611000001100,Meloxicam 15mg orodispersible tablets sugar free,1
+368,hasbled,bleeding_medications,S-22648711000001100,Meloxicam 7.5mg orodispersible tablets sugar free,1
+369,hasbled,bleeding_medications,S-4557011000001100,Ibuprofen lysine 200mg tablets,1
+370,hasbled,bleeding_medications,S-10245111000001100,Ibuprofen lysine 400mg tablets,1
+371,hasbled,bleeding_medications,S-21681311000001100,Ibuprofen lysine 400mg oral powder sachets,1
+372,hasbled,bleeding_medications,S-329963003,Dexketoprofen 25mg tablets,1
+373,hasbled,bleeding_medications,S-330163001,Rofecoxib 25mg tablets,1
+374,hasbled,bleeding_medications,S-329967002,Diclofenac potassium 25mg tablets,1
+375,hasbled,bleeding_medications,S-329968007,Diclofenac potassium 50mg tablets,1
+376,hasbled,bleeding_medications,S-14062911000001100,Diclofenac potassium 12.5mg tablets,1
+377,hasbled,bleeding_medications,S-735411000001107,Piroxicam 10mg capsules (Kent Pharmaceuticals Ltd),1
+378,hasbled,bleeding_medications,S-928911000001104,Piroxicam 10mg capsules (A A H Pharmaceuticals Ltd),1
+379,hasbled,bleeding_medications,S-9191811000001100,Piroxicam 10mg capsules (Sandoz Ltd),1
+380,hasbled,bleeding_medications,S-10403211000001100,Piroxicam 10mg capsules (Arrow Generics Ltd),1
+381,hasbled,bleeding_medications,S-17878511000001100,Piroxicam 10mg capsules (Phoenix Healthcare Distribution Ltd),1
+382,hasbled,bleeding_medications,S-18734211000001100,Piroxicam 10mg capsules (Sigma Pharmaceuticals Plc),1
+383,hasbled,bleeding_medications,S-21848811000001100,Piroxicam 10mg capsules (Waymade Healthcare Plc),1
+384,hasbled,bleeding_medications,S-28986111000001100,Piroxicam 10mg capsules (Crescent Pharma Ltd),1
+385,hasbled,bleeding_medications,S-30112511000001100,Piroxicam 10mg capsules (DE Pharmaceuticals),1
+386,hasbled,bleeding_medications,S-30857611000001100,Piroxicam 10mg capsules (Mawdsley-Brooks & Company Ltd),1
+387,hasbled,bleeding_medications,S-63311000001108,Piroxicam 20mg capsules (IVAX Pharmaceuticals UK Ltd),1
+388,hasbled,bleeding_medications,S-92811000001109,Piroxicam 20mg capsules (Mylan),1
+389,hasbled,bleeding_medications,S-146611000001109,Piroxicam 20mg capsules (Kent Pharmaceuticals Ltd),1
+390,hasbled,bleeding_medications,S-267611000001103,Piroxicam 20mg capsules (Alliance Healthcare (Distribution) Ltd),1
+391,hasbled,bleeding_medications,S-450411000001108,Piroxicam 20mg capsules (Approved Prescription Services Ltd),1
+392,hasbled,bleeding_medications,S-627511000001108,Piroxicam 20mg capsules (Actavis UK Ltd),1
+393,hasbled,bleeding_medications,S-694111000001101,Piroxicam 20mg capsules (The Boots Company Plc),1
+394,hasbled,bleeding_medications,S-723011000001101,Piroxicam 20mg capsules (A A H Pharmaceuticals Ltd),1
+395,hasbled,bleeding_medications,S-9192011000001100,Piroxicam 20mg capsules (Sandoz Ltd),1
+396,hasbled,bleeding_medications,S-10403611000001100,Piroxicam 20mg capsules (Arrow Generics Ltd),1
+397,hasbled,bleeding_medications,S-17878711000001100,Piroxicam 20mg capsules (Phoenix Healthcare Distribution Ltd),1
+398,hasbled,bleeding_medications,S-18734411000001100,Piroxicam 20mg capsules (Sigma Pharmaceuticals Plc),1
+399,hasbled,bleeding_medications,S-21849011000001100,Piroxicam 20mg capsules (Waymade Healthcare Plc),1
+400,hasbled,bleeding_medications,S-28986311000001100,Piroxicam 20mg capsules (Crescent Pharma Ltd),1
+401,hasbled,bleeding_medications,S-30112711000001100,Piroxicam 20mg capsules (DE Pharmaceuticals),1
+402,hasbled,bleeding_medications,S-30857811000001100,Piroxicam 20mg capsules (Mawdsley-Brooks & Company Ltd),1
+403,hasbled,bleeding_medications,S-361811000001100,Piroxicam 10mg dispersible tablets (Alliance Healthcare (Distribution) Ltd),1
+404,hasbled,bleeding_medications,S-455811000001104,Piroxicam 10mg dispersible tablets (Mylan),1
+405,hasbled,bleeding_medications,S-681811000001105,Piroxicam 10mg dispersible tablets (Kent Pharmaceuticals Ltd),1
+406,hasbled,bleeding_medications,S-10396611000001100,Naproxen 250mg tablets (Arrow Generics Ltd),1
+407,hasbled,bleeding_medications,S-13581711000001100,Naproxen 250mg tablets (DE Pharmaceuticals),1
+408,hasbled,bleeding_medications,S-13845911000001100,Naproxen 250mg tablets (Almus Pharmaceuticals Ltd),1
+409,hasbled,bleeding_medications,S-18464611000001100,Naproxen 250mg tablets (Accord Healthcare Ltd),1
+410,hasbled,bleeding_medications,S-18627511000001100,Naproxen 250mg tablets (Phoenix Healthcare Distribution Ltd),1
+411,hasbled,bleeding_medications,S-19195411000001100,Naproxen 250mg tablets (Milpharm Ltd),1
+412,hasbled,bleeding_medications,S-21818111000001100,Naproxen 250mg tablets (Waymade Healthcare Plc),1
+413,hasbled,bleeding_medications,S-28985211000001100,Naproxen 250mg tablets (Crescent Pharma Ltd),1
+414,hasbled,bleeding_medications,S-29928511000001100,Naproxen 250mg tablets (Sigma Pharmaceuticals Plc),1
+415,hasbled,bleeding_medications,S-30849711000001100,Naproxen 250mg tablets (Mawdsley-Brooks & Company Ltd),1
+416,hasbled,bleeding_medications,S-36011911000001100,Naproxen 250mg tablets (Genesis Pharmaceuticals Ltd),1
+417,hasbled,bleeding_medications,S-36597211000001104,Naproxen 250mg tablets (Bristol Laboratories Ltd),1
+418,hasbled,bleeding_medications,S-80711000001101,Naproxen 500mg tablets (Sterwin Medicines),1
+419,hasbled,bleeding_medications,S-161211000001108,Naproxen 500mg tablets (Actavis UK Ltd),1
+420,hasbled,bleeding_medications,S-220511000001107,Naproxen 500mg tablets (Teva UK Ltd),1
+421,hasbled,bleeding_medications,S-377711000001106,Naproxen 500mg tablets (Kent Pharmaceuticals Ltd),1
+422,hasbled,bleeding_medications,S-396811000001107,Naproxen 500mg tablets (A A H Pharmaceuticals Ltd),1
+423,hasbled,bleeding_medications,S-408811000001100,Naproxen 500mg tablets (IVAX Pharmaceuticals UK Ltd),1
+424,hasbled,bleeding_medications,S-447511000001108,Naproxen 500mg tablets (Mylan),1
+425,hasbled,bleeding_medications,S-481611000001108,Naproxen 500mg tablets (Wockhardt UK Ltd),1
+426,hasbled,bleeding_medications,S-521011000001101,Naproxen 500mg tablets (Alliance Healthcare (Distribution) Ltd),1
+427,hasbled,bleeding_medications,S-3224611000001100,Naproxen 500mg tablets (Pfizer Ltd),1
+428,hasbled,bleeding_medications,S-10396811000001100,Naproxen 500mg tablets (Arrow Generics Ltd),1
+429,hasbled,bleeding_medications,S-13846111000001100,Naproxen 500mg tablets (Almus Pharmaceuticals Ltd),1
+430,hasbled,bleeding_medications,S-18464911000001100,Naproxen 500mg tablets (Accord Healthcare Ltd),1
+431,hasbled,bleeding_medications,S-18627211000001100,Naproxen 500mg tablets (Phoenix Healthcare Distribution Ltd),1
+432,hasbled,bleeding_medications,S-19195611000001100,Naproxen 500mg tablets (Milpharm Ltd),1
+433,hasbled,bleeding_medications,S-21818311000001100,Naproxen 500mg tablets (Waymade Healthcare Plc),1
+434,hasbled,bleeding_medications,S-28985411000001100,Naproxen 500mg tablets (Crescent Pharma Ltd),1
+435,hasbled,renal_disease,S-950061000000103,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1 (disorder),1
+436,hasbled,renal_disease,S-949561000000100,Chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A2 (disorder),1
+437,hasbled,renal_disease,S-949401000000103,Chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A1 (disorder),1
+438,hasbled,renal_disease,S-950311000000102,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3 (disorder),1
+439,hasbled,bleeding_medications,S-15242611000001100,Diclofenac 100mg/5ml oral solution,1
+440,hasbled,bleeding_medications,S-15242711000001100,Diclofenac 100mg/5ml oral suspension,1
+441,hasbled,bleeding_medications,S-28422211000001100,Diclofenac 40mg/5ml oral solution,1
+442,hasbled,bleeding_medications,S-28422311000001100,Diclofenac 40mg/5ml oral suspension,1
+443,hasbled,bleeding_medications,S-11648711000001100,Diclofenac 50mg/5ml oral suspension,1
+444,hasbled,bleeding_medications,S-329612000,Diflunisal 250mg tablets,1
+445,hasbled,bleeding_medications,S-329620003,Etodolac 300mg capsules,1
+446,hasbled,bleeding_medications,S-329622006,Etodolac 600mg modified-release tablets,1
+447,hasbled,bleeding_medications,S-329630007,Fenbufen 300mg capsules,1
+448,hasbled,bleeding_medications,S-329641009,Fenoprofen 300mg tablets,1
+449,hasbled,bleeding_medications,S-329648003,Flurbiprofen 50mg tablets,1
+450,hasbled,bleeding_medications,S-329649006,Flurbiprofen 100mg tablets,1
+451,hasbled,bleeding_medications,S-370195008,Ibuprofen 200mg capsules,1
+452,hasbled,bleeding_medications,S-36045311000001104,Ibuprofen 300mg modified-release capsules,1
+453,hasbled,bleeding_medications,S-329710002,Ibuprofen 100mg/5ml oral suspension,1
+454,hasbled,bleeding_medications,S-329652003,Ibuprofen 200mg tablets,1
+455,hasbled,bleeding_medications,S-329653008,Ibuprofen 400mg tablets,1
+456,hasbled,bleeding_medications,S-329654002,Ibuprofen 600mg tablets,1
+457,hasbled,bleeding_medications,S-329677002,Ibuprofen 600mg effervescent granules sachets,1
+458,hasbled,bleeding_medications,S-329662005,Ibuprofen 800mg modified-release tablets,1
+459,hasbled,bleeding_medications,S-36045211000001104,Ibuprofen 300mg modified-release / Codeine 20mg tablets,1
+460,hasbled,bleeding_medications,S-10774611000001100,Ibuprofen 400mg capsules,1
+461,hasbled,bleeding_medications,S-329683004,Ibuprofen 200mg / Codeine 12.8mg tablets,1
+462,hasbled,bleeding_medications,S-36045011000001104,Ibuprofen 200mg modified-release capsules,1
+463,hasbled,bleeding_medications,S-329686007,Ibuprofen 100mg/5ml oral suspension sugar free,1
+464,hasbled,bleeding_medications,S-12637311000001100,Ibuprofen 200mg/5ml oral suspension,1
+465,hasbled,bleeding_medications,S-407904005,Ibuprofen 200mg / Pseudoephedrine hydrochloride 30mg tablets,1
+466,hasbled,bleeding_medications,S-4615511000001100,Ibuprofen 100mg/5ml oral suspension 5ml sachets sugar free,1
+467,hasbled,bleeding_medications,S-3875511000001100,Ibuprofen 200mg orodispersible tablets sugar free,1
+468,hasbled,bleeding_medications,S-329806007,Naproxen 250mg tablets,1
+469,hasbled,bleeding_medications,S-329807003,Naproxen 500mg tablets,1
+470,hasbled,bleeding_medications,S-329838002,Naproxen 250mg gastro-resistant tablets,1
+471,hasbled,bleeding_medications,S-329839005,Naproxen 500mg gastro-resistant tablets,1
+472,hasbled,bleeding_medications,S-36564511000001104,Naproxen 375mg gastro-resistant tablets,1
+473,hasbled,bleeding_medications,S-36030111000001104,Naproxen 500mg modified-release tablets,1
+474,hasbled,bleeding_medications,S-329852000,Naproxen 125mg/5ml oral suspension,1
+475,hasbled,bleeding_medications,S-8669811000001100,Naproxen 500mg/5ml oral suspension,1
+476,hasbled,bleeding_medications,S-12301311000001100,Naproxen 100mg/5ml oral suspension,1
+477,hasbled,bleeding_medications,S-12301611000001100,Naproxen 75mg/5ml oral suspension,1
+478,hasbled,bleeding_medications,S-18245811000001100,Naproxen 500mg / Esomeprazole 20mg modified-release tablets,1
+479,hasbled,bleeding_medications,S-12301411000001100,Naproxen 200mg/5ml oral suspension,1
+480,hasbled,bleeding_medications,S-31306711000001100,Naproxen 250mg effervescent tablets sugar free,1
+481,hasbled,bleeding_medications,S-32638811000001100,Naproxen 125mg/5ml oral suspension sugar free,1
+482,hasbled,bleeding_medications,S-8669711000001100,Naproxen 250mg/5ml oral suspension,1
+483,hasbled,bleeding_medications,S-329854004,Phenylbutazone 100mg tablets,1
+484,hasbled,bleeding_medications,S-347249002,Phenylbutazone 100mg gastro-resistant tablets,1
+485,hasbled,bleeding_medications,S-329855003,Phenylbutazone 200mg tablets,1
+486,hasbled,bleeding_medications,S-329862007,Piroxicam 10mg capsules,1
+487,hasbled,bleeding_medications,S-329863002,Piroxicam 20mg capsules,1
+488,hasbled,bleeding_medications,S-329881004,Piroxicam 10mg dispersible tablets,1
+489,hasbled,bleeding_medications,S-329882006,Piroxicam 20mg dispersible tablets,1
+490,hasbled,bleeding_medications,S-36017011000001100,Piroxicam 20mg orodispersible tablets sugar free,1
+491,hasbled,bleeding_medications,S-3439011000001100,Piroxicam betadex 20mg tablets,1
+492,hasbled,bleeding_medications,S-329887000,Sulindac 100mg tablets,1
+493,hasbled,bleeding_medications,S-329888005,Sulindac 200mg tablets,1
+494,hasbled,bleeding_medications,S-329896000,Tiaprofenic acid 300mg tablets,1
+495,hasbled,bleeding_medications,S-329910006,Nabumetone 500mg tablets,1
+496,hasbled,bleeding_medications,S-32778411000001100,Nabumetone 500mg/5ml oral suspension,1
+497,hasbled,bleeding_medications,S-927411000001108,Caprin 75mg gastro-resistant tablets,1
+498,hasbled,bleeding_medications,S-473711000001109,Enprin 75mg gastro-resistant tablets,1
+499,hasbled,bleeding_medications,S-281311000001104,Micropirin 75mg gastro-resistant tablets,1
+500,hasbled,bleeding_medications,S-445511000001104,Gencardia 75mg gastro-resistant tablets,1
+501,hasbled,bleeding_medications,S-17221711000001100,Pure Health Aspirin 75mg dispersible tablets,1
+502,hasbled,bleeding_medications,S-20536811000001100,Boots Aspirin 75mg gastro-resistant tablets,1
+503,hasbled,bleeding_medications,S-32968711000001100,Danamep 75mg dispersible tablets,1
+504,hasbled,bleeding_medications,S-35581511000001100,Mandaprin 75mg dispersible tablets,1
+505,hasbled,bleeding_medications,S-319799004,Clopidogrel 75mg tablets,1
+506,hasbled,bleeding_medications,S-15933611000001100,Clopidogrel 75mg tablets,1
+507,hasbled,bleeding_medications,S-27841311000001100,Clopidogrel 75mg tablets,1
+508,hasbled,bleeding_medications,S-15981011000001100,Clopidogrel 75mg tablets,1
+509,hasbled,bleeding_medications,S-15927711000001100,Clopidogrel 75mg tablets,1
+510,hasbled,bleeding_medications,S-21643011000001100,Clopidogrel 75mg tablets,1
+511,hasbled,bleeding_medications,S-15923011000001100,Clopidogrel 75mg tablets,1
+512,hasbled,bleeding_medications,S-18045011000001100,Clopidogrel 75mg tablets,1
+513,hasbled,bleeding_medications,S-17217211000001100,Clopidogrel 75mg tablets,1
+514,hasbled,bleeding_medications,S-30138011000001100,Clopidogrel 75mg tablets,1
+515,hasbled,bleeding_medications,S-17561911000001100,Clopidogrel 75mg tablets,1
+516,hasbled,bleeding_medications,S-18474811000001100,Clopidogrel 75mg tablets,1
+517,hasbled,bleeding_medications,S-32398611000001100,Clopidogrel 75mg tablets,1
+518,hasbled,bleeding_medications,S-29667511000001100,Clopidogrel 75mg tablets,1
+519,hasbled,bleeding_medications,S-30015311000001100,Clopidogrel 75mg tablets,1
+520,hasbled,bleeding_medications,S-38846011000001104,Clopidogrel 75mg tablets,1
+521,hasbled,bleeding_medications,S-23953911000001100,Clopidogrel 75mg tablets,1
+522,hasbled,bleeding_medications,S-16247711000001100,Clopidogrel 75mg tablets,1
+523,hasbled,bleeding_medications,S-17861911000001100,Clopidogrel 75mg tablets,1
+524,hasbled,bleeding_medications,S-24108111000001100,Clopidogrel 75mg tablets,1
+525,hasbled,bleeding_medications,S-18720411000001100,Clopidogrel 75mg tablets,1
+526,hasbled,stroke,S-16002031000119102,Cerebrovascular accident due to thrombus of right middle cerebral artery (disorder),1
+527,hasbled,stroke,S-16002111000119106,Cerebrovascular accident due to thrombus of left middle cerebral artery (disorder),1
+528,hasbled,bleeding_medications,S-15926111000001100,Clopidogrel 75mg tablets,1
+529,hasbled,bleeding_medications,S-36870711000001104,Clopidogrel 75mg tablets,1
+530,hasbled,bleeding_medications,S-21936211000001100,Clopidogrel 75mg tablets,1
+531,hasbled,bleeding_medications,S-18548711000001100,Clopidogrel 75mg tablets,1
+532,hasbled,bleeding_medications,S-22700111000001100,Clopidogrel 75mg tablets,1
+533,hasbled,bleeding_medications,S-8816311000001100,Clopidogrel 75mg oral powder sachets,1
+534,hasbled,bleeding_medications,S-8808611000001100,Clopidogrel 75mg oral powder sachets,1
+535,hasbled,bleeding_medications,S-16072911000001100,Clopidogrel 25mg/5ml oral suspension,1
+536,hasbled,bleeding_medications,S-16060011000001100,Clopidogrel 25mg/5ml oral suspension,1
+537,hasbled,bleeding_medications,S-429540001,Clopidogrel 300mg tablets,1
+538,hasbled,bleeding_medications,S-16089411000001100,Clopidogrel 11mg oral powder sachets,1
+539,hasbled,bleeding_medications,S-16087211000001100,Clopidogrel 11mg oral powder sachets,1
+540,hasbled,bleeding_medications,S-22342711000001100,Clopidogrel 4mg oral powder sachets,1
+541,hasbled,bleeding_medications,S-22334911000001100,Clopidogrel 4mg oral powder sachets,1
+542,hasbled,bleeding_medications,S-22402511000001100,Clopidogrel 75mg/5ml oral solution,1
+543,hasbled,bleeding_medications,S-22244311000001100,Clopidogrel 75mg/5ml oral solution,1
+544,hasbled,bleeding_medications,S-8426611000001100,Clopidogrel 75mg/5ml oral suspension,1
+545,hasbled,bleeding_medications,S-8400511000001100,Clopidogrel 75mg/5ml oral suspension,1
+546,hasbled,bleeding_medications,S-18747911000001100,Clopidogrel 1mg/ml oral suspension,1
+547,hasbled,bleeding_medications,S-18739811000001100,Clopidogrel 1mg/ml oral suspension,1
+548,hasbled,bleeding_medications,S-28415011000001100,Clopidogrel 5mg oral powder sachets,1
+549,hasbled,bleeding_medications,S-28407211000001100,Clopidogrel 5mg oral powder sachets,1
+550,hasbled,bleeding_medications,S-30919611000001100,Clopidogrel 6mg oral powder sachets,1
+551,hasbled,bleeding_medications,S-30874811000001100,Clopidogrel 6mg oral powder sachets,1
+552,hasbled,bleeding_medications,S-31140711000001100,Clopidogrel 3.5mg oral powder sachets,1
+553,hasbled,bleeding_medications,S-31135811000001100,Clopidogrel 3.5mg oral powder sachets,1
+554,hasbled,bleeding_medications,S-32392111000001100,Clopidogrel 6mg/ml oral suspension,1
+555,hasbled,bleeding_medications,S-32338411000001100,Clopidogrel 6mg/ml oral suspension,1
+556,hasbled,bleeding_medications,S-34682711000001100,Clopidogrel 7mg/ml oral suspension,1
+557,hasbled,bleeding_medications,S-8253811000001100,Aspirin 50mg/5ml oral suspension,1
+558,hasbled,bleeding_medications,S-12012911000001100,Aspirin 30mg/5ml oral solution,1
+559,hasbled,bleeding_medications,S-12013011000001100,Aspirin 30mg/5ml oral suspension,1
+560,hasbled,bleeding_medications,S-11978011000001100,Aspirin 30mg/5ml oral solution,1
+561,hasbled,bleeding_medications,S-11977711000001100,Aspirin 30mg/5ml oral suspension,1
+562,hasbled,bleeding_medications,S-12014011000001100,Aspirin 75mg/5ml oral solution,1
+563,hasbled,bleeding_medications,S-12014111000001100,Aspirin 75mg/5ml oral suspension,1
+564,hasbled,bleeding_medications,S-11982511000001100,Aspirin 75mg/5ml oral solution,1
+565,hasbled,bleeding_medications,S-11982011000001100,Aspirin 75mg/5ml oral suspension,1
+566,hasbled,bleeding_medications,S-12012211000001100,Aspirin 15mg/5ml oral solution,1
+567,hasbled,bleeding_medications,S-12012311000001100,Aspirin 15mg/5ml oral suspension,1
+568,hasbled,bleeding_medications,S-11972611000001100,Aspirin 15mg/5ml oral solution,1
+569,hasbled,bleeding_medications,S-11971811000001100,Aspirin 15mg/5ml oral suspension,1
+570,hasbled,bleeding_medications,S-12013211000001100,Aspirin 37.5mg/5ml oral solution,1
+571,hasbled,bleeding_medications,S-12013311000001100,Aspirin 37.5mg/5ml oral suspension,1
+572,hasbled,bleeding_medications,S-11978911000001100,Aspirin 37.5mg/5ml oral solution,1
+573,hasbled,bleeding_medications,S-11978311000001100,Aspirin 37.5mg/5ml oral suspension,1
+574,hasbled,bleeding_medications,S-8280211000001100,Aspirin 225mg/5ml oral solution,1
+575,hasbled,bleeding_medications,S-8280311000001100,Aspirin 225mg/5ml oral suspension,1
+576,hasbled,bleeding_medications,S-8248411000001100,Aspirin 225mg/5ml oral solution,1
+577,hasbled,bleeding_medications,S-8249211000001100,Aspirin 225mg/5ml oral suspension,1
+578,hasbled,bleeding_medications,S-16100911000001100,Aspirin 37.5mg oral powder sachets,1
+579,hasbled,bleeding_medications,S-16096411000001100,Aspirin 37.5mg oral powder sachets,1
+580,hasbled,bleeding_medications,S-14012211000001100,Aspirin 40mg oral powder sachets,1
+581,hasbled,bleeding_medications,S-13980411000001100,Aspirin 40mg oral powder sachets,1
+582,hasbled,bleeding_medications,S-800511000001106,Angettes 75 tablets,1
+583,hasbled,bleeding_medications,S-414311000001102,Nu-Seals 75 gastro-resistant tablets,1
+584,hasbled,bleeding_medications,S-636011000001100,PostMI 75 dispersible tablets,1
+585,hasbled,bleeding_medications,S-38411000001101,PostMI 75 EC tablets,1
+586,hasbled,bleeding_medications,S-34676811000001100,Clopidogrel 7mg/ml oral suspension,1
+587,hasbled,bleeding_medications,S-36903411000001104,Clopidogrel 5mg/5ml oral solution,1
+588,hasbled,bleeding_medications,S-36894011000001104,Clopidogrel 5mg/5ml oral solution,1
+589,hasbled,bleeding_medications,S-454611000001104,Plavix 75mg tablets,1
+590,hasbled,bleeding_medications,S-13663511000001100,Plavix 300mg tablets,1
+591,hasbled,bleeding_medications,S-15907411000001100,Grepid 75mg tablets,1
+592,hasbled,bleeding_medications,S-36069811000001104,Dipyridamole 10mg/2ml solution for injection ampoules,1
+593,hasbled,bleeding_medications,S-319758005,Dipyridamole 25mg tablets,1
+594,hasbled,bleeding_medications,S-848311000001106,Dipyridamole 25mg tablets,1
+595,hasbled,bleeding_medications,S-203211000001105,Dipyridamole 25mg tablets,1
+596,hasbled,bleeding_medications,S-894811000001102,Dipyridamole 25mg tablets,1
+597,hasbled,bleeding_medications,S-23877911000001100,Dipyridamole 25mg tablets,1
+598,hasbled,bleeding_medications,S-11020511000001100,Dipyridamole 25mg tablets,1
+599,hasbled,bleeding_medications,S-665111000001104,Dipyridamole 25mg tablets,1
+600,hasbled,bleeding_medications,S-38874111000001104,Dipyridamole 25mg tablets,1
+601,hasbled,bleeding_medications,S-17892911000001100,Dipyridamole 25mg tablets,1
+602,hasbled,bleeding_medications,S-29830011000001100,Dipyridamole 25mg tablets,1
+603,hasbled,bleeding_medications,S-21931011000001100,Dipyridamole 25mg tablets,1
+604,hasbled,bleeding_medications,S-319759002,Dipyridamole 100mg tablets,1
+605,hasbled,bleeding_medications,S-151611000001100,Dipyridamole 100mg tablets,1
+606,hasbled,bleeding_medications,S-787811000001109,Dipyridamole 100mg tablets,1
+607,hasbled,bleeding_medications,S-650711000001100,Dipyridamole 100mg tablets,1
+608,hasbled,bleeding_medications,S-17968711000001100,Dipyridamole 100mg tablets,1
+609,hasbled,bleeding_medications,S-23877611000001100,Dipyridamole 100mg tablets,1
+610,hasbled,bleeding_medications,S-11020711000001100,Dipyridamole 100mg tablets,1
+611,hasbled,bleeding_medications,S-477911000001102,Dipyridamole 100mg tablets,1
+612,hasbled,bleeding_medications,S-38873911000001104,Dipyridamole 100mg tablets,1
+613,hasbled,bleeding_medications,S-752511000001101,Dipyridamole 100mg tablets,1
+614,hasbled,bleeding_medications,S-17893111000001100,Dipyridamole 100mg tablets,1
+615,hasbled,renal_disease,S-731000119105,Chronic kidney disease stage 3 due to type 2 diabetes mellitus (disorder),1
+616,hasbled,bleeding_medications,S-29829411000001100,Dipyridamole 100mg tablets,1
+617,hasbled,bleeding_medications,S-21931211000001100,Dipyridamole 100mg tablets,1
+618,hasbled,bleeding_medications,S-8456611000001100,Dipyridamole 100mg/5ml oral solution,1
+619,hasbled,bleeding_medications,S-8456511000001100,Dipyridamole 100mg/5ml oral suspension,1
+620,hasbled,bleeding_medications,S-8441811000001100,Dipyridamole 100mg/5ml oral solution,1
+621,hasbled,bleeding_medications,S-8442111000001100,Dipyridamole 100mg/5ml oral suspension,1
+622,hasbled,bleeding_medications,S-12029811000001100,Dipyridamole 5mg/5ml oral solution,1
+623,hasbled,bleeding_medications,S-12029911000001100,Dipyridamole 5mg/5ml oral suspension,1
+624,hasbled,bleeding_medications,S-12028511000001100,Dipyridamole 5mg/5ml oral solution,1
+625,hasbled,bleeding_medications,S-12027211000001100,Dipyridamole 5mg/5ml oral suspension,1
+626,hasbled,bleeding_medications,S-12028311000001100,Dipyridamole 10mg/5ml oral solution,1
+627,hasbled,bleeding_medications,S-12028411000001100,Dipyridamole 10mg/5ml oral suspension,1
+628,hasbled,bleeding_medications,S-12011211000001100,Dipyridamole 10mg/5ml oral solution,1
+629,hasbled,bleeding_medications,S-12010311000001100,Dipyridamole 10mg/5ml oral suspension,1
+630,hasbled,bleeding_medications,S-36070011000001104,Dipyridamole 50mg/5ml oral suspension sugar free,1
+631,hasbled,bleeding_medications,S-3995111000001100,Dipyridamole 50mg/5ml oral suspension sugar free,1
+632,hasbled,bleeding_medications,S-104211000001106,Dipyridamole 50mg/5ml oral suspension sugar free,1
+633,hasbled,bleeding_medications,S-23969411000001100,Dipyridamole 50mg/5ml oral suspension sugar free,1
+634,hasbled,bleeding_medications,S-29674811000001100,Dipyridamole 50mg/5ml oral suspension sugar free,1
+635,hasbled,bleeding_medications,S-339811000001108,Dipyridamole 50mg/5ml oral suspension sugar free,1
+636,hasbled,bleeding_medications,S-15082611000001100,Dipyridamole 50mg/5ml oral suspension sugar free,1
+637,hasbled,bleeding_medications,S-22392411000001100,Dipyridamole 50mg/5ml oral suspension sugar free,1
+638,hasbled,bleeding_medications,S-8455811000001100,Dipyridamole 50mg/5ml oral solution,1
+639,hasbled,bleeding_medications,S-8445311000001100,Dipyridamole 50mg/5ml oral solution,1
+640,hasbled,bleeding_medications,S-8456411000001100,Dipyridamole 200mg/5ml oral solution,1
+641,hasbled,bleeding_medications,S-8444111000001100,Dipyridamole 200mg/5ml oral solution,1
+642,hasbled,bleeding_medications,S-8456211000001100,Dipyridamole 250mg/5ml oral solution,1
+643,hasbled,bleeding_medications,S-8456111000001100,Dipyridamole 250mg/5ml oral suspension,1
+644,hasbled,bleeding_medications,S-8445011000001100,Dipyridamole 250mg/5ml oral solution,1
+645,hasbled,bleeding_medications,S-8445511000001100,Dipyridamole 250mg/5ml oral suspension,1
+646,hasbled,bleeding_medications,S-8456011000001100,Dipyridamole 25mg/5ml oral solution,1
+647,hasbled,bleeding_medications,S-8455911000001100,Dipyridamole 25mg/5ml oral suspension,1
+648,hasbled,bleeding_medications,S-8445911000001100,Dipyridamole 25mg/5ml oral solution,1
+649,hasbled,bleeding_medications,S-8446211000001100,Dipyridamole 25mg/5ml oral suspension,1
+650,hasbled,bleeding_medications,S-12029011000001100,Dipyridamole 15mg/5ml oral solution,1
+651,hasbled,bleeding_medications,S-12029211000001100,Dipyridamole 15mg/5ml oral suspension,1
+652,hasbled,bleeding_medications,S-12016511000001100,Dipyridamole 15mg/5ml oral solution,1
+653,hasbled,bleeding_medications,S-12014911000001100,Dipyridamole 15mg/5ml oral suspension,1
+654,hasbled,bleeding_medications,S-12029611000001100,Dipyridamole 30mg/5ml oral solution,1
+655,hasbled,bleeding_medications,S-12029711000001100,Dipyridamole 30mg/5ml oral suspension,1
+656,hasbled,bleeding_medications,S-12025511000001100,Dipyridamole 30mg/5ml oral solution,1
+657,hasbled,bleeding_medications,S-12023911000001100,Dipyridamole 30mg/5ml oral suspension,1
+658,hasbled,bleeding_medications,S-12029311000001100,Dipyridamole 20mg/5ml oral solution,1
+659,hasbled,bleeding_medications,S-12029511000001100,Dipyridamole 20mg/5ml oral suspension,1
+660,hasbled,bleeding_medications,S-12021211000001100,Dipyridamole 20mg/5ml oral solution,1
+661,hasbled,bleeding_medications,S-12018111000001100,Dipyridamole 20mg/5ml oral suspension,1
+662,hasbled,bleeding_medications,S-12028711000001100,Dipyridamole 12.5mg/5ml oral solution,1
+663,hasbled,bleeding_medications,S-12028811000001100,Dipyridamole 12.5mg/5ml oral suspension,1
+664,hasbled,bleeding_medications,S-12012711000001100,Dipyridamole 12.5mg/5ml oral solution,1
+665,hasbled,bleeding_medications,S-12011911000001100,Dipyridamole 12.5mg/5ml oral suspension,1
+666,hasbled,bleeding_medications,S-31948811000001100,Dipyridamole 200mg/5ml oral suspension sugar free,1
+667,hasbled,bleeding_medications,S-32502011000001100,Dipyridamole 200mg/5ml oral suspension sugar free,1
+668,hasbled,bleeding_medications,S-32419011000001100,Dipyridamole 200mg/5ml oral suspension sugar free,1
+669,hasbled,bleeding_medications,S-31940111000001100,Dipyridamole 200mg/5ml oral suspension sugar free,1
+670,hasbled,bleeding_medications,S-8456311000001100,Dipyridamole 200mg/5ml oral suspension,1
+671,hasbled,bleeding_medications,S-8444611000001100,Dipyridamole 200mg/5ml oral suspension,1
+672,hasbled,bleeding_medications,S-635611000001102,Persantin 25mg tablets,1
+673,hasbled,bleeding_medications,S-623011000001106,Persantin 100mg tablets,1
+674,hasbled,bleeding_medications,S-37927211000001104,Aspirin 75mg gastro-resistant tablets,1
+675,hasbled,bleeding_medications,S-844511000001107,Aspirin 75mg gastro-resistant tablets,1
+676,hasbled,bleeding_medications,S-592811000001109,Aspirin 75mg gastro-resistant tablets,1
+677,hasbled,bleeding_medications,S-50611000001102,Aspirin 75mg gastro-resistant tablets,1
+678,hasbled,bleeding_medications,S-12534311000001100,Aspirin 75mg gastro-resistant tablets,1
+679,hasbled,bleeding_medications,S-29996711000001100,Aspirin 75mg gastro-resistant tablets,1
+680,hasbled,bleeding_medications,S-38797311000001104,Aspirin 75mg gastro-resistant tablets,1
+681,hasbled,bleeding_medications,S-795611000001102,Aspirin 75mg gastro-resistant tablets,1
+682,hasbled,bleeding_medications,S-17786111000001100,Aspirin 75mg gastro-resistant tablets,1
+683,hasbled,bleeding_medications,S-476711000001102,Aspirin 75mg gastro-resistant tablets,1
+684,hasbled,bleeding_medications,S-29771211000001100,Aspirin 75mg gastro-resistant tablets,1
+685,hasbled,bleeding_medications,S-370411000001104,Aspirin 75mg gastro-resistant tablets,1
+686,hasbled,bleeding_medications,S-295211000001106,Aspirin 75mg gastro-resistant tablets,1
+687,hasbled,bleeding_medications,S-21777711000001100,Aspirin 75mg gastro-resistant tablets,1
+688,hasbled,bleeding_medications,S-16431611000001100,Aspirin 75mg gastro-resistant tablets,1
+689,hasbled,bleeding_medications,S-15967511000001100,Aspirin 75mg gastro-resistant tablets,1
+690,hasbled,bleeding_medications,S-30798211000001100,Aspirin 25mg capsules,1
+691,hasbled,bleeding_medications,S-30791611000001100,Aspirin 25mg capsules,1
+692,hasbled,bleeding_medications,S-12012511000001100,Aspirin 25mg/5ml oral solution,1
+693,hasbled,bleeding_medications,S-12012611000001100,Aspirin 25mg/5ml oral suspension,1
+694,hasbled,bleeding_medications,S-11977111000001100,Aspirin 25mg/5ml oral solution,1
+695,hasbled,bleeding_medications,S-11973211000001100,Aspirin 25mg/5ml oral suspension,1
+696,hasbled,bleeding_medications,S-12013511000001100,Aspirin 40mg/5ml oral solution,1
+697,hasbled,bleeding_medications,S-12013711000001100,Aspirin 40mg/5ml oral suspension,1
+698,hasbled,bleeding_medications,S-11980211000001100,Aspirin 40mg/5ml oral solution,1
+699,hasbled,bleeding_medications,S-11979511000001100,Aspirin 40mg/5ml oral suspension,1
+700,hasbled,bleeding_medications,S-8280711000001100,Aspirin 50mg/5ml oral solution,1
+701,hasbled,bleeding_medications,S-8280811000001100,Aspirin 50mg/5ml oral suspension,1
+702,hasbled,bleeding_medications,S-8253111000001100,Aspirin 50mg/5ml oral solution,1
+703,hasbled,bleeding_medications,S-12013811000001100,Aspirin 62.5mg/5ml oral solution,1
+704,hasbled,bleeding_medications,S-12013911000001100,Aspirin 62.5mg/5ml oral suspension,1
+705,hasbled,bleeding_medications,S-11981411000001100,Aspirin 62.5mg/5ml oral solution,1
+706,hasbled,bleeding_medications,S-11980811000001100,Aspirin 62.5mg/5ml oral suspension,1
+707,hasbled,bleeding_medications,S-12012111000001100,Aspirin 100mg/5ml oral solution,1
+708,hasbled,bleeding_medications,S-11712811000001100,Aspirin 100mg/5ml oral suspension,1
+709,hasbled,bleeding_medications,S-11968411000001100,Aspirin 100mg/5ml oral solution,1
+710,hasbled,bleeding_medications,S-11692711000001100,Aspirin 100mg/5ml oral suspension,1
+711,hasbled,bleeding_medications,S-10064711000001100,Aspirin 75mg effervescent tablets,1
+712,hasbled,bleeding_medications,S-10063211000001100,Aspirin 75mg effervescent tablets,1
+713,hasbled,bleeding_medications,S-10063011000001100,Aspirin 75mg effervescent tablets,1
+714,hasbled,bleeding_medications,S-319773006,Aspirin 75mg dispersible tablets,1
+715,hasbled,bleeding_medications,S-765111000001108,Aspirin 75mg dispersible tablets,1
+716,hasbled,bleeding_medications,S-916711000001109,Aspirin 75mg dispersible tablets,1
+717,hasbled,bleeding_medications,S-595211000001103,Aspirin 75mg dispersible tablets,1
+718,hasbled,bleeding_medications,S-9789111000001100,Aspirin 75mg dispersible tablets,1
+719,hasbled,bleeding_medications,S-698811000001100,Aspirin 75mg dispersible tablets,1
+720,hasbled,bleeding_medications,S-15985111000001100,Aspirin 75mg dispersible tablets,1
+721,hasbled,bleeding_medications,S-22610611000001100,Aspirin 75mg dispersible tablets,1
+722,hasbled,bleeding_medications,S-163411000001106,Aspirin 75mg dispersible tablets,1
+723,hasbled,bleeding_medications,S-173911000001105,Aspirin 75mg dispersible tablets,1
+724,hasbled,bleeding_medications,S-12430611000001100,Aspirin 75mg dispersible tablets,1
+725,hasbled,bleeding_medications,S-37148811000001104,Aspirin 75mg dispersible tablets,1
+726,hasbled,bleeding_medications,S-29996011000001100,Aspirin 75mg dispersible tablets,1
+727,hasbled,bleeding_medications,S-38796611000001104,Aspirin 75mg dispersible tablets,1
+728,hasbled,bleeding_medications,S-13662311000001100,Aspirin 75mg dispersible tablets,1
+729,hasbled,bleeding_medications,S-17785711000001100,Aspirin 75mg dispersible tablets,1
+730,hasbled,bleeding_medications,S-15069611000001100,Aspirin 75mg dispersible tablets,1
+731,hasbled,renal_disease,S-324411000000105,Chronic kidney disease stage 3B without proteinuria (disorder),1
+732,hasbled,stroke,S-329641000119104,Cerebrovascular accident due to thrombus of basilar artery (disorder),1
+733,hasbled,renal_disease,S-324281000000104,Chronic kidney disease stage 3 without proteinuria (disorder),1
+734,hasbled,renal_disease,S-324211000000106,Chronic kidney disease stage 2 without proteinuria (disorder),1
+735,hasbled,renal_disease,S-324471000000100,Chronic kidney disease stage 4 without proteinuria (disorder),1
+736,hasbled,renal_disease,S-324151000000104,Chronic kidney disease stage 1 without proteinuria (disorder),1
+737,hasbled,renal_disease,S-129171000119106,Chronic kidney disease stage 3 due to hypertension (disorder),1
+738,hasbled,liver_disease,S-235910007,Liver transplant disorder (disorder),1
+739,hasbled,liver_disease,S-197362001,Toxic liver disease with fibrosis and cirrhosis of liver (disorder),1
+740,hasbled,liver_disease,S-253807009,Intrahepatic biliary atresia (disorder),1
+741,hasbled,liver_disease,S-213153001,Liver transplant failure and rejection (disorder),1
+742,hasbled,liver_disease,S-195475003,Esophageal varices with bleeding associated with another disorder (disorder),1
+743,hasbled,liver_disease,S-235884008,Fulminant hepatic failure (disorder),1
+744,hasbled,renal_disease,S-324371000000106,Chronic kidney disease stage 3B with proteinuria (disorder),1
+745,hasbled,renal_disease,S-324121000000109,Chronic kidney disease stage 1 with proteinuria (disorder),1
+746,hasbled,renal_disease,S-324501000000107,Chronic kidney disease stage 5 with proteinuria (disorder),1
+747,hasbled,renal_disease,S-324251000000105,Chronic kidney disease stage 3 with proteinuria (disorder),1
+748,hasbled,renal_disease,S-324181000000105,Chronic kidney disease stage 2 with proteinuria (disorder),1
+749,hasbled,renal_disease,S-324541000000105,Chronic kidney disease stage 5 without proteinuria (disorder),1
+750,hasbled,renal_disease,S-950081000000107,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2 (disorder),1
+751,hasbled,liver_disease,S-91109007,Gastric varices (disorder),1
+752,hasbled,liver_disease,S-43904005,Macronodular cirrhosis (disorder),1
+753,hasbled,liver_disease,S-362421000000102,Chronic hepatitis annual review - enhanced services administration (procedure),1
+754,hasbled,liver_disease,S-34742003,Portal hypertension (disorder),1
+755,hasbled,liver_disease,S-51292008,Hepatorenal syndrome (disorder),1
+756,hasbled,liver_disease,S-235916001,Ichthyosis congenita with biliary atresia (disorder),1
+757,hasbled,liver_disease,S-60037002,Chronic persistent viral hepatitis (disorder),1
+758,hasbled,liver_disease,S-432777003,Accelerated rejection of liver transplant (disorder),1
+759,hasbled,liver_disease,S-725939009,Cirrhosis of liver caused by amiodarone (disorder),1
+760,hasbled,liver_disease,S-768006009,Chronic hepatitis C caused by Hepatitis C virus genotype 3 (disorder),1
+761,hasbled,liver_disease,S-725940006,Cirrhosis of liver caused by methyldopa (disorder),1
+762,hasbled,liver_disease,S-853761000000103,Living donor liver transplantation (procedure),1
+763,hasbled,stroke,S-724424009,Cerebral ischemic stroke due to small artery occlusion (disorder),1
+764,hasbled,liver_disease,S-235911006,Liver transplant rejection (disorder),1
+765,hasbled,liver_disease,S-197361008,Toxic liver disease with chronic active hepatitis (disorder),1
+766,hasbled,liver_disease,S-419728003,Portal cirrhosis (disorder),1
+767,hasbled,liver_disease,S-235886005,Chronic hepatic failure (disorder),1
+768,hasbled,liver_disease,S-173639004,Fiberoptic esophagoscopy and injection sclerotherapy of varices (procedure),1
+769,hasbled,liver_disease,S-307757001,Chronic alcoholic hepatitis (disorder),1
+770,hasbled,renal_disease,S-324311000000101,Chronic kidney disease stage 3A with proteinuria (disorder),1
+771,hasbled,renal_disease,S-950211000000107,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2 (disorder),1
+772,hasbled,stroke,S-230715005,Posterior circulation stroke of uncertain pathology (disorder),1
+773,hasbled,renal_disease,S-714152005,Chronic kidney disease stage 5 on dialysis (disorder),1
+774,hasbled,alcohol,S-160592001,Alcohol intake above recommended sensible limits (finding),1
+775,hasbled,stroke,S-195185009,Cerebral infarct due to thrombosis of precerebral arteries,1
+776,hasbled,liver_disease,S-708248004,End stage liver disease (disorder),1
+777,hasbled,liver_disease,S-62216007,Familial arthrogryposis-cholestatic hepatorenal syndrome (disorder),1
+778,hasbled,liver_disease,S-735733008,Cirrhosis of liver co-occurrent and due to primary sclerosing cholangitis (disorder),1
+779,hasbled,liver_disease,S-19682006,Lupus hepatitis (disorder),1
+780,hasbled,liver_disease,S-1116000,Chronic aggressive type B viral hepatitis (disorder),1
+781,hasbled,stroke,S-276722003,Intracerebellar and posterior fossa hemorrhage (disorder),1
+782,hasbled,liver_disease,S-195474004,Esophageal varices associated with another disorder (disorder),1
+783,hasbled,liver_disease,S-1287007,Congenital absence of bile duct (disorder),1
+784,hasbled,liver_disease,S-128302006,Chronic hepatitis C (disorder),1
+785,hasbled,liver_disease,S-20415001,Progressive sclerosing poliodystrophy (disorder),1
+786,hasbled,liver_disease,S-197310003,Biliary cirrhosis of children (disorder),1
+787,hasbled,liver_disease,S-235901004,Hepatic fibrosis with hepatic sclerosis (disorder),1
+788,hasbled,liver_disease,S-737297006,Transplanted liver present (finding),1
+789,hasbled,liver_disease,S-266468003,Cirrhosis - non-alcoholic (disorder),1
+790,hasbled,liver_disease,S-235885009,Subfulminant hepatic failure (disorder),1
+791,hasbled,liver_disease,S-173661009,Rigid esophagoscopy and banding of esophageal varices (procedure),1
+792,hasbled,liver_disease,S-79607001,Congenital hepatic fibrosis (disorder),1
+793,hasbled,alcohol,S-160578007,Very heavy drinker - greater than 9 units/day (finding),1
+794,hasbled,liver_disease,S-424099008,Hepatic coma due to acute hepatitis B (disorder),1
+795,hasbled,liver_disease,S-425413006,Drug-induced cirrhosis of liver (disorder),1
+796,hasbled,liver_disease,S-737202006,Fibropolycystic disease of liver (disorder),1
+797,hasbled,liver_disease,S-61477008,Incision and exploration of liver (procedure),1
+798,hasbled,liver_disease,S-26206000,Hepatic coma due to viral hepatitis B (disorder),1
+799,hasbled,liver_disease,S-536002,Glissonian cirrhosis (disorder),1
+800,hasbled,liver_disease,S-713370005,Acute on chronic alcoholic liver disease (disorder),1
+801,hasbled,liver_disease,S-123605001,Nutritional cirrhosis (disorder),1
+802,hasbled,liver_disease,S-768125005,Chronic hepatitis C caused by Hepatitis C virus genotype 2 (disorder),1
+803,hasbled,liver_disease,S-725416005,Cardiomyopathy co-occurrent and due to cirrhosis of liver (disorder),1
+804,hasbled,liver_disease,S-767810006,Chronic hepatitis C caused by hepatitis C virus genotype 5 (disorder),1
+805,hasbled,liver_disease,S-235870003,Chronic non-A non-B hepatitis (disorder),1
+806,hasbled,liver_disease,S-21861000,Micronodular cirrhosis (disorder),1
+807,hasbled,liver_disease,S-31742004,Arteriohepatic dysplasia (disorder),1
+808,hasbled,liver_disease,S-174427006,Replacement of previous liver transplant (procedure),1
+809,hasbled,liver_disease,S-271440004,Cirrhosis secondary to cholestasis (disorder),1
+810,hasbled,alcohol,S-228316000,Alcoholic binges exceeding sensible amounts (finding),1
+811,hasbled,alcohol,S-10939900000000000,Unhealthy alcohol drinking behavior (finding),1
+812,hasbled,liver_disease,S-235900003,Portal and splenic vein sclerosis (disorder),1
+813,hasbled,liver_disease,S-82821008,Congenital atresia of extrahepatic bile duct (disorder),1
+814,hasbled,liver_disease,S-773411000000107,Liver failure support management (procedure),1
+815,hasbled,liver_disease,S-197296006,Capsular portal cirrhosis (disorder),1
+816,hasbled,liver_disease,S-266471006,Juvenile portal cirrhosis (disorder),1
+817,hasbled,stroke,S-734383005,Thrombosis of left middle cerebral artery (disorder),1
+818,hasbled,liver_disease,S-408335007,Autoimmune hepatitis (disorder),1
+819,hasbled,liver_disease,S-235897005,Hypoxia-associated cirrhosis (disorder),1
+820,hasbled,liver_disease,S-174425003,Orthotopic liver transplant (procedure),1
+821,hasbled,liver_disease,S-197360009,Toxic liver disease with chronic lobular hepatitis (disorder),1
+822,hasbled,liver_disease,S-6183001,Indian childhood cirrhosis (disorder),1
+823,hasbled,liver_disease,S-18027006,Transplantation of liver (procedure),1
+824,hasbled,stroke,S-195201005,Multiple and bilateral precerebral artery syndromes,1
+825,hasbled,liver_disease,S-173679008,Balloon tamponade of esophagus (procedure),1
+826,hasbled,liver_disease,S-265437009,Exploration of liver (procedure),1
+827,hasbled,liver_disease,S-76783007,Chronic hepatitis (disorder),1
+828,hasbled,liver_disease,S-197291001,Unilobular portal cirrhosis (disorder),1
+829,hasbled,liver_disease,S-79720007,Chronic nonalcoholic liver disease (disorder),1
+830,hasbled,renal_disease,S-950181000000106,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A1 (disorder),1
+831,hasbled,alcohol,S-228317009,Alcoholic binges exceeding safe amounts (finding),1
+832,hasbled,stroke,S-308128006,Right sided intracerebral hemorrhage unspecified,1
+833,hasbled,renal_disease,S-700379002,Chronic kidney disease stage 3B (disorder),1
+834,hasbled,liver_disease,S-61977001,Chronic type B viral hepatitis (disorder),1
+835,hasbled,liver_disease,S-776981000000103,Cirrhosis associated with cystic fibrosis (disorder),1
+836,hasbled,liver_disease,S-81675001,Chronic yellow atrophy of liver (disorder),1
+837,hasbled,liver_disease,S-235881000,Alcoholic hepatic failure (disorder),1
+838,hasbled,liver_disease,S-1761006,Biliary cirrhosis (disorder),1
+839,hasbled,liver_disease,S-62484002,Hepatic fibrosis (disorder),1
+840,hasbled,renal_disease,S-431855005,Chronic kidney disease stage 1 (disorder),1
+841,hasbled,stroke,S-281240008,Extension of cerebrovascular accident (disorder),1
+842,hasbled,liver_disease,S-197286002,Recurrent hepatitis (disorder),1
+843,hasbled,liver_disease,S-235869004,Chronic viral hepatitis B with hepatitis D (disorder),1
+844,hasbled,liver_disease,S-235899008,Hepatic sclerosis (disorder),1
+845,hasbled,liver_disease,S-213231008,Hepatorenal syndrome as a complication of care (disorder),1
+846,hasbled,liver_disease,S-17709002,Bleeding esophageal varices (disorder),1
+847,hasbled,liver_disease,S-9953008,Acute alcoholic liver disease (disorder),1
+848,hasbled,liver_disease,S-50325005,Alcoholic fatty liver (disorder),1
+849,hasbled,liver_disease,S-197279005,Cirrhosis and chronic liver disease (disorder),1
+850,hasbled,liver_disease,S-77480004,Congenital biliary atresia (disorder),1
+851,hasbled,liver_disease,S-59927004,Hepatic failure (disorder),1
+852,hasbled,stroke,S-195168007,Intracerebral haemorrhage intraventricular,1
+853,hasbled,stroke,S-16000511000119104,Cerebrovascular accident due to occlusion of left middle cerebral artery (disorder),1
+854,hasbled,stroke,S-195209007,Middle cerebral artery syndrome (disorder),1
+855,hasbled,liver_disease,S-426356008,Orthotopic transplantation of whole liver (procedure),1
+856,hasbled,liver_disease,S-74669004,Cardiac cirrhosis (disorder),1
+857,hasbled,liver_disease,S-266469006,Multilobular portal cirrhosis (disorder),1
+858,hasbled,liver_disease,S-76301009,Florid cirrhosis (disorder),1
+859,hasbled,liver_disease,S-123604002,Toxic cirrhosis (disorder),1
+860,hasbled,alcohol,S-198421000000000,Hazardous alcohol use (finding),1
+861,hasbled,stroke,S-413102000,Infarction of basal ganglia (disorder),1
+862,hasbled,stroke,S-95454007,Brain stem hemorrhage (disorder),1
+863,hasbled,stroke,S-1089411000000104,Cerebral infarction due to occlusion of cerebral artery (disorder),1
+864,hasbled,stroke,S-195217004,Right sided cerebral hemisphere cerebrovascular accident (disorder),1
+865,hasbled,stroke,S-230698000,Lacunar infarction,1
+866,hasbled,stroke,S-371041009,Embolic stroke (disorder),1
+867,hasbled,stroke,S-195213000,Cerebellar stroke syndrome (disorder),1
+868,hasbled,stroke,S-1078001000000105,Haemorrhagic stroke (disorder),1
+869,hasbled,alcohol,S-198431000000000,Harmful alcohol use (finding),1
+870,hasbled,stroke,S-16371781000119100,Cerebellar stroke (disorder),1
+871,hasbled,stroke,S-195212005,Brainstem stroke syndrome (disorder),1
+872,hasbled,stroke,S-195200006,Carotid artery syndrome hemispheric,1
+873,hasbled,stroke,S-297138001,Embolus of circle of Willis (disorder),1
+874,hasbled,stroke,S-444172003,Recurrent transient cerebral ischemic attack (disorder),1
+875,hasbled,stroke,S-195216008,Left sided cerebral hemisphere cerebrovascular accident,1
+876,hasbled,stroke,S-20059004,Occlusion of cerebral artery (disorder),1
+877,hasbled,renal_disease,S-129151000119102,Chronic kidney disease stage 4 due to hypertension (disorder),1
+878,hasbled,stroke,S-230709005,Massive supratentorial cerebral hemorrhage (disorder),1
+879,hasbled,stroke,S-276222004,Top of basilar syndrome (disorder),1
+880,hasbled,stroke,S-195186005,Cerebral infarction due to embolism of precerebral arteries,1
+881,hasbled,stroke,S-195167002,External capsule hemorrhage,1
+882,hasbled,stroke,S-734384004,Thrombosis of right middle cerebral artery (disorder),1
+883,hasbled,stroke,S-195210002,Anterior cerebral artery syndrome,1
+884,hasbled,stroke,S-432504007,Cerebral infarction (disorder),1
+885,hasbled,stroke,S-230704000,Multi-infarct state (disorder),1
+886,hasbled,stroke,S-274100004,Cerebral hemorrhage,1
+887,hasbled,stroke,S-125081000119106,Cerebral infarction due to occlusion of precerebral artery,1
+888,hasbled,stroke,S-230712008,Lacunar hemorrhage (disorder),1
+889,hasbled,stroke,S-230706003,Hemorrhagic cerebral infarction (disorder),1
+890,hasbled,stroke,S-34781003,Vertebral artery syndrome (disorder),1
+891,hasbled,stroke,S-373606000,Occlusive stroke (disorder),1
+892,hasbled,stroke,S-195165005,Basal ganglia hemorrhage,1
+893,hasbled,alcohol,S-228281002,Problem drinker (finding),1
+894,hasbled,stroke,S-25133001,Completed stroke (disorder),1
+895,hasbled,stroke,S-52201006,Internal capsule hemorrhage,1
+896,hasbled,stroke,S-230694003,Total anterior cerebral circulation infarction (disorder),1
+897,hasbled,alcohol,S-228326007,Drinking binge (finding),1
+898,hasbled,alcohol,S-228315001,Binge drinker (finding),1
+899,hasbled,stroke,S-195212005,Brainstem stroke syndrome,1
+900,hasbled,stroke,S-195206000,Intermittent cerebral ischaemia,1
+901,hasbled,stroke,S-95457000,Brain stem infarction,1
+902,hasbled,stroke,S-275434003,Stroke in the puerperium,1
+903,hasbled,stroke,S-49422009,Cortical hemorrhage,1
+904,hasbled,stroke,S-195217004,Right sided CVA,1
+905,hasbled,bleeding_medications,S-3420111000001100,Codafen Continus tablets (Napp Pharmaceuticals Ltd),1
+906,hasbled,bleeding_medications,S-643711000001106,Brufen 200mg tablets (Abbott Laboratories Ltd),1
+907,hasbled,bleeding_medications,S-263211000001109,Brufen 400mg tablets (Mylan),1
+908,hasbled,bleeding_medications,S-230111000001100,Brufen 600mg tablets (Mylan),1
+909,hasbled,bleeding_medications,S-445711000001109,Brufen 100mg/5ml syrup (Mylan),1
+910,hasbled,bleeding_medications,S-3239211000001100,Brufen 600mg effervescent granules sachets (Mylan),1
+911,hasbled,bleeding_medications,S-368011000001100,Brufen Retard 800mg tablets (Mylan),1
+912,hasbled,bleeding_medications,S-3159211000001100,Fenbid 300mg Spansules (Mercury Pharma Group Ltd),1
+913,hasbled,bleeding_medications,S-640911000001100,Cuprofen 200mg tablets (SSL International Plc),1
+914,hasbled,bleeding_medications,S-621611000001103,Cuprofen Maximum Strength 400mg tablets (Reckitt Benckiser Healthcare (UK) Ltd),1
+915,hasbled,bleeding_medications,S-9890311000001100,Cuprofen for Children 100mg/5ml oral suspension (SSL International Plc),1
+916,hasbled,bleeding_medications,S-8092711000001100,Cuprofen PLUS tablets (SSL International Plc),1
+917,hasbled,bleeding_medications,S-240311000001104,Relcofen 400mg tablets (Actavis UK Ltd),1
+918,hasbled,bleeding_medications,S-3996111000001100,Galprofen Long Lasting 200mg capsules (Galpharm International Ltd),1
+919,hasbled,bleeding_medications,S-32811000001101,Galprofen 100mg/5ml oral suspension (Galpharm International Ltd),1
+920,hasbled,bleeding_medications,S-642011000001100,Junior Ibuprofen 100mg/5ml oral suspension (Numark Ltd),1
+921,hasbled,bleeding_medications,S-24584811000001100,Numark Max Strength Pharmacy Ibuprofen 400mg tablets (Numark Ltd),1
+922,hasbled,bleeding_medications,S-31004511000001100,Boots Ibuprofen and Codeine 200mg/12.8mg tablets (The Boots Company Plc),1
+923,hasbled,bleeding_medications,S-31005011000001100,Boots Ibuprofen Long Lasting 200mg capsules (The Boots Company Plc),1
+924,hasbled,bleeding_medications,S-195311000001101,Ibufem 200mg tablets (Galpharm International Ltd),1
+925,hasbled,bleeding_medications,S-3918911000001100,Anadin Ultra 200mg capsules (Pfizer Consumer Healthcare Ltd),1
+926,hasbled,bleeding_medications,S-10752411000001100,Anadin LiquiFast 400mg capsules (Pfizer Consumer Healthcare Ltd),1
+927,hasbled,bleeding_medications,S-13101011000001100,Anadin Joint Pain 200mg tablets (Pfizer Consumer Healthcare Ltd),1
+928,hasbled,bleeding_medications,S-19510011000001100,Anadin LiquiFast 200mg effervescent tablets (Pfizer Consumer Healthcare Ltd),1
+929,hasbled,bleeding_medications,S-13750411000001100,Lloydspharmacy Ibuprofen Long Lasting 200mg capsules (Lloyds Pharmacy Ltd),1
+930,hasbled,bleeding_medications,S-13860211000001100,Lloydspharmacy Ibuprofen 200mg liquid capsules (Lloyds Pharmacy Ltd),1
+931,hasbled,bleeding_medications,S-7929311000001100,Lloydspharmacy Ibuprofen 100mg/5ml oral suspension (Lloyds Pharmacy Ltd),1
+932,hasbled,bleeding_medications,S-336911000001107,Hedex Ibuprofen 200mg caplets (GlaxoSmithKline Consumer Healthcare),1
+933,hasbled,bleeding_medications,S-17042011000001100,Hedex Ibuprofen 200mg tablets (Omega Pharma Ltd),1
+934,hasbled,bleeding_medications,S-10686711000001100,Dicloflex Retard 100mg tablets (Almus Pharmaceuticals Ltd),1
+935,hasbled,bleeding_medications,S-18299411000001100,Dicloflex 75mg SR tablets (Actavis UK Ltd),1
+936,hasbled,bleeding_medications,S-814411000001103,Volsaid Retard 75 tablets (Chiesi Ltd),1
+937,hasbled,bleeding_medications,S-632211000001109,Volsaid Retard 100 tablets (Chiesi Ltd),1
+938,hasbled,bleeding_medications,S-922511000001109,Dexomon 75mg SR tablets (Hillcross Pharmaceuticals Ltd),1
+939,hasbled,bleeding_medications,S-658811000001106,Flamatak MR 100mg tablets (Actavis UK Ltd),1
+940,hasbled,bleeding_medications,S-13411000001102,Flamatak MR 75mg tablets (Actavis UK Ltd),1
+941,hasbled,bleeding_medications,S-193511000001108,Diclotard 75mg modified-release tablets (Galen Ltd),1
+942,hasbled,bleeding_medications,S-715111000001109,Rheumatac Retard 75 tablets (Advanz Pharma),1
+943,hasbled,bleeding_medications,S-906311000001107,Defanac 75mg SR tablets (Ranbaxy (UK) Ltd),1
+944,hasbled,bleeding_medications,S-440911000001102,Defanac Retard 100mg tablets (Ranbaxy (UK) Ltd),1
+945,hasbled,bleeding_medications,S-253811000001104,Fenactol 25mg gastro-resistant tablets (Discovery Pharmaceuticals),1
+946,hasbled,bleeding_medications,S-359411000001107,Fenactol 50mg gastro-resistant tablets (Dexcel-Pharma Ltd),1
+947,hasbled,bleeding_medications,S-210711000001105,Fenactol SR 75mg tablets (Discovery Pharmaceuticals),1
+948,hasbled,bleeding_medications,S-656011000001104,Fenactol Retard 100mg tablets (Dexcel-Pharma Ltd),1
+949,hasbled,bleeding_medications,S-5639311000001100,Econac SR 75mg tablets (Advanz Pharma),1
+950,hasbled,bleeding_medications,S-22591711000001100,Misofen 50mg/200microgram gastro-resistant tablets (Morningside Healthcare Ltd),1
+951,hasbled,bleeding_medications,S-22592011000001100,Misofen 75mg/200microgram gastro-resistant tablets (Morningside Healthcare Ltd),1
+952,hasbled,bleeding_medications,S-29688611000001100,Masidemen 50mg/200microgram gastro-resistant tablets (Actavis UK Ltd),1
+953,hasbled,bleeding_medications,S-29688811000001100,Masidemen 75mg/200microgram gastro-resistant tablets (Actavis UK Ltd),1
+954,hasbled,bleeding_medications,S-15870411000001100,Diflunisal 250mg tablets (Special Order),1
+955,hasbled,bleeding_medications,S-3674611000001100,Dolobid 500mg tablets (Merck Sharp & Dohme Ltd),1
+956,hasbled,bleeding_medications,S-11141111000001100,Etodolac 600mg modified-release tablets (Alliance Healthcare (Distribution) Ltd),1
+957,hasbled,bleeding_medications,S-20914211000001100,Etodolac 600mg modified-release tablets (Zentiva),1
+958,hasbled,bleeding_medications,S-21977911000001100,Etodolac 600mg modified-release tablets (Waymade Healthcare Plc),1
+959,hasbled,bleeding_medications,S-23915011000001100,Etodolac 600mg modified-release tablets (Phoenix Healthcare Distribution Ltd),1
+960,hasbled,bleeding_medications,S-30054411000001100,Etodolac 600mg modified-release tablets (DE Pharmaceuticals),1
+961,hasbled,bleeding_medications,S-30810311000001100,Etodolac 600mg modified-release tablets (Mawdsley-Brooks & Company Ltd),1
+962,hasbled,bleeding_medications,S-921411000001100,Lodine SR 600mg tablets (Almirall Ltd),1
+963,hasbled,bleeding_medications,S-27511000001103,Froben SR 200mg capsules (Abbott Laboratories Ltd),1
+964,hasbled,bleeding_medications,S-14703311000001100,Ibuprofen 200mg capsules (Numark Ltd),1
+965,hasbled,bleeding_medications,S-15019211000001100,Ibuprofen 200mg capsules (Kent Pharmaceuticals Ltd),1
+966,hasbled,bleeding_medications,S-17307311000001100,Ibuprofen 200mg capsules (Galpharm International Ltd),1
+967,hasbled,bleeding_medications,S-23279311000001100,Ibuprofen 200mg capsules (AM Distributions (Yorkshire) Ltd),1
+968,hasbled,bleeding_medications,S-24625711000001100,Ibuprofen 200mg capsules (Colorama Pharmaceuticals Ltd),1
+969,hasbled,bleeding_medications,S-31993111000001100,Ibuprofen 200mg capsules (Ennogen Healthcare Ltd),1
+970,hasbled,bleeding_medications,S-32465611000001100,Ibuprofen 200mg capsules (BellSons & Co (Druggists) Ltd),1
+971,hasbled,bleeding_medications,S-110611000001104,Ibuprofen 200mg tablets (Teva UK Ltd),1
+972,hasbled,bleeding_medications,S-201711000001104,Ibuprofen 200mg tablets (Kent Pharmaceuticals Ltd),1
+973,hasbled,bleeding_medications,S-327311000001106,Ibuprofen 200mg tablets (Vantage),1
+974,hasbled,bleeding_medications,S-342211000001103,Ibuprofen 200mg tablets (OBG Pharmaceuticals Ltd),1
+975,hasbled,bleeding_medications,S-367511000001109,Ibuprofen 200mg tablets (Thornton & Ross Ltd),1
+976,hasbled,bleeding_medications,S-654211000001104,Ibuprofen 200mg tablets film coated (Actavis UK Ltd),1
+977,hasbled,bleeding_medications,S-715411000001104,Ibuprofen 200mg tablets (Alliance Healthcare (Distribution) Ltd),1
+978,hasbled,bleeding_medications,S-771311000001100,Ibuprofen 200mg tablets (A A H Pharmaceuticals Ltd),1
+979,hasbled,bleeding_medications,S-805711000001106,Ibuprofen 200mg tablets sugar coated (Actavis UK Ltd),1
+980,hasbled,bleeding_medications,S-859511000001108,Ibuprofen 200mg tablets (Ranbaxy (UK) Ltd),1
+981,hasbled,bleeding_medications,S-869811000001101,Ibuprofen 200mg tablets (IVAX Pharmaceuticals UK Ltd),1
+982,hasbled,bleeding_medications,S-892211000001107,Ibuprofen 200mg tablets (Aspar Pharmaceuticals Ltd),1
+983,hasbled,bleeding_medications,S-3313611000001100,Ibuprofen 200mg tablets (Zentiva),1
+984,hasbled,bleeding_medications,S-4603011000001100,Ibuprofen 200mg tablets (Sussex Pharmaceutical Ltd),1
+985,hasbled,bleeding_medications,S-6407711000001100,Ibuprofen 200mg tablets sugar coated (Kent Pharmaceuticals Ltd),1
+986,hasbled,bleeding_medications,S-7926811000001100,Ibuprofen 200mg caplets (Lloyds Pharmacy Ltd),1
+987,hasbled,bleeding_medications,S-9172611000001100,Ibuprofen 200mg caplets (Galpharm International Ltd),1
+988,hasbled,bleeding_medications,S-9501811000001100,Ibuprofen 200mg tablets (Wockhardt UK Ltd),1
+989,hasbled,bleeding_medications,S-9746811000001100,Ibuprofen 200mg caplets (The Boots Company Plc),1
+990,hasbled,bleeding_medications,S-9805311000001100,Ibuprofen 200mg tablets (Almus Pharmaceuticals Ltd),1
+991,hasbled,bleeding_medications,S-11405211000001100,Indometacin 25mg capsules (Almus Pharmaceuticals Ltd),1
+992,hasbled,bleeding_medications,S-14783711000001100,Indometacin 25mg capsules (Boston Healthcare Ltd),1
+993,hasbled,bleeding_medications,S-17932611000001100,Indometacin 25mg capsules (Phoenix Healthcare Distribution Ltd),1
+994,hasbled,bleeding_medications,S-18559111000001100,Indometacin 25mg capsules (Bristol Laboratories Ltd),1
+995,hasbled,bleeding_medications,S-20324411000001100,Indometacin 25mg capsules (Genesis Pharmaceuticals Ltd),1
+996,hasbled,bleeding_medications,S-22061111000001100,Indometacin 25mg capsules (Waymade Healthcare Plc),1
+997,hasbled,bleeding_medications,S-24176011000001100,Indometacin 25mg capsules (DE Pharmaceuticals),1
+998,hasbled,bleeding_medications,S-26779711000001100,Indometacin 25mg capsules (Tillomed Laboratories Ltd),1
+999,hasbled,bleeding_medications,S-29877911000001100,Indometacin 25mg capsules (Sigma Pharmaceuticals Plc),1
+1000,hasbled,bleeding_medications,S-34016011000001100,Indometacin 25mg capsules (Crescent Pharma Ltd),1
+1001,hasbled,bleeding_medications,S-100211000001103,Indometacin 50mg capsules (Actavis UK Ltd),1
+1002,hasbled,bleeding_medications,S-525611000001106,Indometacin 50mg capsules (Mylan),1
+1003,hasbled,bleeding_medications,S-604011000001100,Indometacin 50mg capsules (Alliance Healthcare (Distribution) Ltd),1
+1004,hasbled,bleeding_medications,S-749911000001101,Indometacin 50mg capsules (Kent Pharmaceuticals Ltd),1
+1005,hasbled,bleeding_medications,S-787911000001104,Indometacin 50mg capsules (The Boots Company Plc),1
+1006,hasbled,bleeding_medications,S-799011000001106,Indometacin 50mg capsules (A A H Pharmaceuticals Ltd),1
+1007,hasbled,bleeding_medications,S-4331511000001100,Indometacin 50mg capsules (Sandoz Ltd),1
+1008,hasbled,bleeding_medications,S-9807011000001100,Indometacin 50mg capsules (Almus Pharmaceuticals Ltd),1
+1009,hasbled,bleeding_medications,S-11017511000001100,Indometacin 50mg capsules (Dr Reddy's Laboratories (UK) Ltd),1
+1010,hasbled,bleeding_medications,S-17932811000001100,Indometacin 50mg capsules (Phoenix Healthcare Distribution Ltd),1
+1011,hasbled,bleeding_medications,S-20324611000001100,Indometacin 50mg capsules (Genesis Pharmaceuticals Ltd),1
+1012,hasbled,bleeding_medications,S-22061611000001100,Indometacin 50mg capsules (Waymade Healthcare Plc),1
+1013,hasbled,bleeding_medications,S-24176411000001100,Indometacin 50mg capsules (DE Pharmaceuticals),1
+1014,hasbled,bleeding_medications,S-26780111000001100,Indometacin 50mg capsules (Tillomed Laboratories Ltd),1
+1015,hasbled,bleeding_medications,S-28919111000001100,Indometacin 50mg capsules (Crescent Pharma Ltd),1
+1016,hasbled,bleeding_medications,S-29878111000001100,Indometacin 50mg capsules (Sigma Pharmaceuticals Plc),1
+1017,hasbled,bleeding_medications,S-853011000001103,Indometacin 75mg modified-release capsules (Kent Pharmaceuticals Ltd),1
+1018,hasbled,bleeding_medications,S-8544911000001100,Indometacin 25mg/5ml oral solution (Special Order),1
+1019,hasbled,bleeding_medications,S-12602811000001100,Indometacin 20mg/5ml oral suspension (Special Order),1
+1020,hasbled,bleeding_medications,S-259811000001102,Mefenamic acid 50mg/5ml oral suspension (A A H Pharmaceuticals Ltd),1
+1021,hasbled,bleeding_medications,S-11484811000001100,Mefenamic acid 50mg/5ml oral suspension (Special Order),1
+1022,hasbled,bleeding_medications,S-11508411000001100,Mefenamic acid 50mg/5ml oral suspension (Essential Generics Ltd),1
+1023,hasbled,bleeding_medications,S-26853411000001100,Mefenamic acid 50mg/5ml oral suspension (Ennogen Healthcare Ltd),1
+1024,hasbled,bleeding_medications,S-122811000001109,Mefenamic acid 500mg tablets (Zentiva),1
+1025,hasbled,bleeding_medications,S-189011000001101,Mefenamic acid 500mg tablets (Kent Pharmaceuticals Ltd),1
+1026,hasbled,bleeding_medications,S-393211000001104,Mefenamic acid 500mg tablets (Alliance Healthcare (Distribution) Ltd),1
+1027,hasbled,bleeding_medications,S-411211000001108,Mefenamic acid 500mg tablets (A A H Pharmaceuticals Ltd),1
+1028,hasbled,bleeding_medications,S-655611000001101,Mefenamic acid 500mg tablets (Teva UK Ltd),1
+1029,hasbled,bleeding_medications,S-740211000001103,Mefenamic acid 500mg tablets (IVAX Pharmaceuticals UK Ltd),1
+1030,hasbled,bleeding_medications,S-774611000001107,Mefenamic acid 500mg tablets (Actavis UK Ltd),1
+1031,hasbled,bleeding_medications,S-13581311000001100,Mefenamic acid 500mg tablets (DE Pharmaceuticals),1
+1032,hasbled,bleeding_medications,S-14945411000001100,Mefenamic acid 500mg tablets (Essential Generics Ltd),1
+1033,hasbled,bleeding_medications,S-15109011000001100,Mefenamic acid 500mg tablets (Sigma Pharmaceuticals Plc),1
+1034,hasbled,bleeding_medications,S-17970611000001100,Mefenamic acid 500mg tablets (Almus Pharmaceuticals Ltd),1
+1035,hasbled,bleeding_medications,S-21791711000001100,Mefenamic acid 500mg tablets (Waymade Healthcare Plc),1
+1036,hasbled,bleeding_medications,S-37119811000001104,Mefenamic acid 500mg tablets (Mawdsley-Brooks & Company Ltd),1
+1037,hasbled,bleeding_medications,S-8607611000001100,Mefenamic acid 250mg/5ml oral suspension (Special Order),1
+1038,hasbled,bleeding_medications,S-8608211000001100,Mefenamic acid 500mg/5ml oral suspension (Special Order),1
+1039,hasbled,bleeding_medications,S-226811000001107,Ponstan 250mg capsules (Chemidex Pharma Ltd),1
+1040,hasbled,bleeding_medications,S-586711000001103,Ponstan Forte 500mg tablets (Chemidex Pharma Ltd),1
+1041,hasbled,bleeding_medications,S-60511000001108,Naproxen 250mg tablets (Alliance Healthcare (Distribution) Ltd),1
+1042,hasbled,bleeding_medications,S-86111000001104,Naproxen 250mg tablets (Actavis UK Ltd),1
+1043,hasbled,bleeding_medications,S-150011000001103,Naproxen 250mg tablets (IVAX Pharmaceuticals UK Ltd),1
+1044,hasbled,bleeding_medications,S-360911000001103,Naproxen 250mg tablets (Teva UK Ltd),1
+1045,hasbled,bleeding_medications,S-521711000001104,Naproxen 250mg tablets (Wockhardt UK Ltd),1
+1046,hasbled,bleeding_medications,S-630611000001105,Naproxen 250mg tablets (Mylan),1
+1047,hasbled,bleeding_medications,S-774811000001106,Naproxen 250mg tablets (Kent Pharmaceuticals Ltd),1
+1048,hasbled,bleeding_medications,S-889911000001109,Naproxen 250mg tablets (A A H Pharmaceuticals Ltd),1
+1049,hasbled,bleeding_medications,S-36833611000001104,Etoricoxib 120mg tablets (Torrent Pharma (UK) Ltd),1
+1050,hasbled,bleeding_medications,S-37065911000001104,Etoricoxib 120mg tablets (Mawdsley-Brooks & Company Ltd),1
+1051,hasbled,bleeding_medications,S-37354011000001104,Etoricoxib 120mg tablets (Zentiva),1
+1052,hasbled,bleeding_medications,S-37378011000001104,Etoricoxib 120mg tablets (DE Pharmaceuticals),1
+1053,hasbled,bleeding_medications,S-34618111000001100,Etoricoxib 30mg tablets (Teva UK Ltd),1
+1054,hasbled,bleeding_medications,S-34620211000001100,Etoricoxib 30mg tablets (Aspire Pharma Ltd),1
+1055,hasbled,bleeding_medications,S-34624211000001100,Etoricoxib 30mg tablets (Accord Healthcare Ltd),1
+1056,hasbled,bleeding_medications,S-34691111000001100,Etoricoxib 30mg tablets (Mylan),1
+1057,hasbled,bleeding_medications,S-34698811000001100,Etoricoxib 30mg tablets (A A H Pharmaceuticals Ltd),1
+1058,hasbled,bleeding_medications,S-34710711000001100,Etoricoxib 30mg tablets (Alliance Healthcare (Distribution) Ltd),1
+1059,hasbled,bleeding_medications,S-35160611000001100,Etoricoxib 30mg tablets (Milpharm Ltd),1
+1060,hasbled,bleeding_medications,S-36833011000001104,Etoricoxib 30mg tablets (Torrent Pharma (UK) Ltd),1
+1061,hasbled,bleeding_medications,S-37064511000001104,Etoricoxib 30mg tablets (Mawdsley-Brooks & Company Ltd),1
+1062,hasbled,bleeding_medications,S-37230511000001104,Etoricoxib 30mg tablets (Brown & Burk UK Ltd),1
+1063,hasbled,bleeding_medications,S-37354711000001104,Etoricoxib 30mg tablets (Zentiva),1
+1064,hasbled,bleeding_medications,S-37377011000001104,Etoricoxib 30mg tablets (DE Pharmaceuticals),1
+1065,hasbled,bleeding_medications,S-3406111000001100,Arcoxia 60mg tablets (Merck Sharp & Dohme Ltd),1
+1066,hasbled,bleeding_medications,S-3406811000001100,Arcoxia 90mg tablets (Merck Sharp & Dohme Ltd),1
+1067,hasbled,bleeding_medications,S-3407911000001100,Arcoxia 120mg tablets (Merck Sharp & Dohme Ltd),1
+1068,hasbled,bleeding_medications,S-13122311000001100,Arcoxia 30mg tablets (Merck Sharp & Dohme Ltd),1
+1069,hasbled,bleeding_medications,S-9447211000001100,Seractil 300mg tablets (Thornton & Ross Ltd),1
+1070,hasbled,bleeding_medications,S-9447611000001100,Seractil 400mg tablets (Thornton & Ross Ltd),1
+1071,hasbled,bleeding_medications,S-35096411000001100,Seractil 300mg tablets (Gebro Pharma GmbH),1
+1072,hasbled,bleeding_medications,S-14600611000001100,Nurofen Express 256mg tablets (Reckitt Benckiser Healthcare (UK) Ltd),1
+1073,hasbled,bleeding_medications,S-14740311000001100,Nurofen Express 256mg caplets (Reckitt Benckiser Healthcare (UK) Ltd),1
+1074,hasbled,bleeding_medications,S-31393111000001100,Nurofen Joint & Back Pain Relief 256mg tablets (Reckitt Benckiser Healthcare (UK) Ltd),1
+1075,hasbled,bleeding_medications,S-31394111000001100,Nurofen Max Strength Joint & Back Pain Relief 512mg tablets (Reckitt Benckiser Healthcare (UK) Ltd),1
+1076,hasbled,bleeding_medications,S-31394411000001100,Nurofen Joint & Back Pain Relief 256mg caplets (Reckitt Benckiser Healthcare (UK) Ltd),1
+1077,hasbled,bleeding_medications,S-175011000001107,Diclofenac sodium 25mg gastro-resistant tablets (Teva UK Ltd),1
+1078,hasbled,bleeding_medications,S-8196311000001100,Rhumalgan XL 100mg capsules (Sandoz Ltd),1
+1079,hasbled,bleeding_medications,S-8197611000001100,Rhumalgan SR 75mg capsules (Sandoz Ltd),1
+1080,hasbled,bleeding_medications,S-18681011000001100,Rhumalgan SR 75mg capsules (Almus Pharmaceuticals Ltd),1
+1081,hasbled,bleeding_medications,S-18680711000001100,Rhumalgan XL 100mg capsules (Almus Pharmaceuticals Ltd),1
+1082,hasbled,bleeding_medications,S-22468711000001100,Rhumalgan SR 75mg capsules (Actavis UK Ltd),1
+1083,hasbled,bleeding_medications,S-22421611000001100,Rhumalgan XL 100mg capsules (Actavis UK Ltd),1
+1084,hasbled,bleeding_medications,S-341611000001107,Volraman 25mg gastro-resistant tablets (LPC Medical (UK) Ltd),1
+1085,hasbled,bleeding_medications,S-185611000001105,Volraman 50mg gastro-resistant tablets (LPC Medical (UK) Ltd),1
+1086,hasbled,bleeding_medications,S-224911000001105,Diclozip 50mg gastro-resistant tablets (Ashbourne Pharmaceuticals Ltd),1
+1087,hasbled,bleeding_medications,S-107411000001100,Flamrase 50 EC tablets (Teva UK Ltd),1
+1088,hasbled,bleeding_medications,S-761911000001109,Flamrase SR 100mg tablets (Teva UK Ltd),1
+1089,hasbled,bleeding_medications,S-49711000001102,Flamrase 75mg SR tablets (Teva UK Ltd),1
+1090,hasbled,bleeding_medications,S-3159911000001100,Arthrotec 50 gastro-resistant tablets (Pfizer Ltd),1
+1091,hasbled,bleeding_medications,S-3161411000001100,Arthrotec 75 gastro-resistant tablets (Pfizer Ltd),1
+1092,hasbled,bleeding_medications,S-350511000001103,Diclomax Retard 100mg capsules (Galen Ltd),1
+1093,hasbled,bleeding_medications,S-172511000001105,Diclomax SR 75mg capsules (Galen Ltd),1
+1094,hasbled,bleeding_medications,S-3953411000001100,Motifene 75mg modified-release capsules (Daiichi Sankyo UK Ltd),1
+1095,hasbled,bleeding_medications,S-570111000001107,Dicloflex 25mg gastro-resistant tablets (Dexcel-Pharma Ltd),1
+1096,hasbled,bleeding_medications,S-719711000001107,Dicloflex 50mg gastro-resistant tablets (Dexcel-Pharma Ltd),1
+1097,hasbled,bleeding_medications,S-190611000001103,Dicloflex Retard 100mg tablets (Dexcel-Pharma Ltd),1
+1098,hasbled,bleeding_medications,S-225611000001103,Dicloflex 75mg SR tablets (Dexcel-Pharma Ltd),1
+1099,hasbled,bleeding_medications,S-7852911000001100,Dicloflex 75mg SR tablets (Teva UK Ltd),1
+1100,hasbled,bleeding_medications,S-7854211000001100,Dicloflex 75mg SR tablets (Kent Pharmaceuticals Ltd),1
+1101,hasbled,bleeding_medications,S-7853311000001100,Dicloflex Retard 100mg tablets (Teva UK Ltd),1
+1102,hasbled,bleeding_medications,S-7854611000001100,Dicloflex Retard 100mg tablets (Kent Pharmaceuticals Ltd),1
+1103,hasbled,bleeding_medications,S-10612711000001100,Dicloflex 25mg gastro-resistant tablets (Teva UK Ltd),1
+1104,hasbled,bleeding_medications,S-10686011000001100,Dicloflex 25mg gastro-resistant tablets (Almus Pharmaceuticals Ltd),1
+1105,hasbled,bleeding_medications,S-10686211000001100,Dicloflex 50mg gastro-resistant tablets (Almus Pharmaceuticals Ltd),1
+1106,hasbled,bleeding_medications,S-10686411000001100,Dicloflex 75mg SR tablets (Almus Pharmaceuticals Ltd),1
+1107,hasbled,bleeding_medications,S-29928911000001100,Naproxen 500mg tablets (Sigma Pharmaceuticals Plc),1
+1108,hasbled,bleeding_medications,S-30063011000001100,Naproxen 500mg tablets (DE Pharmaceuticals),1
+1109,hasbled,bleeding_medications,S-30849911000001100,Naproxen 500mg tablets (Mawdsley-Brooks & Company Ltd),1
+1110,hasbled,bleeding_medications,S-36026111000001100,Naproxen 500mg tablets (Medreich Plc),1
+1111,hasbled,bleeding_medications,S-36597611000001104,Naproxen 500mg tablets (Bristol Laboratories Ltd),1
+1112,hasbled,bleeding_medications,S-36926211000001104,Naproxen 500mg tablets (Noumed Life Sciences Ltd),1
+1113,hasbled,bleeding_medications,S-37999811000001104,Naproxen 500mg tablets (Genesis Pharmaceuticals Ltd),1
+1114,hasbled,bleeding_medications,S-129111000001106,Naproxen 250mg gastro-resistant tablets (Accord Healthcare Ltd),1
+1115,hasbled,bleeding_medications,S-367911000001102,Naproxen 250mg gastro-resistant tablets (A A H Pharmaceuticals Ltd),1
+1116,hasbled,bleeding_medications,S-547811000001102,Naproxen 250mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd),1
+1117,hasbled,bleeding_medications,S-579011000001103,Naproxen 250mg gastro-resistant tablets (Sandoz Ltd),1
+1118,hasbled,bleeding_medications,S-603311000001104,Naproxen 250mg gastro-resistant tablets (Teva UK Ltd),1
+1119,hasbled,bleeding_medications,S-687211000001104,Naproxen 250mg gastro-resistant tablets (Mylan),1
+1120,hasbled,bleeding_medications,S-764211000001103,Naproxen 250mg gastro-resistant tablets (IVAX Pharmaceuticals UK Ltd),1
+1121,hasbled,bleeding_medications,S-5474911000001100,Naproxen 250mg gastro-resistant tablets (Kent Pharmaceuticals Ltd),1
+1122,hasbled,bleeding_medications,S-11426611000001100,Naproxen 250mg gastro-resistant tablets (Almus Pharmaceuticals Ltd),1
+1123,hasbled,bleeding_medications,S-16212811000001100,Naproxen 250mg gastro-resistant tablets (Ranbaxy (UK) Ltd),1
+1124,hasbled,bleeding_medications,S-17945511000001100,Naproxen 250mg gastro-resistant tablets (Phoenix Healthcare Distribution Ltd),1
+1125,hasbled,bleeding_medications,S-20325711000001100,Naproxen 250mg gastro-resistant tablets (Genesis Pharmaceuticals Ltd),1
+1126,hasbled,bleeding_medications,S-21817711000001100,Naproxen 250mg gastro-resistant tablets (Waymade Healthcare Plc),1
+1127,hasbled,bleeding_medications,S-29928311000001100,Naproxen 250mg gastro-resistant tablets (Sigma Pharmaceuticals Plc),1
+1128,hasbled,bleeding_medications,S-30062411000001100,Naproxen 250mg gastro-resistant tablets (DE Pharmaceuticals),1
+1129,hasbled,bleeding_medications,S-36782111000001104,Naproxen 250mg gastro-resistant tablets (Sovereign Medical Ltd),1
+1130,hasbled,bleeding_medications,S-37122511000001104,Naproxen 250mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd),1
+1131,hasbled,bleeding_medications,S-37999211000001104,Naproxen 250mg gastro-resistant tablets (Medreich Plc),1
+1132,hasbled,bleeding_medications,S-27711000001108,Naproxen 500mg gastro-resistant tablets (Actavis UK Ltd),1
+1133,hasbled,bleeding_medications,S-143611000001103,Naproxen 500mg gastro-resistant tablets (Teva UK Ltd),1
+1134,hasbled,bleeding_medications,S-279011000001106,Naproxen 500mg gastro-resistant tablets (Sandoz Ltd),1
+1135,hasbled,bleeding_medications,S-297211000001103,Naproxen 500mg gastro-resistant tablets (Kent Pharmaceuticals Ltd),1
+1136,hasbled,bleeding_medications,S-12603111000001100,Indometacin 20mg/5ml oral solution (Special Order),1
+1137,hasbled,bleeding_medications,S-8544811000001100,Indometacin 50mg/5ml oral solution (Special Order),1
+1138,hasbled,bleeding_medications,S-8545311000001100,Indometacin 50mg/5ml oral suspension (Special Order),1
+1139,hasbled,bleeding_medications,S-12599811000001100,Indometacin 10mg/5ml oral suspension (Special Order),1
+1140,hasbled,bleeding_medications,S-12600111000001100,Indometacin 10mg/5ml oral solution (Special Order),1
+1141,hasbled,bleeding_medications,S-15881511000001100,Indometacin 5mg/5ml oral suspension (Special Order),1
+1142,hasbled,bleeding_medications,S-15881811000001100,Indometacin 5mg/5ml oral solution (Special Order),1
+1143,hasbled,bleeding_medications,S-8545911000001100,Indometacin 25mg/5ml oral suspension (Drug Tariff Special Order),1
+1144,hasbled,bleeding_medications,S-258511000001106,Indocid 25mg capsules (Merck Sharp & Dohme Ltd),1
+1145,hasbled,bleeding_medications,S-581911000001106,Indocid 50mg capsules (Merck Sharp & Dohme Ltd),1
+1146,hasbled,bleeding_medications,S-172111000001101,Indocid R 75mg capsules (Merck Sharp & Dohme Ltd),1
+1147,hasbled,bleeding_medications,S-3311000001106,Indolar SR 75mg capsules (Sandoz Ltd),1
+1148,hasbled,bleeding_medications,S-392111000001104,Pardelprin MR 75mg capsules (Actavis UK Ltd),1
+1149,hasbled,bleeding_medications,S-867711000001101,Berlind 75 Retard capsules (Tillomed Laboratories Ltd),1
+1150,hasbled,bleeding_medications,S-109311000001102,Ketoprofen 50mg capsules (Mylan),1
+1151,hasbled,bleeding_medications,S-365911000001107,Ketoprofen 50mg capsules (Kent Pharmaceuticals Ltd),1
+1152,hasbled,bleeding_medications,S-513511000001103,Ketoprofen 50mg capsules (A A H Pharmaceuticals Ltd),1
+1153,hasbled,bleeding_medications,S-886811000001105,Ketoprofen 50mg capsules (Alliance Healthcare (Distribution) Ltd),1
+1154,hasbled,bleeding_medications,S-915411000001107,Ketoprofen 50mg capsules (Sandoz Ltd),1
+1155,hasbled,bleeding_medications,S-15103511000001100,Ketoprofen 50mg capsules (Sigma Pharmaceuticals Plc),1
+1156,hasbled,bleeding_medications,S-39411000001109,Ketoprofen 100mg capsules (Mylan),1
+1157,hasbled,bleeding_medications,S-65111000001107,Ketoprofen 100mg capsules (Sandoz Ltd),1
+1158,hasbled,bleeding_medications,S-823411000001108,Ketoprofen 100mg capsules (The Boots Company Plc),1
+1159,hasbled,bleeding_medications,S-823911000001100,Ketoprofen 100mg capsules (Alliance Healthcare (Distribution) Ltd),1
+1160,hasbled,bleeding_medications,S-881711000001108,Ketoprofen 100mg capsules (A A H Pharmaceuticals Ltd),1
+1161,hasbled,bleeding_medications,S-505811000001104,Ketoprofen 100mg modified-release capsules (Alliance Healthcare (Distribution) Ltd),1
+1162,hasbled,bleeding_medications,S-778511000001101,Ketoprofen 100mg modified-release capsules (Kent Pharmaceuticals Ltd),1
+1163,hasbled,bleeding_medications,S-4575711000001100,Ketoprofen 100mg modified-release capsules (A A H Pharmaceuticals Ltd),1
+1164,hasbled,bleeding_medications,S-659911000001109,Ketoprofen 200mg modified-release capsules (Kent Pharmaceuticals Ltd),1
+1165,hasbled,bleeding_medications,S-30827011000001100,Meloxicam 7.5mg tablets (Mawdsley-Brooks & Company Ltd),1
+1166,hasbled,bleeding_medications,S-9834611000001100,Meloxicam 15mg tablets (Teva UK Ltd),1
+1167,hasbled,bleeding_medications,S-9835011000001100,Meloxicam 15mg tablets (A A H Pharmaceuticals Ltd),1
+1168,hasbled,bleeding_medications,S-9856311000001100,Meloxicam 15mg tablets (Kent Pharmaceuticals Ltd),1
+1169,hasbled,bleeding_medications,S-9870511000001100,Meloxicam 15mg tablets (Zentiva),1
+1170,hasbled,bleeding_medications,S-9906111000001100,Meloxicam 15mg tablets (Alliance Healthcare (Distribution) Ltd),1
+1171,hasbled,bleeding_medications,S-9991611000001100,Meloxicam 15mg tablets (Mylan),1
+1172,hasbled,bleeding_medications,S-10198411000001100,Meloxicam 15mg tablets (IVAX Pharmaceuticals UK Ltd),1
+1173,hasbled,bleeding_medications,S-10302411000001100,Meloxicam 15mg tablets (Focus Pharmaceuticals Ltd),1
+1174,hasbled,bleeding_medications,S-10304811000001100,Meloxicam 15mg tablets (Actavis UK Ltd),1
+1175,hasbled,bleeding_medications,S-10440311000001100,Meloxicam 15mg tablets (Niche Generics Ltd),1
+1176,hasbled,bleeding_medications,S-10615011000001100,Meloxicam 15mg tablets (Genus Pharmaceuticals Ltd),1
+1177,hasbled,bleeding_medications,S-10701211000001100,Meloxicam 15mg tablets (Somex Pharma),1
+1178,hasbled,bleeding_medications,S-10962511000001100,Meloxicam 15mg tablets (Sandoz Ltd),1
+1179,hasbled,bleeding_medications,S-11426411000001100,Meloxicam 15mg tablets (Almus Pharmaceuticals Ltd),1
+1180,hasbled,bleeding_medications,S-13413411000001100,Meloxicam 15mg tablets (Arrow Generics Ltd),1
+1181,hasbled,bleeding_medications,S-14162511000001100,Meloxicam 15mg tablets (Healthcare Pharma Ltd),1
+1182,hasbled,bleeding_medications,S-15109311000001100,Meloxicam 15mg tablets (Sigma Pharmaceuticals Plc),1
+1183,hasbled,bleeding_medications,S-17204011000001100,Meloxicam 15mg tablets (Sovereign Medical Ltd),1
+1184,hasbled,bleeding_medications,S-17939811000001100,Meloxicam 15mg tablets (Phoenix Healthcare Distribution Ltd),1
+1185,hasbled,bleeding_medications,S-21792211000001100,Meloxicam 15mg tablets (Waymade Healthcare Plc),1
+1186,hasbled,bleeding_medications,S-24378911000001100,Meloxicam 15mg tablets (DE Pharmaceuticals),1
+1187,hasbled,bleeding_medications,S-30827211000001100,Meloxicam 15mg tablets (Mawdsley-Brooks & Company Ltd),1
+1188,hasbled,bleeding_medications,S-22640411000001100,Meloxicam 15mg orodispersible tablets sugar free (Rhodes Pharma Ltd),1
+1189,hasbled,bleeding_medications,S-23679611000001100,Meloxicam 15mg orodispersible tablets sugar free (A A H Pharmaceuticals Ltd),1
+1190,hasbled,bleeding_medications,S-22640911000001100,Meloxicam 7.5mg orodispersible tablets sugar free (Rhodes Pharma Ltd),1
+1191,hasbled,bleeding_medications,S-23679411000001100,Meloxicam 7.5mg orodispersible tablets sugar free (A A H Pharmaceuticals Ltd),1
+1192,hasbled,bleeding_medications,S-591611000001104,Mobic 7.5mg tablets (Boehringer Ingelheim Ltd),1
+1193,hasbled,bleeding_medications,S-81511000001104,Mobic 15mg tablets (Boehringer Ingelheim Ltd),1
+1194,hasbled,bleeding_medications,S-15058911000001100,Aceclofenac 100mg tablets (Sigma Pharmaceuticals Plc),1
+1195,hasbled,bleeding_medications,S-15166111000001100,Aceclofenac 100mg tablets (Actavis UK Ltd),1
+1196,hasbled,bleeding_medications,S-17748811000001100,Aceclofenac 100mg tablets (Phoenix Healthcare Distribution Ltd),1
+1197,hasbled,bleeding_medications,S-19700711000001100,Aceclofenac 100mg tablets (DE Pharmaceuticals),1
+1198,hasbled,bleeding_medications,S-21748411000001100,Aceclofenac 100mg tablets (Waymade Healthcare Plc),1
+1199,hasbled,bleeding_medications,S-27840711000001100,Aceclofenac 100mg tablets (Accord Healthcare Ltd),1
+1200,hasbled,bleeding_medications,S-33498211000001100,Aceclofenac 100mg tablets (Rivopharm (UK) Ltd),1
+1201,hasbled,bleeding_medications,S-844911000001100,Preservex 100mg tablets (Almirall Ltd),1
+1202,hasbled,bleeding_medications,S-9834411000001100,Meloxicam 7.5mg tablets (Teva UK Ltd),1
+1203,hasbled,bleeding_medications,S-9834811000001100,Meloxicam 7.5mg tablets (A A H Pharmaceuticals Ltd),1
+1204,hasbled,bleeding_medications,S-9856111000001100,Meloxicam 7.5mg tablets (Kent Pharmaceuticals Ltd),1
+1205,hasbled,bleeding_medications,S-9870211000001100,Meloxicam 7.5mg tablets (Zentiva),1
+1206,hasbled,bleeding_medications,S-9905911000001100,Meloxicam 7.5mg tablets (Alliance Healthcare (Distribution) Ltd),1
+1207,hasbled,bleeding_medications,S-9991411000001100,Meloxicam 7.5mg tablets (Mylan),1
+1208,hasbled,bleeding_medications,S-10198211000001100,Meloxicam 7.5mg tablets (IVAX Pharmaceuticals UK Ltd),1
+1209,hasbled,bleeding_medications,S-10302611000001100,Meloxicam 7.5mg tablets (Focus Pharmaceuticals Ltd),1
+1210,hasbled,bleeding_medications,S-10304311000001100,Meloxicam 7.5mg tablets (Actavis UK Ltd),1
+1211,hasbled,bleeding_medications,S-10440011000001100,Meloxicam 7.5mg tablets (Niche Generics Ltd),1
+1212,hasbled,bleeding_medications,S-10614811000001100,Meloxicam 7.5mg tablets (Genus Pharmaceuticals Ltd),1
+1213,hasbled,bleeding_medications,S-10702311000001100,Meloxicam 7.5mg tablets (Somex Pharma),1
+1214,hasbled,bleeding_medications,S-10962111000001100,Meloxicam 7.5mg tablets (Sandoz Ltd),1
+1215,hasbled,bleeding_medications,S-11426211000001100,Meloxicam 7.5mg tablets (Almus Pharmaceuticals Ltd),1
+1216,hasbled,bleeding_medications,S-13413211000001100,Meloxicam 7.5mg tablets (Arrow Generics Ltd),1
+1217,hasbled,bleeding_medications,S-14162311000001100,Meloxicam 7.5mg tablets (Healthcare Pharma Ltd),1
+1218,hasbled,bleeding_medications,S-15109611000001100,Meloxicam 7.5mg tablets (Sigma Pharmaceuticals Plc),1
+1219,hasbled,bleeding_medications,S-17203811000001100,Meloxicam 7.5mg tablets (Sovereign Medical Ltd),1
+1220,hasbled,bleeding_medications,S-17939611000001100,Meloxicam 7.5mg tablets (Phoenix Healthcare Distribution Ltd),1
+1221,hasbled,bleeding_medications,S-21792011000001100,Meloxicam 7.5mg tablets (Waymade Healthcare Plc),1
+1222,hasbled,bleeding_medications,S-24379111000001100,Meloxicam 7.5mg tablets (DE Pharmaceuticals),1
+1223,hasbled,bleeding_medications,S-37777911000001104,Prasugrel 10mg tablets,1
+1224,hasbled,bleeding_medications,S-37268411000001104,Prasugrel 10mg tablets,1
+1225,hasbled,bleeding_medications,S-36781111000001104,Prasugrel 10mg tablets,1
+1226,hasbled,bleeding_medications,S-36916911000001104,Prasugrel 10mg tablets,1
+1227,hasbled,bleeding_medications,S-36778111000001104,Prasugrel 10mg tablets,1
+1228,hasbled,bleeding_medications,S-36882611000001104,Prasugrel 10mg tablets,1
+1229,hasbled,bleeding_medications,S-15241111000001100,Efient 5mg tablets,1
+1230,hasbled,bleeding_medications,S-15240211000001100,Efient 10mg tablets,1
+1231,hasbled,bleeding_medications,S-37118511000001104,Prafsia 5mg tablets,1
+1232,hasbled,bleeding_medications,S-37118811000001104,Prafsia 10mg tablets,1
+1233,hasbled,bleeding_medications,S-704465002,Ticagrelor 90mg tablets,1
+1234,hasbled,bleeding_medications,S-32472211000001100,Ticagrelor 60mg tablets,1
+1235,hasbled,bleeding_medications,S-34713411000001100,Ticagrelor 90mg orodispersible tablets sugar free,1
+1236,hasbled,bleeding_medications,S-18290311000001100,Brilique 90mg tablets,1
+1237,hasbled,bleeding_medications,S-32447511000001100,Brilique 60mg tablets,1
+1238,hasbled,bleeding_medications,S-34672011000001100,Brilique 90mg orodispersible tablets,1
+1239,hasbled,bleeding_medications,S-92511000001106,Tenoxicam 20mg tablets (A A H Pharmaceuticals Ltd),1
+1240,hasbled,bleeding_medications,S-565511000001103,Tenoxicam 20mg tablets (Sandoz Ltd),1
+1241,hasbled,bleeding_medications,S-602711000001108,Tenoxicam 20mg tablets (Alliance Healthcare (Distribution) Ltd),1
+1242,hasbled,bleeding_medications,S-753111000001104,Tenoxicam 20mg tablets (Kent Pharmaceuticals Ltd),1
+1243,hasbled,bleeding_medications,S-15229011000001100,Tenoxicam 20mg tablets (Sigma Pharmaceuticals Plc),1
+1244,hasbled,bleeding_medications,S-21786211000001100,Tenoxicam 20mg tablets (Waymade Healthcare Plc),1
+1245,hasbled,bleeding_medications,S-213111000001102,Mobiflex 20mg tablets (Mylan),1
+1246,hasbled,bleeding_medications,S-589011000001106,Emflex 60mg capsules (Merck Serono Ltd),1
+1247,hasbled,bleeding_medications,S-56411000001103,Synflex 275mg tablets (Roche Products Ltd),1
+1248,hasbled,bleeding_medications,S-10961711000001100,Aceclofenac 100mg tablets (Sandoz Ltd),1
+1249,hasbled,bleeding_medications,S-10961811000001100,Aceclofenac 100mg tablets (A A H Pharmaceuticals Ltd),1
+1250,hasbled,bleeding_medications,S-10985211000001100,Aceclofenac 100mg tablets (Alliance Healthcare (Distribution) Ltd),1
+1251,hasbled,bleeding_medications,S-13435511000001100,Aceclofenac 100mg tablets (Mylan),1
+1252,hasbled,renal_disease,S-949901000000109,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2 (disorder),1
+1253,hasbled,renal_disease,S-949921000000100,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3 (disorder),1
+1254,hasbled,renal_disease,S-950101000000101,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3 (disorder),1
+1255,hasbled,renal_disease,S-949421000000107,Chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A2 (disorder),1
+1256,hasbled,renal_disease,S-949621000000109,Chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A3 (disorder),1
+1257,hasbled,renal_disease,S-950251000000106,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1 (disorder),1
+1258,hasbled,renal_disease,S-950291000000103,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2 (disorder),1
+1259,hasbled,renal_disease,S-950231000000104,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3 (disorder),1
+1260,hasbled,renal_disease,S-949481000000108,Chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A3 (disorder),1
+1261,hasbled,bleeding_medications,S-30011211000001100,Celecoxib 100mg capsules (Mawdsley-Brooks & Company Ltd),1
+1262,hasbled,bleeding_medications,S-30136411000001100,Celecoxib 100mg capsules (DE Pharmaceuticals),1
+1263,hasbled,bleeding_medications,S-32397411000001100,Celecoxib 100mg capsules (Kent Pharmaceuticals Ltd),1
+1264,hasbled,bleeding_medications,S-32496211000001100,Celecoxib 100mg capsules (Brown & Burk UK Ltd),1
+1265,hasbled,bleeding_medications,S-33588711000001100,Celecoxib 100mg capsules (Mylan),1
+1266,hasbled,bleeding_medications,S-35140711000001100,Celecoxib 100mg capsules (Milpharm Ltd),1
+1267,hasbled,bleeding_medications,S-35906711000001100,Celecoxib 100mg capsules (Consilient Health Ltd),1
+1268,hasbled,bleeding_medications,S-36751811000001104,Celecoxib 100mg capsules (Macleods Pharma UK Ltd),1
+1269,hasbled,bleeding_medications,S-36859211000001104,Celecoxib 100mg capsules (Torrent Pharma (UK) Ltd),1
+1270,hasbled,bleeding_medications,S-37893811000001104,Celecoxib 100mg capsules (Dawa Ltd),1
+1271,hasbled,bleeding_medications,S-28000911000001100,Celecoxib 200mg capsules (Teva UK Ltd),1
+1272,hasbled,bleeding_medications,S-28011911000001100,Celecoxib 200mg capsules (Upjohn UK Ltd),1
+1273,hasbled,bleeding_medications,S-28039211000001100,Celecoxib 200mg capsules (Alliance Healthcare (Distribution) Ltd),1
+1274,hasbled,bleeding_medications,S-28292911000001100,Celecoxib 200mg capsules (Zentiva),1
+1275,hasbled,bleeding_medications,S-28378411000001100,Celecoxib 200mg capsules (Actavis UK Ltd),1
+1276,hasbled,bleeding_medications,S-28378811000001100,Celecoxib 200mg capsules (A A H Pharmaceuticals Ltd),1
+1277,hasbled,bleeding_medications,S-29784111000001100,Celecoxib 200mg capsules (Sigma Pharmaceuticals Plc),1
+1278,hasbled,bleeding_medications,S-30011411000001100,Celecoxib 200mg capsules (Mawdsley-Brooks & Company Ltd),1
+1279,hasbled,bleeding_medications,S-30136611000001100,Celecoxib 200mg capsules (DE Pharmaceuticals),1
+1280,hasbled,bleeding_medications,S-32496411000001100,Celecoxib 200mg capsules (Brown & Burk UK Ltd),1
+1281,hasbled,bleeding_medications,S-33588911000001100,Celecoxib 200mg capsules (Mylan),1
+1282,hasbled,bleeding_medications,S-34584911000001100,Celecoxib 200mg capsules (Milpharm Ltd),1
+1283,hasbled,bleeding_medications,S-35906911000001100,Celecoxib 200mg capsules (Consilient Health Ltd),1
+1284,hasbled,bleeding_medications,S-36741411000001104,Celecoxib 200mg capsules (Macleods Pharma UK Ltd),1
+1285,hasbled,bleeding_medications,S-36859611000001104,Celecoxib 200mg capsules (Torrent Pharma (UK) Ltd),1
+1286,hasbled,bleeding_medications,S-37894011000001104,Celecoxib 200mg capsules (Dawa Ltd),1
+1287,hasbled,bleeding_medications,S-18711000001102,Celebrex 100mg capsules (Upjohn UK Ltd),1
+1288,hasbled,bleeding_medications,S-878111000001108,Celebrex 200mg capsules (Upjohn UK Ltd),1
+1289,hasbled,bleeding_medications,S-17061411000001100,Lornoxicam 8mg tablets (Special Order),1
+1290,hasbled,bleeding_medications,S-828011000001106,Piroxicam 10mg dispersible tablets (A A H Pharmaceuticals Ltd),1
+1291,hasbled,bleeding_medications,S-276611000001107,Piroxicam 20mg dispersible tablets (Mylan),1
+1292,hasbled,bleeding_medications,S-451911000001107,Piroxicam 20mg dispersible tablets (Alliance Healthcare (Distribution) Ltd),1
+1293,hasbled,bleeding_medications,S-497711000001109,Piroxicam 20mg dispersible tablets (A A H Pharmaceuticals Ltd),1
+1294,hasbled,bleeding_medications,S-878611000001100,Piroxicam 20mg dispersible tablets (Kent Pharmaceuticals Ltd),1
+1295,hasbled,bleeding_medications,S-235611000001100,Feldene 10mg capsules (Pfizer Ltd),1
+1296,hasbled,bleeding_medications,S-90611000001109,Feldene 20 capsules (Pfizer Ltd),1
+1297,hasbled,bleeding_medications,S-126111000001103,Feldene 20mg dispersible tablets (Pfizer Ltd),1
+1298,hasbled,bleeding_medications,S-192711000001106,Feldene Melt 20mg tablets (Pfizer Ltd),1
+1299,hasbled,bleeding_medications,S-17811000001106,Brexidol 20mg tablets (Chiesi Ltd),1
+1300,hasbled,bleeding_medications,S-3671411000001100,Sulindac 100mg tablets (A A H Pharmaceuticals Ltd),1
+1301,hasbled,bleeding_medications,S-3671811000001100,Sulindac 100mg tablets (Mylan),1
+1302,hasbled,bleeding_medications,S-3673711000001100,Sulindac 100mg tablets (Kent Pharmaceuticals Ltd),1
+1303,hasbled,bleeding_medications,S-3674511000001100,Sulindac 100mg tablets (Alliance Healthcare (Distribution) Ltd),1
+1304,hasbled,bleeding_medications,S-13583611000001100,Sulindac 100mg tablets (DE Pharmaceuticals),1
+1305,hasbled,bleeding_medications,S-17412711000001100,Sulindac 100mg tablets (Essential Generics Ltd),1
+1306,hasbled,bleeding_medications,S-3675211000001100,Sulindac 200mg tablets (A A H Pharmaceuticals Ltd),1
+1307,hasbled,bleeding_medications,S-3675511000001100,Sulindac 200mg tablets (Mylan),1
+1308,hasbled,bleeding_medications,S-3675811000001100,Sulindac 200mg tablets (Kent Pharmaceuticals Ltd),1
+1309,hasbled,bleeding_medications,S-3676211000001100,Sulindac 200mg tablets (Alliance Healthcare (Distribution) Ltd),1
+1310,hasbled,bleeding_medications,S-13583811000001100,Sulindac 200mg tablets (DE Pharmaceuticals),1
+1311,hasbled,bleeding_medications,S-17415011000001100,Sulindac 200mg tablets (Essential Generics Ltd),1
+1312,hasbled,bleeding_medications,S-308411000001108,Surgam 300mg tablets (Sanofi),1
+1313,hasbled,bleeding_medications,S-495411000001109,Surgam SA 300mg capsules (Sanofi),1
+1314,hasbled,bleeding_medications,S-212611000001100,Nabumetone 500mg tablets (Kent Pharmaceuticals Ltd),1
+1315,hasbled,bleeding_medications,S-282011000001105,Nabumetone 500mg tablets (A A H Pharmaceuticals Ltd),1
+1316,hasbled,bleeding_medications,S-351111000001101,Nabumetone 500mg tablets (Mylan),1
+1317,hasbled,bleeding_medications,S-436011000001102,Nabumetone 500mg tablets (Alliance Healthcare (Distribution) Ltd),1
+1318,hasbled,bleeding_medications,S-635011000001109,Nabumetone 500mg tablets (Teva UK Ltd),1
+1319,hasbled,bleeding_medications,S-330170001,Celecoxib 100mg capsules,1
+1320,hasbled,bleeding_medications,S-330169002,Celecoxib 200mg capsules,1
+1321,hasbled,bleeding_medications,S-408602008,Lornoxicam 8mg tablets,1
+1322,hasbled,bleeding_medications,S-407907003,Etoricoxib 60mg tablets,1
+1323,hasbled,bleeding_medications,S-407908008,Etoricoxib 90mg tablets,1
+1324,hasbled,bleeding_medications,S-407909000,Etoricoxib 120mg tablets,1
+1325,hasbled,bleeding_medications,S-13132911000001100,Etoricoxib 30mg tablets,1
+1326,hasbled,bleeding_medications,S-418352003,Dexibuprofen 300mg tablets,1
+1327,hasbled,bleeding_medications,S-418855005,Dexibuprofen 400mg tablets,1
+1328,hasbled,bleeding_medications,S-14606211000001100,Ibuprofen sodium dihydrate 200mg tablets,1
+1329,hasbled,bleeding_medications,S-14606311000001100,Ibuprofen sodium dihydrate 400mg tablets,1
+1330,hasbled,bleeding_medications,S-36566511000001104,Diclofenac sodium 25mg gastro-resistant tablets,1
+1331,hasbled,bleeding_medications,S-329587009,Diclofenac sodium 50mg gastro-resistant tablets,1
+1332,hasbled,bleeding_medications,S-36563711000001104,Diclofenac sodium 100mg modified-release tablets,1
+1333,hasbled,bleeding_medications,S-329591004,Diclofenac 50mg dispersible tablets sugar free,1
+1334,hasbled,bleeding_medications,S-329607001,Diclofenac sodium 75mg modified-release tablets,1
+1335,hasbled,bleeding_medications,S-329598005,Diclofenac sodium 50mg gastro-resistant / Misoprostol 200microgram tablets,1
+1336,hasbled,bleeding_medications,S-37084611000001104,Diclofenac sodium 100mg modified-release capsules,1
+1337,hasbled,bleeding_medications,S-329574003,Diclofenac sodium 75mg gastro-resistant modified-release capsules,1
+1338,hasbled,bleeding_medications,S-11651311000001100,Diclofenac 50mg/5ml oral solution,1
+1339,hasbled,bleeding_medications,S-37084911000001104,Diclofenac sodium 75mg modified-release capsules,1
+1340,hasbled,bleeding_medications,S-329602007,Diclofenac sodium 75mg gastro-resistant / Misoprostol 200microgram tablets,1
+1341,hasbled,bleeding_medications,S-8455411000001100,Diclofenac 25mg/5ml oral solution,1
+1342,hasbled,bleeding_medications,S-8455511000001100,Diclofenac 25mg/5ml oral suspension,1
+1343,hasbled,bleeding_medications,S-17369211000001100,Diclofenac 10mg dispersible tablets,1
+1344,hasbled,bleeding_medications,S-11650911000001100,Diclofenac 12.5mg/5ml oral solution,1
+1345,hasbled,bleeding_medications,S-11651011000001100,Diclofenac 12.5mg/5ml oral suspension,1
+1346,hasbled,bleeding_medications,S-8455011000001100,Diclofenac 10mg/5ml oral solution,1
+1347,hasbled,bleeding_medications,S-8455111000001100,Diclofenac 10mg/5ml oral suspension,1
+1348,hasbled,bleeding_medications,S-19525111000001100,Ibuprofen 200mg effervescent tablets,1
+1349,hasbled,bleeding_medications,S-32392411000001100,Ibuprofen 100mg chewable capsules,1
+1350,hasbled,bleeding_medications,S-36608611000001104,Ibuprofen 200mg/5ml oral suspension sugar free,1
+1351,hasbled,bleeding_medications,S-34878411000001100,Ibuprofen 200mg / Phenylephrine 6.1mg tablets,1
+1352,hasbled,bleeding_medications,S-329714006,Indometacin 25mg capsules,1
+1353,hasbled,bleeding_medications,S-329715007,Indometacin 50mg capsules,1
+1354,hasbled,bleeding_medications,S-36046811000001104,Indometacin 75mg modified-release capsules,1
+1355,hasbled,bleeding_medications,S-8561611000001100,Indometacin 25mg/5ml oral solution,1
+1356,hasbled,bleeding_medications,S-12638611000001100,Indometacin 20mg/5ml oral solution,1
+1357,hasbled,bleeding_medications,S-12638711000001100,Indometacin 20mg/5ml oral suspension,1
+1358,hasbled,bleeding_medications,S-8561811000001100,Indometacin 50mg/5ml oral solution,1
+1359,hasbled,bleeding_medications,S-8561911000001100,Indometacin 50mg/5ml oral suspension,1
+1360,hasbled,bleeding_medications,S-12638011000001100,Indometacin 10mg/5ml oral solution,1
+1361,hasbled,bleeding_medications,S-12638111000001100,Indometacin 10mg/5ml oral suspension,1
+1362,hasbled,bleeding_medications,S-15914011000001100,Indometacin 5mg/5ml oral solution,1
+1363,hasbled,bleeding_medications,S-15914111000001100,Indometacin 5mg/5ml oral suspension,1
+1364,hasbled,bleeding_medications,S-376878007,Indometacin 25mg/5ml oral suspension,1
+1365,hasbled,bleeding_medications,S-329758006,Ketoprofen 50mg capsules,1
+1366,hasbled,bleeding_medications,S-3377811000001100,Ketoprofen 100mg capsules,1
+1367,hasbled,bleeding_medications,S-36037011000001104,Ketoprofen 100mg modified-release capsules,1
+1368,hasbled,bleeding_medications,S-36037311000001104,Ketoprofen 200mg modified-release capsules,1
+1369,hasbled,bleeding_medications,S-36037211000001104,Ketoprofen 150mg modified-release capsules,1
+1370,hasbled,bleeding_medications,S-16174311000001100,Ketoprofen 100mg / Omeprazole 20mg modified-release capsules,1
+1371,hasbled,bleeding_medications,S-16174411000001100,Ketoprofen 200mg / Omeprazole 20mg modified-release capsules,1
+1372,hasbled,bleeding_medications,S-329790001,Mefenamic acid 250mg capsules,1
+1373,hasbled,bleeding_medications,S-35369111000001100,Mefenamic acid 50mg/5ml oral suspension,1
+1374,hasbled,bleeding_medications,S-329803004,Mefenamic acid 500mg tablets,1
+1375,hasbled,bleeding_medications,S-8662311000001100,Mefenamic acid 250mg/5ml oral suspension,1
+1376,hasbled,bleeding_medications,S-8662411000001100,Mefenamic acid 500mg/5ml oral suspension,1
+1377,hasbled,bleeding_medications,S-34618311000001100,Etoricoxib 60mg tablets (Teva UK Ltd),1
+1378,hasbled,bleeding_medications,S-34620411000001100,Etoricoxib 60mg tablets (Aspire Pharma Ltd),1
+1379,hasbled,bleeding_medications,S-34624411000001100,Etoricoxib 60mg tablets (Accord Healthcare Ltd),1
+1380,hasbled,bleeding_medications,S-34691311000001100,Etoricoxib 60mg tablets (Mylan),1
+1381,hasbled,bleeding_medications,S-34699011000001100,Etoricoxib 60mg tablets (A A H Pharmaceuticals Ltd),1
+1382,hasbled,bleeding_medications,S-34710911000001100,Etoricoxib 60mg tablets (Alliance Healthcare (Distribution) Ltd),1
+1383,hasbled,bleeding_medications,S-35160811000001100,Etoricoxib 60mg tablets (Milpharm Ltd),1
+1384,hasbled,bleeding_medications,S-36833211000001104,Etoricoxib 60mg tablets (Torrent Pharma (UK) Ltd),1
+1385,hasbled,bleeding_medications,S-37065011000001104,Etoricoxib 60mg tablets (Mawdsley-Brooks & Company Ltd),1
+1386,hasbled,bleeding_medications,S-37355211000001104,Etoricoxib 60mg tablets (Zentiva),1
+1387,hasbled,bleeding_medications,S-37377411000001104,Etoricoxib 60mg tablets (DE Pharmaceuticals),1
+1388,hasbled,bleeding_medications,S-34618511000001100,Etoricoxib 90mg tablets (Teva UK Ltd),1
+1389,hasbled,bleeding_medications,S-34620611000001100,Etoricoxib 90mg tablets (Aspire Pharma Ltd),1
+1390,hasbled,bleeding_medications,S-34624611000001100,Etoricoxib 90mg tablets (Accord Healthcare Ltd),1
+1391,hasbled,bleeding_medications,S-34691511000001100,Etoricoxib 90mg tablets (Mylan),1
+1392,hasbled,bleeding_medications,S-34699211000001100,Etoricoxib 90mg tablets (A A H Pharmaceuticals Ltd),1
+1393,hasbled,bleeding_medications,S-34711111000001100,Etoricoxib 90mg tablets (Alliance Healthcare (Distribution) Ltd),1
+1394,hasbled,bleeding_medications,S-35161011000001100,Etoricoxib 90mg tablets (Milpharm Ltd),1
+1395,hasbled,bleeding_medications,S-36833411000001104,Etoricoxib 90mg tablets (Torrent Pharma (UK) Ltd),1
+1396,hasbled,bleeding_medications,S-37065411000001104,Etoricoxib 90mg tablets (Mawdsley-Brooks & Company Ltd),1
+1397,hasbled,bleeding_medications,S-37355811000001104,Etoricoxib 90mg tablets (Zentiva),1
+1398,hasbled,bleeding_medications,S-37377611000001104,Etoricoxib 90mg tablets (DE Pharmaceuticals),1
+1399,hasbled,bleeding_medications,S-34618711000001100,Etoricoxib 120mg tablets (Teva UK Ltd),1
+1400,hasbled,bleeding_medications,S-34620811000001100,Etoricoxib 120mg tablets (Aspire Pharma Ltd),1
+1401,hasbled,bleeding_medications,S-34624711000001100,Etoricoxib 120mg tablets (Accord Healthcare Ltd),1
+1402,hasbled,bleeding_medications,S-34691711000001100,Etoricoxib 120mg tablets (Mylan),1
+1403,hasbled,bleeding_medications,S-34699411000001100,Etoricoxib 120mg tablets (A A H Pharmaceuticals Ltd),1
+1404,hasbled,bleeding_medications,S-34711311000001100,Etoricoxib 120mg tablets (Alliance Healthcare (Distribution) Ltd),1
+1405,hasbled,bleeding_medications,S-35161211000001100,Etoricoxib 120mg tablets (Milpharm Ltd),1
+1406,hasbled,bleeding_medications,S-642111000001104,Persantin 10mg/2ml solution for injection ampoules,1
+1407,hasbled,bleeding_medications,S-452911000001101,Persantin Retard 200mg capsules,1
+1408,hasbled,bleeding_medications,S-23610211000001100,Persantin Retard 200mg capsules,1
+1409,hasbled,bleeding_medications,S-269311000001103,Pyridantin 25mg tablets,1
+1410,hasbled,bleeding_medications,S-596611000001106,Pyridantin 100mg tablets,1
+1411,hasbled,bleeding_medications,S-24435511000001100,Attia 200mg modified-release capsules,1
+1412,hasbled,bleeding_medications,S-26779011000001100,Ofcram PR 200mg capsules,1
+1413,hasbled,bleeding_medications,S-34175911000001100,Trolactin 200mg modified-release capsules,1
+1414,hasbled,bleeding_medications,S-36069911000001104,Dipyridamole 200mg modified-release / Aspirin 25mg capsules,1
+1415,hasbled,bleeding_medications,S-3292511000001100,Asasantin Retard capsules,1
+1416,hasbled,bleeding_medications,S-23241511000001100,Molita 200mg/25mg modified-release capsules,1
+1417,hasbled,bleeding_medications,S-34609311000001100,Atransipar 200mg/25mg modified-release capsules,1
+1418,hasbled,bleeding_medications,S-443088009,Prasugrel 5mg tablets,1
+1419,hasbled,bleeding_medications,S-36824911000001104,Prasugrel 5mg tablets,1
+1420,hasbled,bleeding_medications,S-36927711000001104,Prasugrel 5mg tablets,1
+1421,hasbled,bleeding_medications,S-36825511000001104,Prasugrel 5mg tablets,1
+1422,hasbled,bleeding_medications,S-36655911000001104,Prasugrel 5mg tablets,1
+1423,hasbled,bleeding_medications,S-36760011000001104,Prasugrel 5mg tablets,1
+1424,hasbled,bleeding_medications,S-37777711000001104,Prasugrel 5mg tablets,1
+1425,hasbled,bleeding_medications,S-37268211000001104,Prasugrel 5mg tablets,1
+1426,hasbled,bleeding_medications,S-36780911000001104,Prasugrel 5mg tablets,1
+1427,hasbled,bleeding_medications,S-36917111000001104,Prasugrel 5mg tablets,1
+1428,hasbled,bleeding_medications,S-36882311000001104,Prasugrel 5mg tablets,1
+1429,hasbled,bleeding_medications,S-443469008,Prasugrel 10mg tablets,1
+1430,hasbled,bleeding_medications,S-36825111000001104,Prasugrel 10mg tablets,1
+1431,hasbled,bleeding_medications,S-36927911000001104,Prasugrel 10mg tablets,1
+1432,hasbled,bleeding_medications,S-36826611000001104,Prasugrel 10mg tablets,1
+1433,hasbled,bleeding_medications,S-36655711000001104,Prasugrel 10mg tablets,1
+1434,hasbled,bleeding_medications,S-36760211000001104,Prasugrel 10mg tablets,1
+1435,hasbled,liver_disease,S-720461006,Acute infantile liver failure due to synthesis defect of mitochondrial deoxyribonucleic acid encoded protein (disorder),1
+1436,hasbled,liver_disease,S-240792005,Symmer's pipe-stem fibrosis (disorder),1
+1437,hasbled,liver_disease,S-22508003,Hepatic failure due to a procedure (disorder),1
+1438,hasbled,liver_disease,S-725938001,Cirrhosis of liver caused by methotrexate (disorder),1
+1439,hasbled,liver_disease,S-33167004,Complication of transplanted liver (disorder),1
+1440,hasbled,stroke,S-195230003,Cerebral infarction due to cerebral venous thrombosis non-pyogenic (disorder),1
+1441,hasbled,liver_disease,S-715401008,Primary biliary cirrhosis co-occurrent with systemic scleroderma (disorder),1
+1442,hasbled,liver_disease,S-713542007,Portal hypertension caused by antiretroviral drug (disorder),1
+1443,hasbled,liver_disease,S-123606000,Cholangiolitic cirrhosis (disorder),1
+1444,hasbled,liver_disease,S-371139006,Early cirrhosis (disorder),1
+1445,hasbled,liver_disease,S-717156002,Biliary atresia with splenic malformation syndrome (disorder),1
+1446,hasbled,liver_disease,S-717865007,Gastric varices without bleeding (disorder),1
+1447,hasbled,renal_disease,S-324341000000100,Chronic kidney disease stage 3A without proteinuria (disorder),1
+1448,hasbled,bleeding_medications,S-33511000001106,Aspirin 75mg dispersible tablets,1
+1449,hasbled,bleeding_medications,S-594611000001102,Aspirin 75mg dispersible tablets,1
+1450,hasbled,bleeding_medications,S-852711000001109,Aspirin 75mg dispersible tablets,1
+1451,hasbled,bleeding_medications,S-21776611000001100,Aspirin 75mg dispersible tablets,1
+1452,hasbled,bleeding_medications,S-19429611000001100,Aspirin 75mg dispersible tablets,1
+1453,hasbled,bleeding_medications,S-319775004,Aspirin 75mg tablets,1
+1454,hasbled,bleeding_medications,S-17879711000001100,Aspirin 75mg tablets,1
+1455,hasbled,bleeding_medications,S-34175711000001100,Aspirin 75mg tablets,1
+1456,hasbled,bleeding_medications,S-17423311000001100,Aspirin 75mg tablets,1
+1457,hasbled,bleeding_medications,S-17629911000001100,Aspirin 75mg tablets,1
+1458,hasbled,bleeding_medications,S-22611811000001100,Aspirin 75mg tablets,1
+1459,hasbled,bleeding_medications,S-36611211000001104,Aspirin 75mg tablets,1
+1460,hasbled,bleeding_medications,S-35841711000001100,Aspirin 75mg tablets,1
+1461,hasbled,bleeding_medications,S-32394411000001100,Aspirin 75mg tablets,1
+1462,hasbled,bleeding_medications,S-38796811000001104,Aspirin 75mg tablets,1
+1463,hasbled,bleeding_medications,S-36492711000001104,Aspirin 75mg tablets,1
+1464,hasbled,bleeding_medications,S-37570511000001104,Aspirin 75mg tablets,1
+1465,hasbled,bleeding_medications,S-18082911000001100,Aspirin 75mg tablets,1
+1466,hasbled,bleeding_medications,S-29774911000001100,Aspirin 75mg tablets,1
+1467,hasbled,bleeding_medications,S-21777311000001100,Aspirin 75mg tablets,1
+1468,hasbled,bleeding_medications,S-319781007,Aspirin 75mg gastro-resistant tablets,1
+1469,hasbled,bleeding_medications,S-138011000001102,Aspirin 75mg gastro-resistant tablets,1
+1470,hasbled,bleeding_medications,S-281711000001100,Aspirin 75mg gastro-resistant tablets,1
+1471,hasbled,bleeding_medications,S-307211000001105,Aspirin 75mg gastro-resistant tablets,1
+1472,hasbled,bleeding_medications,S-9790111000001100,Aspirin 75mg gastro-resistant tablets,1
+1473,hasbled,bleeding_medications,S-10450211000001100,Aspirin 75mg gastro-resistant tablets,1
+1474,hasbled,bleeding_medications,S-15985411000001100,Aspirin 75mg gastro-resistant tablets,1
+1475,hasbled,bleeding_medications,S-799411000001102,Aspirin 75mg gastro-resistant tablets,1
+1476,hasbled,bleeding_medications,S-22611211000001100,Aspirin 75mg gastro-resistant tablets,1
+1477,hasbled,renal_disease,S-949521000000108,Chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A1 (disorder),1
+1478,hasbled,renal_disease,S-324441000000106,Chronic kidney disease stage 4 with proteinuria (disorder),1
+1479,hasbled,liver_disease,S-717187000,Nephronophthisis hepatic fibrosis syndrome (disorder),1
+1480,hasbled,liver_disease,S-713966008,Occult chronic type B viral hepatitis (disorder),1
+1481,hasbled,liver_disease,S-713965007,Sclerosis of portal vein and splenic vein caused by antiretroviral drug (disorder),1
+1482,hasbled,liver_disease,S-31005002,Hepatorenal syndrome due to a procedure (disorder),1
+1483,hasbled,liver_disease,S-16060001,Hepatic coma due to viral hepatitis A (disorder),1
+1484,hasbled,liver_disease,S-103611000119102,Cirrhosis of liver due to hepatitis B (disorder),1
+1485,hasbled,liver_disease,S-186624004,Acute hepatitis B with delta agent (coinfection) with hepatic coma (disorder),1
+1486,hasbled,liver_disease,S-86454000,Postnecrotic cirrhosis (disorder),1
+1487,hasbled,liver_disease,S-307008007,Exploration of liver hilum (procedure),1
+1488,hasbled,liver_disease,S-767809001,Chronic hepatitis C caused by hepatitis C virus genotype 6 (disorder),1
+1489,hasbled,liver_disease,S-123717006,Advanced cirrhosis (disorder),1
+1490,hasbled,liver_disease,S-125921000119106,Hepatic coma due to acute hepatitis C (disorder),1
+1491,hasbled,liver_disease,S-716203000,Decompensated cirrhosis of liver (disorder),1
+1492,hasbled,liver_disease,S-721847002,Joubert syndrome with congenital hepatic fibrosis (disorder),1
+1493,hasbled,liver_disease,S-722864002,Acute hepatic failure caused by hepatitis virus (disorder),1
+1494,hasbled,liver_disease,S-89789003,Chronic aggressive viral hepatitis (disorder),1
+1495,hasbled,stroke,S-195216008,Left sided cerebral hemisphere cerebrovascular accident (disorder),1
+1496,hasbled,liver_disease,S-1092801000119100,Hepatic ascites co-occurrent with chronic active hepatitis due to toxic liver disease (disorder),1
+1497,hasbled,liver_disease,S-768288001,Chronic hepatitis C caused by Hepatitis C virus genotype 1b (disorder),1
+1498,hasbled,liver_disease,S-721206006,Solitary varix of esophagus (disorder),1
+1499,hasbled,liver_disease,S-146371000119104,Hepatic coma due to chronic hepatitis C (disorder),1
+1500,hasbled,liver_disease,S-78208005,Pigment cirrhosis (disorder),1
+1501,hasbled,liver_disease,S-235212007,Balloon tamponade of esophagus using Sengstaken-Blakemore tube (procedure),1
+1502,hasbled,liver_disease,S-204782009,Atresia of hepatic ducts (disorder),1
+1503,hasbled,liver_disease,S-235898000,Pericellular fibrosis of congenital syphilis (disorder),1
+1504,hasbled,liver_disease,S-197303009,Bacterial portal cirrhosis (disorder),1
+1505,hasbled,liver_disease,S-173660005,Rigid esophagoscopy and injection sclerotherapy of varices (procedure),1
+1506,hasbled,liver_disease,S-27280000,Liver transplant with recipient hepatectomy (procedure),1
+1507,hasbled,liver_disease,S-703866000,Chronic hepatitis C with stage 2 fibrosis (disorder),1
+1508,hasbled,liver_disease,S-722865001,Subacute hepatic failure caused by hepatitis virus (disorder),1
+1509,hasbled,liver_disease,S-45256007,Cruveilhier-Baumgarten syndrome (disorder),1
+1510,hasbled,liver_disease,S-22846003,Hepatorenal syndrome following delivery (disorder),1
+1511,hasbled,stroke,S-230708002,Posterior cerebral circulation hemorrhagic infarction (disorder),1
+1512,hasbled,stroke,S-230707007,Anterior cerebral circulation hemorrhagic infarction (disorder),1
+1513,hasbled,stroke,S-230691006,CVA - cerebrovascular accident due to cerebral artery occlusion,1
+1514,hasbled,liver_disease,S-68094008,Congenital hypoplasia of bile duct (disorder),1
+1515,hasbled,liver_disease,S-235213002,Balloon tamponade of esophagus using Minnesota tube (procedure),1
+1516,hasbled,liver_disease,S-197293003,Diffuse nodular cirrhosis (disorder),1
+1517,hasbled,liver_disease,S-40946000,Hepatic coma due to viral hepatitis (disorder),1
+1518,hasbled,liver_disease,S-41889008,Chronic persistent hepatitis (disorder),1
+1519,hasbled,liver_disease,S-235875008,Alcoholic hepatitis (disorder),1
+1520,hasbled,liver_disease,S-235458006,Exploration of liver transplant (procedure),1
+1521,hasbled,liver_disease,S-413438002,Acute hepatic failure due to drugs (disorder),1
+1522,hasbled,liver_disease,S-308129003,Esophageal varices in cirrhosis of the liver (disorder),1
+1523,hasbled,liver_disease,S-173617001,Open operations on esophageal varices (procedure),1
+1524,hasbled,liver_disease,S-213230009,Hepatic failure as a complication of care (disorder),1
+1525,hasbled,liver_disease,S-699189004,North American Indian childhood cirrhosis (disorder),1
+1526,hasbled,liver_disease,S-109819003,Obstructive biliary cirrhosis (disorder),1
+1527,hasbled,liver_disease,S-27156006,Posthepatitic cirrhosis (disorder),1
+1528,hasbled,liver_disease,S-715864007,Non-Wilsonian hepatic copper toxicosis of infancy and childhood (disorder),1
+1529,hasbled,liver_disease,S-31155007,Benign recurrent intrahepatic cholestasis (disorder),1
+1530,hasbled,liver_disease,S-708198006,Chronic active hepatitis C (disorder),1
+1531,hasbled,liver_disease,S-426841006,Fiberoptic endoscopic rubber band ligation of upper gastrointestinal tract varices (procedure),1
+1532,hasbled,liver_disease,S-34736002,Chronic passive congestion of liver (disorder),1
+1533,hasbled,liver_disease,S-328383001,Chronic liver disease (disorder),1
+1534,hasbled,liver_disease,S-309783001,Esophageal varices in alcoholic cirrhosis of the liver (disorder),1
+1535,hasbled,liver_disease,S-427022004,Liver disease due to cystic fibrosis (disorder),1
+1536,hasbled,liver_disease,S-707420003,Portal hypertension due to cystic fibrosis (disorder),1
+1537,hasbled,liver_disease,S-314963000,Local recurrence of malignant tumor of liver (disorder),1
+1538,hasbled,liver_disease,S-432772009,Hyperacute rejection of liver transplant (disorder),1
+1539,hasbled,liver_disease,S-721160006,Downhill varices of esophagus (disorder),1
+1540,hasbled,liver_disease,S-66870002,Chronic active viral hepatitis (disorder),1
+1541,hasbled,stroke,S-230695002,Partial anterior cerebral circulation infarction (disorder),1
+1542,hasbled,labile_inr,S-866421000000100,International normalized ratio abnormal (finding),1
+1543,hasbled,liver_disease,S-768127002,Chronic hepatitis C caused by Hepatitis C virus genotype 1 (disorder),1
+1544,hasbled,liver_disease,S-721712002,Autoimmune hepatitis type 2 (disorder),1
+1545,hasbled,liver_disease,S-721713007,Autoimmune hepatitis type 3 (disorder),1
+1546,hasbled,liver_disease,S-37688005,Clonorchiasis with biliary cirrhosis (disorder),1
+1547,hasbled,liver_disease,S-153091000119109,Hepatic coma due to chronic hepatitis B with delta agent (disorder),1
+1548,hasbled,stroke,S-195189003,Cerebral infarction due to thrombosis of cerebral arteries,1
+1549,hasbled,liver_disease,S-38662009,Chronic persistent type B viral hepatitis (disorder),1
+1550,hasbled,liver_disease,S-44047000,Zieve's syndrome (disorder),1
+1551,hasbled,liver_disease,S-831000119103,Cirrhosis of liver due to chronic hepatitis C (disorder),1
+1552,hasbled,liver_disease,S-432908002,Chronic rejection of liver transplant (disorder),1
+1553,hasbled,liver_disease,S-123716002,Latent cirrhosis (disorder),1
+1554,hasbled,liver_disease,S-735451005,Chronic infection caused by Hepatitis D virus (disorder),1
+1555,hasbled,liver_disease,S-197368002,Hepatic granulomas in sarcoidosis (disorder),1
+1556,hasbled,liver_disease,S-197324004,Liver abscess and sequelae of chronic liver disease (disorder),1
+1557,hasbled,liver_disease,S-89580002,Cryptogenic cirrhosis (disorder),1
+1558,hasbled,liver_disease,S-41309000,Alcoholic liver damage (disorder),1
+1559,hasbled,liver_disease,S-204781002,Congenital absence of hepatic ducts (disorder),1
+1560,hasbled,stroke,S-195190007,Cerebral infarction due to embolism of cerebral arteries,1
+1561,hasbled,liver_disease,S-67364009,Ligation of esophageal varices (procedure),1
+1562,hasbled,liver_disease,S-197301006,Toxic portal cirrhosis (disorder),1
+1563,hasbled,liver_disease,S-57339008,Chronic lobular hepatitis (disorder),1
+1564,hasbled,liver_disease,S-197275004,Subacute hepatic failure (disorder),1
+1565,hasbled,liver_disease,S-235880004,Alcoholic fibrosis and sclerosis of liver (disorder),1
+1566,hasbled,liver_disease,S-73475009,Hepatogenous chronic copper poisoning (disorder),1
+1567,hasbled,liver_disease,S-768126006,Chronic hepatitis C caused by Hepatitis C virus genotype 4 (disorder),1
+1568,hasbled,liver_disease,S-431222008,Acute rejection of liver transplant (disorder),1
+1569,hasbled,liver_disease,S-123607009,Septal fibrosis of liver (disorder),1
+1570,hasbled,liver_disease,S-9843006,Chronic lymphocytic cholangitis-cholangiohepatitis (disorder),1
+1571,hasbled,liver_disease,S-721711009,Autoimmune hepatitis type 1 (disorder),1
+1572,hasbled,liver_disease,S-314587006,Trial dissection of liver mass (procedure),1
+1573,hasbled,liver_disease,S-721710005,Fibrosis of liver caused by alcohol (disorder),1
+1574,hasbled,liver_disease,S-24807004,Bleeding gastric varices (disorder),1
+1575,hasbled,liver_disease,S-424340000,Hepatic coma due to chronic hepatitis B (disorder),1
+1576,hasbled,liver_disease,S-195476002,Esophageal varices without bleeding associated with another disorder (disorder),1
+1577,hasbled,liver_disease,S-235895002,Laennec's cirrhosis non-alcoholic (disorder),1
+1578,hasbled,liver_disease,S-235902006,Intrahepatic phlebosclerosis and fibrosis (disorder),1
+1579,hasbled,liver_disease,S-235912004,Liver transplant failure (disorder),1
+1580,hasbled,liver_disease,S-14223005,Esophageal varices without bleeding (disorder),1
+1581,hasbled,liver_disease,S-276723008,Intrahepatic biliary hypoplasia (disorder),1
+1582,hasbled,liver_disease,S-768289009,Chronic hepatitis C caused by Hepatitis C virus genotype 1a (disorder),1
+1583,hasbled,liver_disease,S-33144001,Parasitic cirrhosis (disorder),1
+1584,hasbled,liver_disease,S-347891000119103,Chronic hepatitis C with stage 3 fibrosis (disorder),1
+1585,hasbled,liver_disease,S-50167007,Chronic active type B viral hepatitis (disorder),1
+1586,hasbled,liver_disease,S-713181003,Chronic alcoholic liver disease (disorder),1
+1587,hasbled,liver_disease,S-16070004,Syphilitic cirrhosis (disorder),1
+1588,hasbled,liver_disease,S-28009009,Liver transplant without recipient hepatectomy (procedure),1
+1589,hasbled,liver_disease,S-722867009,Idiopathic portal hypertension (disorder),1
+1590,hasbled,liver_disease,S-450880008,Chronic hepatitis E (disorder),1
+1591,hasbled,liver_disease,S-28670008,Esophageal varices (disorder),1
+1592,hasbled,liver_disease,S-197359004,Toxic liver disease with chronic persistent hepatitis (disorder),1
+1593,hasbled,liver_disease,S-197305002,Syphilitic portal cirrhosis (disorder),1
+1594,hasbled,liver_disease,S-197316009,Portal fibrosis without cirrhosis (disorder),1
+1595,hasbled,liver_disease,S-428198008,Transplantation of hepatocytes (procedure),1
+1596,hasbled,liver_disease,S-197441003,Primary sclerosing cholangitis (disorder),1
+1597,hasbled,liver_disease,S-173621008,Open injection sclerotherapy to esophageal varices (procedure),1
+1598,hasbled,liver_disease,S-173641003,Fiberoptic esophagoscopy and banding of esophageal varices (procedure),1
+1599,hasbled,liver_disease,S-197294009,Fatty portal cirrhosis (disorder),1
+1600,hasbled,liver_disease,S-420054005,Alcoholic cirrhosis (disorder),1
+1601,hasbled,liver_disease,S-15999000,Mixed micro AND macronodular cirrhosis (disorder),1
+1602,hasbled,liver_disease,S-266470007,Cardiac portal cirrhosis (disorder),1
+1603,hasbled,liver_disease,S-186628001,Viral hepatitis C with coma (disorder),1
+1604,hasbled,liver_disease,S-12368000,Secondary biliary cirrhosis (disorder),1
+1605,hasbled,liver_disease,S-186639003,Chronic viral hepatitis B without delta-agent (disorder),1
+1606,hasbled,renal_disease,S-700378005,Chronic kidney disease stage 3A (disorder),1
+1607,hasbled,alcohol,S-777631000000000,Increasing risk alcohol drinking (finding),1
+1608,hasbled,renal_disease,S-431856006,Chronic kidney disease stage 2 (disorder),1
+1609,hasbled,renal_disease,S-433144002,Chronic kidney disease stage 3 (disorder),1
+1610,hasbled,renal_disease,S-433146000,Chronic kidney disease stage 5 (disorder),1
+1611,hasbled,stroke,S-230717002,Vertebrobasilar territory transient ischemic attack (disorder),1
+1612,hasbled,stroke,S-230710000,Lobar cerebral hemorrhage,1
+1613,hasbled,stroke,S-230696001,Posterior cerebral circulation infarction (disorder),1
+1614,hasbled,stroke,S-195169004,Intracerebral hemorrhage multiple localized,1
+1615,hasbled,stroke,S-230701008,Pure sensorimotor lacunar infarction (disorder),1
+1616,hasbled,liver_disease,S-19943007,Cirrhosis of liver (disorder),1
+1617,hasbled,liver_disease,S-10295004,Chronic viral hepatitis (disorder),1
+1618,hasbled,liver_disease,S-174426002,Heterotopic liver transplant (procedure),1
+1619,hasbled,liver_disease,S-235896001,Infectious cirrhosis (disorder),1
+1620,hasbled,liver_disease,S-197300007,Pipestem portal cirrhosis (disorder),1
+1621,hasbled,stroke,S-195211003,Posterior cerebral artery syndrome (disorder),1
+1622,hasbled,alcohol,S-777651000000000,Higher risk alcohol drinking (finding),1
+1623,hasbled,liver_disease,S-197284004,Chronic active hepatitis (disorder),1
+1624,hasbled,liver_disease,S-31712002,Primary biliary cholangitis (disorder),1
+1625,hasbled,liver_disease,S-197270009,Acute hepatic failure (disorder),1
+1626,hasbled,liver_disease,S-197299004,Pigmentary portal cirrhosis (disorder),1
+1627,hasbled,liver_disease,S-235889003,Drug-induced chronic hepatitis (disorder),1
+1628,hasbled,stroke,S-195210002,Anterior cerebral artery syndrome (disorder),1
+1629,hasbled,stroke,S-78569004,Posterior inferior cerebellar artery syndrome,1
+1630,hasbled,stroke,S-230703006,Dysarthria-clumsy hand syndrome (disorder),1
+1631,hasbled,stroke,S-195199008,Vertebrobasilar artery syndrome (disorder),1
+1632,hasbled,stroke,S-90099008,Subcortical leukoencephalopathy (disorder),1
+1633,hasbled,stroke,S-20908003,Subcortical cerebral hemorrhage (disorder),1
+1634,hasbled,stroke,S-276219001,Occipital cerebral infarction (disorder),1
+1635,hasbled,stroke,S-195205001,Impending cerebral ischemia (disorder),1
+1636,hasbled,stroke,S-230713003,Stroke of uncertain pathology (disorder),1
+1637,hasbled,stroke,S-751371000000107,Personal history of transient ischaemic attack (situation),1
+1638,hasbled,stroke,S-230702001,Lacunar ataxic hemiparesis (disorder),1
+1639,hasbled,stroke,S-307363008,Multiple lacunar infarcts (disorder),1
+1640,hasbled,stroke,S-275434003,Stroke in the puerperium (disorder),1
+1641,hasbled,stroke,S-230690007,Cerebrovascular accident (disorder),1
+1642,hasbled,alcohol,S-160577002,Heavy drinker - 7-9u/day (finding),1
+1643,hasbled,stroke,S-426107000,Acute lacunar infarction (disorder),1
+1644,hasbled,renal_disease,S-431857002,Chronic kidney disease stage 4 (disorder),1
+1645,hasbled,renal_disease,S-949881000000106,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1 (disorder),1
+1646,hasbled,stroke,S-195211003,Posterior cerebral artery syndrome,1
+1647,hasbled,stroke,S-276221006,Millard-Gubler syndrome (disorder),1
+1648,hasbled,stroke,S-230716006,Anterior circulation transient ischaemic attack,1
+1649,hasbled,stroke,S-230693009,Anterior cerebral circulation infarction (disorder),1
+1650,hasbled,stroke,S-413758000,Cardioembolic stroke (disorder),1
+1651,hasbled,stroke,S-230714009,Anterior circulation stroke of uncertain pathology (disorder),1
+1652,hasbled,stroke,S-64009001,Basilar artery syndrome (disorder),1
+1653,hasbled,stroke,S-24654003,Weber-Gubler syndrome (disorder),1
+1654,hasbled,stroke,S-230700009,Pure sensory lacunar infarction,1
+1655,hasbled,stroke,S-307767006,Right sided cerebral infarction,1
+1656,hasbled,stroke,S-230711001,Thalamic hemorrhage (disorder),1
+1657,hasbled,stroke,S-230690007,CVA - Cerebrovascular accident,1
+1658,hasbled,stroke,S-307766002,Left sided cerebral infarction,1
+1659,hasbled,stroke,S-1089421000000105,Cerebral infarction due to stenosis of cerebral artery (disorder),1
+1660,hasbled,alcohol,S-228279004,Very heavy drinker (finding),1
+1661,hasbled,stroke,S-230699008,Pure motor lacunar syndrome,1
+1662,hasbled,stroke,S-276220007,Foville syndrome (disorder),1
+1663,hasbled,stroke,S-195213000,Cerebellar stroke syndrome,1
+1664,hasbled,stroke,S-732923001,Hemorrhage of medulla oblongata (disorder),1
+1665,hasbled,stroke,S-230692004,Infarction - precerebral,1
+1666,hasbled,alcohol,S-86933000,Heavy drinker (finding),1
+1667,hasbled,stroke,S-266257000,TIA,1
+1668,hasbled,stroke,S-87555007,Claude's syndrome (disorder),1
+1669,hasbled,stroke,S-15258001,Subclavian steal syndrome (disorder),1
+1670,hasbled,stroke,S-140921000119102,Ischaemic stroke without coma,1
+1671,hasbled,stroke,S-7713009,Intrapontine hemorrhage,1
+1672,hasbled,stroke,S-95460007,Cerebellar infarction,1
+1673,hasbled,stroke,S-75038005,Cerebellar hemorrhage,1
+1674,hasbled,stroke,S-71444005,Cerebral thrombosis,1
+1675,hasbled,stroke,S-75543006,Cerebral embolism,1
+1676,hasbled,stroke,S-195209007,Middle cerebral artery syndrome,1
+1677,hasbled,bleeding,S-251739019,H/O: haematemesis,1
+1678,hasbled,bleeding,S-251740017,H/O: melaena,1
+1679,hasbled,bleeding,S-2986975018,H/O: GI Bleed,1
+1680,hasbled,bleeding,S-411546012,H/O: GI Bleed,1
+1681,hasbled,bleeding,S-2984033019,H/O: abnormal uterine bleeding,1
+1682,hasbled,bleeding,S-411565016,H/O: abnormal uterine bleeding,1
+1683,hasbled,bleeding,S-397855015,H/O: abnormal uterine bleeding,1
+1684,hasbled,bleeding,S-2670003011,H/O: abnormal uterine bleeding,1
+1685,hasbled,bleeding,S-252138018,H/O: ante-partum haemorrhage,1
+1686,hasbled,bleeding,S-252145018,H/O: post-partum haemorrhage,1
+1687,hasbled,bleeding,S-492111018,Surgical arrest of postoperative bleeding of adenoid,1
+1688,hasbled,bleeding,S-66269014,Surgical arrest of postoperative bleeding of adenoid,1
+1689,hasbled,bleeding,S-268351013,Surgical arrest of postoperative bleeding from tooth socket,1
+1690,hasbled,bleeding,S-268510012,Surgical arrest of postoperative bleeding from tonsillar bed,1
+1691,hasbled,bleeding,S-275461019,Reopen abdo reexplore intraabd op site surg arr postop bleed,1
+1692,hasbled,bleeding,S-276081018,Reopen cranium reexploration op site arrest post op bleeding,1
+1693,hasbled,bleeding,S-1372281000000110,Reexploration of organ & surgical arrest postop bleeding NOC,1
+1694,hasbled,bleeding,S-403111013,Haematoma - postoperative,1
+1695,hasbled,bleeding,S-215721000000114,Haematoma - postoperative,1
+1696,hasbled,bleeding,S-403111013,Haemorrhage - postoperative,1
+1697,hasbled,bleeding,S-215721000000114,Haemorrhage - postoperative,1
+1698,hasbled,bleeding,S-202906017,Post-operative haemorrhage,1
+1699,hasbled,bleeding,S-348211019,Post-operative haemorrhage,1
+1700,hasbled,bleeding,S-325137018,Post-operative haematoma formation,1
+1701,hasbled,bleeding,S-265690015,Evacuation of haematoma from cerebellum,1
+1702,hasbled,bleeding,S-279429014,Evacuation of intracerebral haematoma NEC,1
+1703,hasbled,bleeding,S-265968017,Evacuation of extradural haematoma,1
+1704,hasbled,bleeding,S-267223015,Drainage of haematoma of external ear,1
+1705,hasbled,bleeding,S-267225010,Drainage of haematoma of external ear,1
+1706,hasbled,bleeding,S-267229016,Drainage haematoma ext ear control cavity c bolster suture,1
+1707,hasbled,bleeding,S-267230014,Drainage haematoma ext ear control cavity c bolster suture,1
+1708,hasbled,bleeding,S-509428015,Evacuation of perianal haematoma,1
+1709,hasbled,bleeding,S-433186012,Evacuation of perianal haematoma,1
+1710,hasbled,bleeding,S-1216830016,Evacuation of haematoma of vulva,1
+1711,hasbled,bleeding,S-275087014,Liposuction removal of haematoma,1
+1712,hasbled,bleeding,S-508104019,Drainage of subungual haematoma,1
+1713,hasbled,bleeding,S-1372141000000110,Aspiration of haematoma of organ NOC,1
+1714,hasbled,bleeding,S-444575012,Evacuation of haematoma NEC,1
+1715,hasbled,bleeding,S-507866018,Haematoma of pinna,1
+1716,hasbled,bleeding,S-2108091000000110,Perianal haematoma,1
+1717,hasbled,bleeding,S-2107761000000110,Perianal haematoma,1
+1718,hasbled,bleeding,S-196520016,Perianal haematoma,1
+1719,hasbled,bleeding,S-483206018,Perianal haematoma,1
+1720,hasbled,bleeding,S-483208017,Perianal haematoma,1
+1721,hasbled,bleeding,S-483209013,Perianal haematoma,1
+1722,hasbled,bleeding,S-304143019,Intrarenal haematoma,1
+1723,hasbled,bleeding,S-304163014,Perirenal haematoma,1
+1724,hasbled,bleeding,S-304164015,Perirenal haematoma,1
+1725,hasbled,bleeding,S-304493010,Corpus cavernosum haematoma,1
+1726,hasbled,bleeding,S-304525014,Scrotal haematoma due to nontraumatic cause,1
+1727,hasbled,bleeding,S-1216444017,Testicular haematoma due to nontraumatic cause,1
+1728,hasbled,bleeding,S-304630018,Breast haematoma due to nontraumatic cause,1
+1729,hasbled,bleeding,S-505536016,Haematoma of the broad ligament,1
+1730,hasbled,bleeding,S-1216870011,Haematoma of vulva,1
+1731,hasbled,bleeding,S-501268015,Haematoma of vulva,1
+1732,hasbled,bleeding,S-355700019,Vulval and perineal haematoma during delivery,1
+1733,hasbled,bleeding,S-1476435017,Vulval and perineal haematoma during delivery,1
+1734,hasbled,bleeding,S-398425015,Vulval and perineal haematoma during delivery,1
+1735,hasbled,bleeding,S-355700019,Perineal haematoma,1
+1736,hasbled,bleeding,S-1476435017,Perineal haematoma,1
+1737,hasbled,bleeding,S-398425015,Perineal haematoma,1
+1738,hasbled,bleeding,S-355700019,Vulval and perineal haematoma during delivery,1
+1739,hasbled,bleeding,S-1476435017,Vulval and perineal haematoma during delivery,1
+1740,hasbled,bleeding,S-398425015,Vulval and perineal haematoma during delivery,1
+1741,hasbled,bleeding,S-1476418016,Vulval and perineal haematoma during delivery - delivered,1
+1742,hasbled,bleeding,S-307238010,Vulval and perineal haematoma during delivery - delivered,1
+1743,hasbled,bleeding,S-1476435017,Vulval and perineal haematoma during delivery NOS,1
+1744,hasbled,bleeding,S-307319015,Obstetric trauma causing pelvic haematoma,1
+1745,hasbled,bleeding,S-307323011,Obstetric pelvic haematoma - delivered,1
+1746,hasbled,bleeding,S-1207311012,Haematoma of obstetric wound,1
+1747,hasbled,bleeding,S-355715018,Haematoma - perineal wound,1
+1748,hasbled,bleeding,S-391028016,Traumatic extradural haematoma,1
+1749,hasbled,bleeding,S-391029012,Traumatic extradural haematoma,1
+1750,hasbled,bleeding,S-390818018,Liver haematoma and contusion without open wound into cavity,1
+1751,hasbled,bleeding,S-321114016,Spleen haematoma with open wound into cavity,1
+1752,hasbled,bleeding,S-321133014,Kidney haematoma with open wound into cavity,1
+1753,hasbled,bleeding,S-405391016,Haematoma with intact skin,1
+1754,hasbled,bleeding,S-405392011,Haematoma with intact skin,1
+1755,hasbled,bleeding,S-405393018,Haematoma with intact skin,1
+1756,hasbled,bleeding,S-405394012,Haematoma with intact skin,1
+1757,hasbled,bleeding,S-405395013,Haematoma with intact skin,1
+1758,hasbled,bleeding,S-451473014,Haematoma of rectus sheath,1
+1759,hasbled,bleeding,S-114430017,Perianal haematoma,1
+1760,hasbled,bleeding,S-222501000000111,Perianal haematoma,1
+1761,hasbled,bleeding,S-403014019,Subungal haematoma,1
+1762,hasbled,bleeding,S-322816019,"Contusion, fingernail (includes subungual haematoma)",1
+1763,hasbled,bleeding,S-151760014,Haematoma of leg,1
+1764,hasbled,bleeding,S-409951019,Traumatic haematoma,1
+1765,hasbled,bleeding,S-1476077014,Haematoma NOS,1
+1766,hasbled,bleeding,S-2162136014,Haematoma NOS,1
+1767,hasbled,bleeding,S-2162137017,Haematoma NOS,1
+1768,hasbled,bleeding,S-473549012,Haematoma NOS,1
+1769,hasbled,bleeding,S-391070014,Haematoma NOS,1
+1770,hasbled,bleeding,S-1476077014,Intramuscular haematoma NOS,1
+1771,hasbled,bleeding,S-2162136014,Intramuscular haematoma NOS,1
+1772,hasbled,bleeding,S-2162137017,Intramuscular haematoma NOS,1
+1773,hasbled,bleeding,S-473549012,Intramuscular haematoma NOS,1
+1774,hasbled,bleeding,S-391070014,Intramuscular haematoma NOS,1
+1775,hasbled,bleeding,S-403111013,Peri-operative haemorrhage or haematoma,1
+1776,hasbled,bleeding,S-215721000000114,Peri-operative haemorrhage or haematoma,1
+1777,hasbled,bleeding,S-265689012,Evacuation of haematoma from temporal lobe of brain,1
+1778,hasbled,bleeding,S-265722013,Aspiration of haematoma of brain tissue,1
+1779,hasbled,bleeding,S-498519016,Evacuation of subdural haematoma,1
+1780,hasbled,bleeding,S-498520010,Evacuation of subdural haematoma,1
+1781,hasbled,bleeding,S-1216125018,Subarachnoid haemorrhage,1
+1782,hasbled,bleeding,S-481028017,Subarachnoid haemorrhage,1
+1783,hasbled,bleeding,S-405379013,Subarachnoid haemorrhage,1
+1784,hasbled,bleeding,S-405380011,Subarachnoid haemorrhage,1
+1785,hasbled,bleeding,S-300242011,Ruptured berry aneurysm,1
+1786,hasbled,bleeding,S-300244012,Subarachnoid haemorrhage from carotid siphon and bifurcation,1
+1787,hasbled,bleeding,S-412353018,Subarachnoid haemorrhage from middle cerebral artery,1
+1788,hasbled,bleeding,S-412357017,Subarachnoid haemorrhage from anterior communicating artery,1
+1789,hasbled,bleeding,S-412360012,Subarachnoid haemorrhage from posterior communicating artery,1
+1790,hasbled,bleeding,S-300253017,Subarachnoid haemorrhage from vertebral artery,1
+1791,hasbled,bleeding,S-2819959010,Intracerebral haemorrhage,1
+1792,hasbled,bleeding,S-3673215016,Intracerebral haemorrhage,1
+1793,hasbled,bleeding,S-3673217012,Intracerebral haemorrhage,1
+1794,hasbled,bleeding,S-409859018,Intracerebral haemorrhage,1
+1795,hasbled,bleeding,S-409860011,Intracerebral haemorrhage,1
+1796,hasbled,bleeding,S-2819959010,CVA - cerebrovascular accid due to intracerebral haemorrhage,1
+1797,hasbled,bleeding,S-3673215016,CVA - cerebrovascular accid due to intracerebral haemorrhage,1
+1798,hasbled,bleeding,S-3673217012,CVA - cerebrovascular accid due to intracerebral haemorrhage,1
+1799,hasbled,bleeding,S-409859018,CVA - cerebrovascular accid due to intracerebral haemorrhage,1
+1800,hasbled,bleeding,S-409860011,CVA - cerebrovascular accid due to intracerebral haemorrhage,1
+1801,hasbled,bleeding,S-2819959010,Stroke due to intracerebral haemorrhage,1
+1802,hasbled,bleeding,S-3673215016,Stroke due to intracerebral haemorrhage,1
+1803,hasbled,bleeding,S-3673217012,Stroke due to intracerebral haemorrhage,1
+1804,hasbled,bleeding,S-409859018,Stroke due to intracerebral haemorrhage,1
+1805,hasbled,bleeding,S-409860011,Stroke due to intracerebral haemorrhage,1
+1806,hasbled,bleeding,S-495394013,Cortical haemorrhage,1
+1807,hasbled,bleeding,S-496232015,Internal capsule haemorrhage,1
+1808,hasbled,bleeding,S-300272017,Basal nucleus haemorrhage,1
+1809,hasbled,bleeding,S-502878012,Cerebellar haemorrhage,1
+1810,hasbled,bleeding,S-503469016,Pontine haemorrhage,1
+1811,hasbled,bleeding,S-483988011,Bulbar haemorrhage,1
+1812,hasbled,bleeding,S-300276019,External capsule haemorrhage,1
+1813,hasbled,bleeding,S-300277011,"Intracerebral haemorrhage, intraventricular",1
+1814,hasbled,bleeding,S-300280012,"Intracerebral haemorrhage, multiple localized",1
+1815,hasbled,bleeding,S-2819959010,Intracerebral haemorrhage NOS,1
+1816,hasbled,bleeding,S-1773153015,Extradural haemorrhage - nontraumatic,1
+1817,hasbled,bleeding,S-300294013,Subdural haemorrhage - nontraumatic,1
+1818,hasbled,bleeding,S-300293019,Subdural haemorrhage - nontraumatic,1
+1819,hasbled,bleeding,S-2469010019,Subdural haematoma - nontraumatic,1
+1820,hasbled,bleeding,S-486181011,Subdural haemorrhage NOS,1
+1821,hasbled,bleeding,S-475553012,Intracranial haemorrhage NOS,1
+1822,hasbled,bleeding,S-300406018,Sequelae of subarachnoid haemorrhage,1
+1823,hasbled,bleeding,S-2916058017,Subarachnoid haemorrhage following injury,1
+1824,hasbled,bleeding,S-2916363013,Subarachnoid haemorrhage following injury,1
+1825,hasbled,bleeding,S-320836010,Subarachnoid haemorrhage following injury,1
+1826,hasbled,bleeding,S-2915482010,Subarachnoid haemorrhage following injury,1
+1827,hasbled,bleeding,S-2916058017,Subdural haemorrhage following injury,1
+1828,hasbled,bleeding,S-2916363013,Subdural haemorrhage following injury,1
+1829,hasbled,bleeding,S-320836010,Subdural haemorrhage following injury,1
+1830,hasbled,bleeding,S-2915482010,Subdural haemorrhage following injury,1
+1831,hasbled,bleeding,S-483737017,Closed traumatic subarachnoid haemorrhage,1
+1832,hasbled,bleeding,S-46957015,Closed traumatic subarachnoid haemorrhage,1
+1833,hasbled,bleeding,S-496337012,Open traumatic subarachnoid haemorrhage,1
+1834,hasbled,bleeding,S-320752018,Closed traumatic subdural haemorrhage,1
+1835,hasbled,bleeding,S-320771016,Open traumatic subdural haemorrhage,1
+1836,hasbled,bleeding,S-2915656010,Traumatic subarachnoid haemorrhage,1
+1837,hasbled,bleeding,S-2915309017,Traumatic subarachnoid haemorrhage,1
+1838,hasbled,bleeding,S-320836010,Traumatic subdural haemorrhage,1
+1839,hasbled,bleeding,S-320835014,Traumatic subdural haemorrhage,1
+1840,hasbled,bleeding,S-2912898019,Traumatic subdural haematoma,1
+1841,hasbled,bleeding,S-2913152010,Traumatic subdural haematoma,1
+1842,hasbled,bleeding,S-459511018,Traumatic subdural haematoma without open intracranial wound,1
+1843,hasbled,bleeding,S-459514014,Traumatic subdural haematoma with open intracranial wound,1
+1844,hasbled,bleeding,S-486896012,Intracranial haematoma following injury,1
+1845,hasbled,bleeding,S-78268012,Intracranial haematoma following injury,1
+1846,hasbled,bleeding,S-255337011,O/E - retinal haemorrhages,1
+1847,hasbled,bleeding,S-255341010,O/E - vitreous haemorrhages,1
+1848,hasbled,bleeding,S-510363011,Intra-ocular haemorrhage,1
+1849,hasbled,bleeding,S-1216693019,Retinal pigment epithelium haemorrhagic detachment,1
+1850,hasbled,bleeding,S-1216289019,Haemorrhage - retinal,1
+1851,hasbled,bleeding,S-499542018,Superficial retinal haemorrhage,1
+1852,hasbled,bleeding,S-495202016,Deep retinal haemorrhage,1
+1853,hasbled,bleeding,S-475607010,Subretinal haemorrhage,1
+1854,hasbled,bleeding,S-484055013,Retinal haemorrhage NOS,1
+1855,hasbled,bleeding,S-469795010,Unspecified choroidal haemorrhage,1
+1856,hasbled,bleeding,S-1256014,Unspecified choroidal haemorrhage,1
+1857,hasbled,bleeding,S-420970014,Expulsive choroidal haemorrhage,1
+1858,hasbled,bleeding,S-479008012,Haemorrhagic choroidal detachment,1
+1859,hasbled,bleeding,S-1216354019,Vitreous haemorrhage,1
+1860,hasbled,bleeding,S-484848010,Vitreous haemorrhage,1
+1861,hasbled,bleeding,S-493552012,Epidural haematoma following injury,1
+1862,hasbled,bleeding,S-505381016,Epidural haemorrhage,1
+1863,hasbled,bleeding,S-271286015,Decompression of cardiac tamponade,1
+1864,hasbled,bleeding,S-299816014,Haemopericardium/current comp folow acut myocard infarct,1
+1865,hasbled,bleeding,S-39303019,Haemopericardium,1
+1866,hasbled,bleeding,S-58913019,Cardiac tamponade,1
+1867,hasbled,bleeding,S-320982018,Injury of heart with haemopericardium,1
+1868,hasbled,bleeding,S-253195013,Nose bleed symptom,1
+1869,hasbled,bleeding,S-253197017,Has nose bleeds - epistaxis,1
+1870,hasbled,bleeding,S-267550012,Surgical arrest of bleeding from internal nose,1
+1871,hasbled,bleeding,S-372073016,[D]Nosebleed,1
+1872,hasbled,bleeding,S-3633921019,[D]Nosebleed,1
+1873,hasbled,bleeding,S-1220696019,[D]Nosebleed,1
+1874,hasbled,bleeding,S-21406015,[D]Nosebleed,1
+1875,hasbled,bleeding,S-348112019,[D]Nosebleed,1
+1876,hasbled,bleeding,S-348113012,[D]Nosebleed,1
+1877,hasbled,bleeding,S-348114018,[D]Nosebleed,1
+1878,hasbled,bleeding,S-348115017,[D]Nosebleed,1
+1879,hasbled,bleeding,S-111056015,Blood in sputum - haemoptysis,1
+1880,hasbled,bleeding,S-111057012,Blood in sputum - haemoptysis,1
+1881,hasbled,bleeding,S-500542015,Blood in sputum - haemoptysis,1
+1882,hasbled,bleeding,S-111056015,Haemoptysis - symptom,1
+1883,hasbled,bleeding,S-111057012,Haemoptysis - symptom,1
+1884,hasbled,bleeding,S-500542015,Haemoptysis - symptom,1
+1885,hasbled,bleeding,S-255708010,O/E - throat haemorrhage,1
+1886,hasbled,bleeding,S-505306012,Tracheostomy haemorrhage,1
+1887,hasbled,bleeding,S-465451011,[D]Throat haemorrhage,1
+1888,hasbled,bleeding,S-465449012,[D]Throat haemorrhage,1
+1889,hasbled,bleeding,S-503767018,[D]Pulmonary haemorrhage NOS,1
+1890,hasbled,bleeding,S-129684011,[D]Pulmonary haemorrhage NOS,1
+1891,hasbled,bleeding,S-2534219010,Painful rectal bleeding,1
+1892,hasbled,bleeding,S-2534250012,Painless rectal bleeding,1
+1893,hasbled,bleeding,S-397912015,Vomiting blood - fresh,1
+1894,hasbled,bleeding,S-419024010,Vomiting blood - fresh,1
+1895,hasbled,bleeding,S-397912015,Blood in vomit - symptom,1
+1896,hasbled,bleeding,S-419024010,Blood in vomit - symptom,1
+1897,hasbled,bleeding,S-492804019,Vomiting blood - coffee ground,1
+1898,hasbled,bleeding,S-372437016,C/O - melaena,1
+1899,hasbled,bleeding,S-397916017,C/O - melaena,1
+1900,hasbled,bleeding,S-407087019,C/O - melaena,1
+1901,hasbled,bleeding,S-2920724011,Blood in faeces,1
+1902,hasbled,bleeding,S-372431015,Blood in faeces,1
+1903,hasbled,bleeding,S-2153991014,Blood in faeces,1
+1904,hasbled,bleeding,S-2647547016,Blood in faeces,1
+1905,hasbled,bleeding,S-2647548014,Blood in faeces,1
+1906,hasbled,bleeding,S-2920724011,Blood in faeces symptom,1
+1907,hasbled,bleeding,S-372431015,Blood in faeces symptom,1
+1908,hasbled,bleeding,S-2153991014,Blood in faeces symptom,1
+1909,hasbled,bleeding,S-2647547016,Blood in faeces symptom,1
+1910,hasbled,bleeding,S-2647548014,Blood in faeces symptom,1
+1911,hasbled,bleeding,S-404537010,Melaena - O/E of faeces,1
+1912,hasbled,bleeding,S-411734011,Melaena - O/E of faeces,1
+1913,hasbled,bleeding,S-404540010,Faeces: fresh blood present,1
+1914,hasbled,bleeding,S-404540010,Blood in faeces,1
+1915,hasbled,bleeding,S-168391012,Faeces occult blood test,1
+1916,hasbled,bleeding,S-277449011,Faeces occult blood test,1
+1917,hasbled,bleeding,S-2565621000000110,Faeces occult blood test,1
+1918,hasbled,bleeding,S-2574791000000110,Faeces occult blood test,1
+1919,hasbled,bleeding,S-1215845017,Faeces occult blood test,1
+1920,hasbled,bleeding,S-2669565016,Vomit: frank blood present,1
+1921,hasbled,bleeding,S-411741017,Vomit: frank blood present,1
+1922,hasbled,bleeding,S-404554019,Vomit: frank blood present,1
+1923,hasbled,bleeding,S-2669565016,Blood in vomit O/E,1
+1924,hasbled,bleeding,S-411741017,Blood in vomit O/E,1
+1925,hasbled,bleeding,S-404554019,Blood in vomit O/E,1
+1926,hasbled,bleeding,S-260777019,Vomit occult blood,1
+1927,hasbled,bleeding,S-260777019,Occult blood in vomit,1
+1928,hasbled,bleeding,S-260778012,Vomit occult blood positive,1
+1929,hasbled,bleeding,S-269184010,Gastrotomy and ligation of bleeding point of stomach,1
+1930,hasbled,bleeding,S-362951000000115,Oversew of blood vessel of duodenal ulcer,1
+1931,hasbled,bleeding,S-269804011,Fibreoptic endoscopic coagulation of blood vessel of colon,1
+1932,hasbled,bleeding,S-1216060010,Oesophageal varices with bleeding,1
+1933,hasbled,bleeding,S-1216061014,Oesophageal varices with bleeding,1
+1934,hasbled,bleeding,S-478405010,Oesophageal varices with bleeding,1
+1935,hasbled,bleeding,S-2575715017,Oesophageal varices with bleeding in diseases EC,1
+1936,hasbled,bleeding,S-2575714018,Oesophageal varices with bleeding in diseases EC,1
+1937,hasbled,bleeding,S-300776018,Oesophageal varices with bleeding in diseases EC,1
+1938,hasbled,bleeding,S-1216440014,Mallory-Weiss syndrome,1
+1939,hasbled,bleeding,S-58843018,Mallory-Weiss syndrome,1
+1940,hasbled,bleeding,S-477248016,Haemorrhage of oesophagus,1
+1941,hasbled,bleeding,S-477249012,Haemorrhage of oesophagus,1
+1942,hasbled,bleeding,S-1235493010,Acute gastric ulcer with haemorrhage,1
+1943,hasbled,bleeding,S-508664015,Acute gastric ulcer with haemorrhage,1
+1944,hasbled,bleeding,S-1235493010,Bleeding acute gastric ulcer,1
+1945,hasbled,bleeding,S-508664015,Bleeding acute gastric ulcer,1
+1946,hasbled,bleeding,S-495273013,Acute gastric ulcer with haemorrhage and perforation,1
+1947,hasbled,bleeding,S-1231704018,Chronic gastric ulcer with haemorrhage,1
+1948,hasbled,bleeding,S-497833010,Chronic gastric ulcer with haemorrhage,1
+1949,hasbled,bleeding,S-1231704018,Bleeding chronic gastric ulcer,1
+1950,hasbled,bleeding,S-497833010,Bleeding chronic gastric ulcer,1
+1951,hasbled,bleeding,S-503219010,Chronic gastric ulcer with haemorrhage and perforation,1
+1952,hasbled,bleeding,S-477573015,Unspecified gastric ulcer with haemorrhage,1
+1953,hasbled,bleeding,S-26937011,Unspecified gastric ulcer with haemorrhage,1
+1954,hasbled,bleeding,S-499256017,Unspec gastric ulcer; unspec haemorrhage and/or perforation,1
+1955,hasbled,bleeding,S-474430017,Acute duodenal ulcer with haemorrhage,1
+1956,hasbled,bleeding,S-507303017,Acute duodenal ulcer with haemorrhage and perforation,1
+1957,hasbled,bleeding,S-1235462014,Chronic duodenal ulcer with haemorrhage,1
+1958,hasbled,bleeding,S-508524014,Chronic duodenal ulcer with haemorrhage,1
+1959,hasbled,bleeding,S-1235462014,Bleeding chronic duodenal ulcer,1
+1960,hasbled,bleeding,S-508524014,Bleeding chronic duodenal ulcer,1
+1961,hasbled,bleeding,S-486596015,Chronic duodenal ulcer with haemorrhage and perforation,1
+1962,hasbled,bleeding,S-483490017,Unspecified duodenal ulcer with haemorrhage,1
+1963,hasbled,bleeding,S-45608011,Unspecified duodenal ulcer with haemorrhage,1
+1964,hasbled,bleeding,S-470365013,Acute peptic ulcer with haemorrhage,1
+1965,hasbled,bleeding,S-361430016,Acute peptic ulcer with haemorrhage and perforation,1
+1966,hasbled,bleeding,S-495344012,Chronic peptic ulcer with haemorrhage,1
+1967,hasbled,bleeding,S-499719010,Acute gastrojejunal ulcer with haemorrhage,1
+1968,hasbled,bleeding,S-481682019,Acute haemorrhagic gastritis,1
+1969,hasbled,bleeding,S-396382012,Haemorrhage of rectum and anus,1
+1970,hasbled,bleeding,S-396382012,Bleeding PR,1
+1971,hasbled,bleeding,S-464498014,Rectal haemorrhage,1
+1972,hasbled,bleeding,S-20792019,Rectal haemorrhage,1
+1973,hasbled,bleeding,S-464499018,Rectal haemorrhage,1
+1974,hasbled,bleeding,S-464500010,Rectal haemorrhage,1
+1975,hasbled,bleeding,S-464494011,Rectal haemorrhage,1
+1976,hasbled,bleeding,S-498827015,Rectal haemorrhage,1
+1977,hasbled,bleeding,S-464498014,Rectal bleeding,1
+1978,hasbled,bleeding,S-20792019,Rectal bleeding,1
+1979,hasbled,bleeding,S-464499018,Rectal bleeding,1
+1980,hasbled,bleeding,S-464500010,Rectal bleeding,1
+1981,hasbled,bleeding,S-464494011,Rectal bleeding,1
+1982,hasbled,bleeding,S-498827015,Rectal bleeding,1
+1983,hasbled,bleeding,S-464498014,PRB - Rectal bleeding,1
+1984,hasbled,bleeding,S-20792019,PRB - Rectal bleeding,1
+1985,hasbled,bleeding,S-464499018,PRB - Rectal bleeding,1
+1986,hasbled,bleeding,S-464500010,PRB - Rectal bleeding,1
+1987,hasbled,bleeding,S-464494011,PRB - Rectal bleeding,1
+1988,hasbled,bleeding,S-498827015,PRB - Rectal bleeding,1
+1989,hasbled,bleeding,S-1216914011,Gastrointestinal haemorrhage,1
+1990,hasbled,bleeding,S-1216915012,Gastrointestinal haemorrhage,1
+1991,hasbled,bleeding,S-1216916013,Gastrointestinal haemorrhage,1
+1992,hasbled,bleeding,S-1233753013,Gastrointestinal haemorrhage,1
+1993,hasbled,bleeding,S-1233754019,Gastrointestinal haemorrhage,1
+1994,hasbled,bleeding,S-502715010,Gastrointestinal haemorrhage,1
+1995,hasbled,bleeding,S-507678016,Haematemesis,1
+1996,hasbled,bleeding,S-507679012,Haematemesis,1
+1997,hasbled,bleeding,S-507678016,Vomiting of blood,1
+1998,hasbled,bleeding,S-507679012,Vomiting of blood,1
+1999,hasbled,bleeding,S-1226275011,Melaena,1
+2000,hasbled,bleeding,S-1226276012,Melaena,1
+2001,hasbled,bleeding,S-1226277015,Melaena,1
+2002,hasbled,bleeding,S-5913016,Melaena,1
+2003,hasbled,bleeding,S-2920724011,Melaena,1
+2004,hasbled,bleeding,S-1226275011,Blood in stool,1
+2005,hasbled,bleeding,S-1226276012,Blood in stool,1
+2006,hasbled,bleeding,S-1226277015,Blood in stool,1
+2007,hasbled,bleeding,S-5913016,Blood in stool,1
+2008,hasbled,bleeding,S-2920724011,Blood in stool,1
+2009,hasbled,bleeding,S-1226275011,Altered blood in stools,1
+2010,hasbled,bleeding,S-1226276012,Altered blood in stools,1
+2011,hasbled,bleeding,S-1226277015,Altered blood in stools,1
+2012,hasbled,bleeding,S-5913016,Altered blood in stools,1
+2013,hasbled,bleeding,S-2920724011,Altered blood in stools,1
+2014,hasbled,bleeding,S-1226275011,Blood in stools altered,1
+2015,hasbled,bleeding,S-1226276012,Blood in stools altered,1
+2016,hasbled,bleeding,S-1226277015,Blood in stools altered,1
+2017,hasbled,bleeding,S-5913016,Blood in stools altered,1
+2018,hasbled,bleeding,S-2920724011,Blood in stools altered,1
+2019,hasbled,bleeding,S-123688018,Gastrointestinal haemorrhage unspecified,1
+2020,hasbled,bleeding,S-123695010,Gastrointestinal haemorrhage unspecified,1
+2021,hasbled,bleeding,S-123688018,GIB - Gastrointestinal bleeding,1
+2022,hasbled,bleeding,S-123695010,GIB - Gastrointestinal bleeding,1
+2023,hasbled,bleeding,S-499003013,Gastric haemorrhage NOS,1
+2024,hasbled,bleeding,S-1216567017,Upper gastrointestinal haemorrhage,1
+2025,hasbled,bleeding,S-486704010,Upper gastrointestinal haemorrhage,1
+2026,hasbled,bleeding,S-2984033019,Vaginal bleeding,1
+2027,hasbled,bleeding,S-411565016,Vaginal bleeding,1
+2028,hasbled,bleeding,S-397855015,Vaginal bleeding,1
+2029,hasbled,bleeding,S-2670003011,Vaginal bleeding,1
+2030,hasbled,bleeding,S-459713018,Heavy episode of vaginal bleeding,1
+2031,hasbled,bleeding,S-1490236018,Evacuation of haematoma from vagina,1
+2032,hasbled,bleeding,S-394487015,Pack to control postnatal vaginal bleeding,1
+2033,hasbled,bleeding,S-394488013,Pack to control postnatal vaginal bleeding,1
+2034,hasbled,bleeding,S-394489017,Pack to control postnatal vaginal bleeding,1
+2035,hasbled,bleeding,S-411006010,Pack to control postnatal vaginal bleeding,1
+2036,hasbled,bleeding,S-394487015,Pack to control postnatal vaginal bleeding,1
+2037,hasbled,bleeding,S-394488013,Pack to control postnatal vaginal bleeding,1
+2038,hasbled,bleeding,S-394489017,Pack to control postnatal vaginal bleeding,1
+2039,hasbled,bleeding,S-411006010,Pack to control postnatal vaginal bleeding,1
+2040,hasbled,bleeding,S-394487015,Pack to control postnatal haemorrhage,1
+2041,hasbled,bleeding,S-394488013,Pack to control postnatal haemorrhage,1
+2042,hasbled,bleeding,S-394489017,Pack to control postnatal haemorrhage,1
+2043,hasbled,bleeding,S-411006010,Pack to control postnatal haemorrhage,1
+2044,hasbled,bleeding,S-496575013,Vaginal haematoma,1
+2045,hasbled,bleeding,S-2983956017,Haemorrhage of vagina,1
+2046,hasbled,bleeding,S-2983956017,Bleeding - vaginal NOS,1
+2047,hasbled,bleeding,S-2983956017,BPV - Vaginal bleeding,1
+2048,hasbled,bleeding,S-371565015,Contact bleeding of cervix,1
+2049,hasbled,bleeding,S-2995739016,"Abnormal uterine bleeding, unspecified",1
+2050,hasbled,bleeding,S-443305015,"Abnormal vaginal bleeding, unspecified",1
+2051,hasbled,bleeding,S-411401013,Unspec spontaneous abortion + delayed/excessive haemorrhage,1
+2052,hasbled,bleeding,S-411401013,Spontaneous abortion with heavy bleeding,1
+2053,hasbled,bleeding,S-305325017,Incomp spontaneous abortion + delayed/excessive haemorrhage,1
+2054,hasbled,bleeding,S-305404018,Incomplete legal abortion + delayed or excessive haemorrhage,1
+2055,hasbled,bleeding,S-305425018,Complete legal abortion with delayed/excessive haemorrhage,1
+2056,hasbled,bleeding,S-2966340017,Delayed/excess haemorrhage NOS following abortive pregnancy,1
+2057,hasbled,bleeding,S-483053014,Haemorrhage in early pregnancy,1
+2058,hasbled,bleeding,S-483054015,Haemorrhage in early pregnancy,1
+2059,hasbled,bleeding,S-484718018,Other haemorrhage in early pregnancy - not delivered,1
+2060,hasbled,bleeding,S-43268017,Early pregnancy haemorrhage NOS,1
+2061,hasbled,bleeding,S-398338010,"Antepartum haemorrhage, abruptio placentae, placenta praevia",1
+2062,hasbled,bleeding,S-1216433013,"Antepartum haemorrhage, abruptio placentae, placenta praevia",1
+2063,hasbled,bleeding,S-220801000000113,"Antepartum haemorrhage, abruptio placentae, placenta praevia",1
+2064,hasbled,bleeding,S-485971018,"Antepartum haemorrhage, abruptio placentae, placenta praevia",1
+2065,hasbled,bleeding,S-398338010,Antepartum haemorrhage,1
+2066,hasbled,bleeding,S-1216433013,Antepartum haemorrhage,1
+2067,hasbled,bleeding,S-220801000000113,Antepartum haemorrhage,1
+2068,hasbled,bleeding,S-485971018,Antepartum haemorrhage,1
+2069,hasbled,bleeding,S-398338010,Antepartum bleeding,1
+2070,hasbled,bleeding,S-1216433013,Antepartum bleeding,1
+2071,hasbled,bleeding,S-220801000000113,Antepartum bleeding,1
+2072,hasbled,bleeding,S-485971018,Antepartum bleeding,1
+2073,hasbled,bleeding,S-2532335017,Antepartum haemorrhage with coagulation defect,1
+2074,hasbled,bleeding,S-355605016,Antepartum haemorrhage with coagulation defect,1
+2075,hasbled,bleeding,S-355606015,Antepartum haemorrhage with coagulation defect,1
+2076,hasbled,bleeding,S-355609010,Antepartum haemorrhage with coagulation defect,1
+2077,hasbled,bleeding,S-2532334018,Antepartum haemorrhage with coagulation defect,1
+2078,hasbled,bleeding,S-398341018,Antepartum haemorrhage with coagulation defect,1
+2079,hasbled,bleeding,S-2532335017,Antepartum haemorrhage with hypofibrinogenaemia,1
+2080,hasbled,bleeding,S-355605016,Antepartum haemorrhage with hypofibrinogenaemia,1
+2081,hasbled,bleeding,S-355606015,Antepartum haemorrhage with hypofibrinogenaemia,1
+2082,hasbled,bleeding,S-355609010,Antepartum haemorrhage with hypofibrinogenaemia,1
+2083,hasbled,bleeding,S-2532334018,Antepartum haemorrhage with hypofibrinogenaemia,1
+2084,hasbled,bleeding,S-398341018,Antepartum haemorrhage with hypofibrinogenaemia,1
+2085,hasbled,bleeding,S-305707014,Antepartum haemorrhage with trauma - delivered,1
+2086,hasbled,bleeding,S-305716013,Antepartum haemorrhage with uterine leiomyoma,1
+2087,hasbled,bleeding,S-305717016,Antepartum haemorrhage with uterine leiomyoma,1
+2088,hasbled,bleeding,S-305718014,Antepartum haemorrhage with uterine leiomyoma,1
+2089,hasbled,bleeding,S-305716013,Antepartum haemorrhage with fibroid,1
+2090,hasbled,bleeding,S-305717016,Antepartum haemorrhage with fibroid,1
+2091,hasbled,bleeding,S-305718014,Antepartum haemorrhage with fibroid,1
+2092,hasbled,bleeding,S-305716013,Antepartum haemorrhage with uterine fibroid,1
+2093,hasbled,bleeding,S-305717016,Antepartum haemorrhage with uterine fibroid,1
+2094,hasbled,bleeding,S-305718014,Antepartum haemorrhage with uterine fibroid,1
+2095,hasbled,bleeding,S-305722016,Antepartum haemorrhage with uterine leiomyoma - delivered,1
+2096,hasbled,bleeding,S-1216656013,Postpartum haemorrhage (PPH),1
+2097,hasbled,bleeding,S-1230526013,Postpartum haemorrhage (PPH),1
+2098,hasbled,bleeding,S-494929013,Postpartum haemorrhage (PPH),1
+2099,hasbled,bleeding,S-1216656013,Bleeding postpartum,1
+2100,hasbled,bleeding,S-1230526013,Bleeding postpartum,1
+2101,hasbled,bleeding,S-494929013,Bleeding postpartum,1
+2102,hasbled,bleeding,S-174582016,Third-stage postpartum haemorrhage,1
+2103,hasbled,bleeding,S-494786010,Third-stage postpartum haemorrhage,1
+2104,hasbled,bleeding,S-481534019,Secondary and delayed postpartum haemorrhage,1
+2105,hasbled,bleeding,S-38911013,Secondary and delayed postpartum haemorrhage,1
+2106,hasbled,bleeding,S-1216148011,Secondary and delayed postpartum haemorrhage,1
+2107,hasbled,bleeding,S-38911013,Secondary postpartum haemorrhage with postnatal problem,1
+2108,hasbled,bleeding,S-481534019,Secondary and delayed postpartum haemorrhage NOS,1
+2109,hasbled,bleeding,S-307420010,Retained products with no haemorrhage with postnatal problem,1
+2110,hasbled,bleeding,S-307653012,Intrapartum haemorrhage with coagulation defect,1
+2111,hasbled,age_gt65,n/a,n/a,1
+2112,hasbled,bleeding_medications,S-387458008,Aspirin (substance),1
+2113,hasbled,bleeding_medications,S-16403005,Non-steroidal anti-inflammatory agent (product),1

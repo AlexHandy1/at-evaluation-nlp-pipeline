@@ -1,0 +1,439 @@
+,component,cui,term
+0,apixaban,S-19506911000001100,Eliquis 2.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)
+1,dipyridamole,S-23969411000001100,Dipyridamole 50mg/5ml oral suspension sugar free
+2,dipyridamole,S-29674811000001100,Dipyridamole 50mg/5ml oral suspension sugar free
+3,dipyridamole,S-339811000001108,Dipyridamole 50mg/5ml oral suspension sugar free
+4,warfarin,S-34759911000001100,Warfarin 500microgram tablets (Sun Pharmaceutical Industries Europe B.V.)
+5,warfarin,S-21919311000001100,Warfarin 500microgram tablets (Waymade Healthcare Plc)
+6,warfarin,S-10733911000001100,Warfarin 500microgram tablets (Zentiva)
+7,warfarin,S-12961311000001100,Warfarin 500micrograms/5ml oral solution (Special Order)
+8,warfarin,S-32741911000001100,Warfarin 5mg capsules (Special Order)
+9,warfarin,S-751611000001108,Warfarin 5mg tablets (A A H Pharmaceuticals Ltd)
+10,warfarin,S-12958011000001100,Warfarin 100micrograms/5ml oral solution (Special Order)
+11,warfarin,S-8728011000001100,Warfarin 10mg/5ml oral solution (Special Order)
+12,warfarin,S-8728311000001100,Warfarin 10mg/5ml oral suspension (Special Order)
+13,warfarin,S-32742511000001100,Warfarin 1mg capsules (Special Order)
+14,warfarin,S-421411000001103,Warfarin 1mg tablets (A A H Pharmaceuticals Ltd)
+15,warfarin,S-19835411000001100,Warfarin 1mg tablets (APC Pharmaceuticals & Chemicals (Europe) Ltd)
+16,warfarin,S-19835811000001100,Warfarin 5mg tablets (APC Pharmaceuticals & Chemicals (Europe) Ltd)
+17,warfarin,S-642911000001101,Warfarin 5mg tablets (Actavis UK Ltd)
+18,warfarin,S-883011000001107,Warfarin 5mg tablets (Alliance Healthcare (Distribution) Ltd)
+19,warfarin,S-9797411000001100,Warfarin 5mg tablets (Almus Pharmaceuticals Ltd)
+20,warfarin,S-10418611000001100,Warfarin 5mg tablets (Arrow Generics Ltd)
+21,warfarin,S-16071611000001100,Warfarin 5mg tablets (Bristol Laboratories Ltd)
+22,warfarin,S-12959411000001100,Warfarin 4.16mg/5ml oral solution (Special Order)
+23,warfarin,S-12960011000001100,Warfarin 4mg/5ml oral solution (Special Order)
+24,warfarin,S-3659711000001100,Warfarin 500microgram tablets (A A H Pharmaceuticals Ltd)
+25,warfarin,S-10305211000001100,Warfarin 500microgram tablets (Actavis UK Ltd)
+26,warfarin,S-20538311000001100,Warfarin 500microgram tablets (Advanz Pharma)
+27,warfarin,S-395111000001106,Warfarin 500microgram tablets (Alliance Healthcare (Distribution) Ltd)
+28,warfarin,S-18288311000001100,Warfarin 1mg/ml oral suspension sugar free (Rosemont Pharmaceuticals Ltd)
+29,warfarin,S-21919111000001100,Warfarin 1mg/ml oral suspension sugar free (Waymade Healthcare Plc)
+30,warfarin,S-12958511000001100,Warfarin 2.5mg/5ml oral solution (Special Order)
+31,warfarin,S-12959011000001100,Warfarin 25mg/5ml oral solution (Special Order)
+32,warfarin,S-8731411000001100,Warfarin 2mg/5ml oral solution (Special Order)
+33,warfarin,S-8733211000001100,Warfarin 2mg/5ml oral suspension (Special Order)
+34,ticagrelor,S-34713411000001100,Ticagrelor 90mg orodispersible tablets sugar free
+35,warfarin,S-10417011000001100,Warfarin 500microgram tablets (Arrow Generics Ltd)
+36,warfarin,S-22736711000001100,Warfarin 500microgram tablets (DE Pharmaceuticals)
+37,warfarin,S-622211000001107,Warfarin 500microgram tablets (Kent Pharmaceuticals Ltd)
+38,warfarin,S-37272811000001104,Warfarin 500microgram tablets (Mawdsley-Brooks & Company Ltd)
+39,warfarin,S-17876511000001100,Warfarin 500microgram tablets (Phoenix Healthcare Distribution Ltd)
+40,warfarin,S-15202611000001100,Warfarin 500microgram tablets (Sigma Pharmaceuticals Plc)
+41,rivaroxaban,S-34793111000001100,Xarelto 15mg / 20mg treatment initiation pack
+42,aspirin,S-799411000001102,Aspirin 75mg gastro-resistant tablets
+43,aspirin,S-22611211000001100,Aspirin 75mg gastro-resistant tablets
+44,aspirin,S-37927211000001104,Aspirin 75mg gastro-resistant tablets
+45,aspirin,S-844511000001107,Aspirin 75mg gastro-resistant tablets
+46,aspirin,S-592811000001109,Aspirin 75mg gastro-resistant tablets
+47,warfarin,S-303111000001107,Warfarin 1mg tablets (Actavis UK Ltd)
+48,warfarin,S-739511000001109,Warfarin 1mg tablets (Alliance Healthcare (Distribution) Ltd)
+49,warfarin,S-9798311000001100,Warfarin 1mg tablets (Almus Pharmaceuticals Ltd)
+50,warfarin,S-10418211000001100,Warfarin 1mg tablets (Arrow Generics Ltd)
+51,warfarin,S-16071211000001100,Warfarin 1mg tablets (Bristol Laboratories Ltd)
+52,warfarin,S-28988911000001100,Warfarin 1mg tablets (Crescent Pharma Ltd)
+53,warfarin,S-18509011000001100,Coumadin 4mg tablets (Imported (Canada))
+54,warfarin,S-933311000001105,Marevan 1mg tablets (Advanz Pharma)
+55,warfarin,S-284011000001104,Marevan 3mg tablets (Advanz Pharma)
+56,warfarin,S-204811000001109,Marevan 500microgram tablets (Advanz Pharma)
+57,warfarin,S-461911000001100,Marevan 5mg tablets (Advanz Pharma)
+58,warfarin,S-12957311000001100,Warfarin 1.5mg/5ml oral solution (Special Order)
+59,clopidogrel,S-8816311000001100,Clopidogrel 75mg oral powder sachets
+60,clopidogrel,S-8808611000001100,Clopidogrel 75mg oral powder sachets
+61,warfarin,S-10418411000001100,Warfarin 3mg tablets (Arrow Generics Ltd)
+62,warfarin,S-16071411000001100,Warfarin 3mg tablets (Bristol Laboratories Ltd)
+63,warfarin,S-28989111000001100,Warfarin 3mg tablets (Crescent Pharma Ltd)
+64,warfarin,S-22735611000001100,Warfarin 3mg tablets (DE Pharmaceuticals)
+65,warfarin,S-927211000001109,Warfarin 3mg tablets (IVAX Pharmaceuticals UK Ltd)
+66,warfarin,S-772211000001101,Warfarin 3mg tablets (Kent Pharmaceuticals Ltd)
+67,aspirin,S-9789111000001100,Aspirin 75mg dispersible tablets
+68,aspirin,S-698811000001100,Aspirin 75mg dispersible tablets
+69,aspirin,S-15985111000001100,Aspirin 75mg dispersible tablets
+70,aspirin,S-22610611000001100,Aspirin 75mg dispersible tablets
+71,aspirin,S-163411000001106,Aspirin 75mg dispersible tablets
+72,dabigatran,S-19469811000001100,Dabigatran etexilate 150mg capsules
+73,dabigatran,S-13532911000001100,Dabigatran etexilate 75mg capsules
+74,dipyridamole,S-12011911000001100,Dipyridamole 12.5mg/5ml oral suspension
+75,dipyridamole,S-31948811000001100,Dipyridamole 200mg/5ml oral suspension sugar free
+76,dipyridamole,S-32502011000001100,Dipyridamole 200mg/5ml oral suspension sugar free
+77,dipyridamole,S-32419011000001100,Dipyridamole 200mg/5ml oral suspension sugar free
+78,dipyridamole,S-787811000001109,Dipyridamole 100mg tablets
+79,dipyridamole,S-650711000001100,Dipyridamole 100mg tablets
+80,dipyridamole,S-17968711000001100,Dipyridamole 100mg tablets
+81,dipyridamole,S-23877611000001100,Dipyridamole 100mg tablets
+82,dipyridamole,S-15082611000001100,Dipyridamole 50mg/5ml oral suspension sugar free
+83,dipyridamole,S-22392411000001100,Dipyridamole 50mg/5ml oral suspension sugar free
+84,dipyridamole,S-8455811000001100,Dipyridamole 50mg/5ml oral solution
+85,dipyridamole,S-8445311000001100,Dipyridamole 50mg/5ml oral solution
+86,dipyridamole,S-665111000001104,Dipyridamole 25mg tablets
+87,dipyridamole,S-38874111000001104,Dipyridamole 25mg tablets
+88,dipyridamole,S-17892911000001100,Dipyridamole 25mg tablets
+89,clopidogrel,S-30138011000001100,Clopidogrel 75mg tablets
+90,clopidogrel,S-17561911000001100,Clopidogrel 75mg tablets
+91,clopidogrel,S-18474811000001100,Clopidogrel 75mg tablets
+92,clopidogrel,S-23953911000001100,Clopidogrel 75mg tablets
+93,clopidogrel,S-16247711000001100,Clopidogrel 75mg tablets
+94,clopidogrel,S-17861911000001100,Clopidogrel 75mg tablets
+95,clopidogrel,S-15927711000001100,Clopidogrel 75mg tablets
+96,clopidogrel,S-21643011000001100,Clopidogrel 75mg tablets
+97,clopidogrel,S-15923011000001100,Clopidogrel 75mg tablets
+98,dipyridamole,S-8456111000001100,Dipyridamole 250mg/5ml oral suspension
+99,dipyridamole,S-8445011000001100,Dipyridamole 250mg/5ml oral solution
+100,dipyridamole,S-8445511000001100,Dipyridamole 250mg/5ml oral suspension
+101,dipyridamole,S-8456011000001100,Dipyridamole 25mg/5ml oral solution
+102,clopidogrel,S-27841311000001100,Clopidogrel 75mg tablets
+103,clopidogrel,S-15981011000001100,Clopidogrel 75mg tablets
+104,clopidogrel,S-24108111000001100,Clopidogrel 75mg tablets
+105,clopidogrel,S-18720411000001100,Clopidogrel 75mg tablets
+106,clopidogrel,S-32398611000001100,Clopidogrel 75mg tablets
+107,clopidogrel,S-29667511000001100,Clopidogrel 75mg tablets
+108,dipyridamole,S-12028711000001100,Dipyridamole 12.5mg/5ml oral solution
+109,dipyridamole,S-12028811000001100,Dipyridamole 12.5mg/5ml oral suspension
+110,dipyridamole,S-12012711000001100,Dipyridamole 12.5mg/5ml oral solution
+111,clopidogrel,S-31140711000001100,Clopidogrel 3.5mg oral powder sachets
+112,clopidogrel,S-31135811000001100,Clopidogrel 3.5mg oral powder sachets
+113,clopidogrel,S-32392111000001100,Clopidogrel 6mg/ml oral suspension
+114,warfarin,S-18290011000001100,Warfarin 1mg/ml oral suspension sugar free
+115,warfarin,S-13016811000001100,Warfarin 2.5mg/5ml oral solution
+116,warfarin,S-13016911000001100,Warfarin 25mg/5ml oral solution
+117,warfarin,S-8798311000001100,Warfarin 2mg/5ml oral solution
+118,warfarin,S-8798411000001100,Warfarin 2mg/5ml oral suspension
+119,warfarin,S-32751211000001100,Warfarin 3mg capsules
+120,clopidogrel,S-18739811000001100,Clopidogrel 1mg/ml oral suspension
+121,clopidogrel,S-28415011000001100,Clopidogrel 5mg oral powder sachets
+122,clopidogrel,S-28407211000001100,Clopidogrel 5mg oral powder sachets
+123,dipyridamole,S-12029211000001100,Dipyridamole 15mg/5ml oral suspension
+124,dipyridamole,S-12016511000001100,Dipyridamole 15mg/5ml oral solution
+125,dipyridamole,S-12014911000001100,Dipyridamole 15mg/5ml oral suspension
+126,clopidogrel,S-22342711000001100,Clopidogrel 4mg oral powder sachets
+127,clopidogrel,S-22334911000001100,Clopidogrel 4mg oral powder sachets
+128,clopidogrel,S-22402511000001100,Clopidogrel 75mg/5ml oral solution
+129,rivaroxaban,S-27810711000001100,Rivaroxaban 2.5mg tablets
+130,aspirin,S-11712811000001100,Aspirin 100mg/5ml oral suspension
+131,aspirin,S-11968411000001100,Aspirin 100mg/5ml oral solution
+132,aspirin,S-11692711000001100,Aspirin 100mg/5ml oral suspension
+133,aspirin,S-10064711000001100,Aspirin 75mg effervescent tablets
+134,aspirin,S-10063211000001100,Aspirin 75mg effervescent tablets
+135,rivaroxaban,S-14254711000001100,Rivaroxaban 10mg tablets
+136,aspirin,S-10063011000001100,Aspirin 75mg effervescent tablets
+137,aspirin,S-319773006,Aspirin 75mg dispersible tablets
+138,aspirin,S-765111000001108,Aspirin 75mg dispersible tablets
+139,aspirin,S-916711000001109,Aspirin 75mg dispersible tablets
+140,aspirin,S-595211000001103,Aspirin 75mg dispersible tablets
+141,warfarin,S-8797911000001100,Warfarin 10mg/5ml oral solution
+142,warfarin,S-8798011000001100,Warfarin 10mg/5ml oral suspension
+143,warfarin,S-32751111000001100,Warfarin 1mg capsules
+144,warfarin,S-319733000,Warfarin 1mg tablets
+145,warfarin,S-8798111000001100,Warfarin 1mg/5ml oral solution
+146,warfarin,S-8798211000001100,Warfarin 1mg/5ml oral suspension
+147,aspirin,S-11977711000001100,Aspirin 30mg/5ml oral suspension
+148,aspirin,S-12014011000001100,Aspirin 75mg/5ml oral solution
+149,aspirin,S-12014111000001100,Aspirin 75mg/5ml oral suspension
+150,aspirin,S-11982511000001100,Aspirin 75mg/5ml oral solution
+151,aspirin,S-11982011000001100,Aspirin 75mg/5ml oral suspension
+152,aspirin,S-8253111000001100,Aspirin 50mg/5ml oral solution
+153,aspirin,S-8253811000001100,Aspirin 50mg/5ml oral suspension
+154,aspirin,S-12012911000001100,Aspirin 30mg/5ml oral solution
+155,aspirin,S-12013011000001100,Aspirin 30mg/5ml oral suspension
+156,aspirin,S-11978011000001100,Aspirin 30mg/5ml oral solution
+157,dabigatran,S-13505411000001100,Pradaxa 110mg capsules
+158,dipyridamole,S-29830011000001100,Dipyridamole 25mg tablets
+159,dipyridamole,S-21931011000001100,Dipyridamole 25mg tablets
+160,dipyridamole,S-319759002,Dipyridamole 100mg tablets
+161,dipyridamole,S-151611000001100,Dipyridamole 100mg tablets
+162,aspirin,S-12012511000001100,Aspirin 25mg/5ml oral solution
+163,aspirin,S-12012611000001100,Aspirin 25mg/5ml oral suspension
+164,aspirin,S-11977111000001100,Aspirin 25mg/5ml oral solution
+165,aspirin,S-11973211000001100,Aspirin 25mg/5ml oral suspension
+166,aspirin,S-12013511000001100,Aspirin 40mg/5ml oral solution
+167,prasugrel,S-36825111000001104,Prasugrel 10mg tablets
+168,rivaroxaban,S-14237311000001100,Xarelto 10mg tablets
+169,prasugrel,S-36927911000001104,Prasugrel 10mg tablets
+170,rivaroxaban,S-19840811000001100,Xarelto 15mg tablets
+171,prasugrel,S-37777911000001104,Prasugrel 10mg tablets
+172,prasugrel,S-36655711000001104,Prasugrel 10mg tablets
+173,prasugrel,S-36826611000001104,Prasugrel 10mg tablets
+174,prasugrel,S-36781111000001104,Prasugrel 10mg tablets
+175,prasugrel,S-37268411000001104,Prasugrel 10mg tablets
+176,prasugrel,S-36780911000001104,Prasugrel 5mg tablets
+177,prasugrel,S-36824911000001104,Prasugrel 5mg tablets
+178,prasugrel,S-36917111000001104,Prasugrel 5mg tablets
+179,prasugrel,S-36655911000001104,Prasugrel 5mg tablets
+180,prasugrel,S-37268211000001104,Prasugrel 5mg tablets
+181,prasugrel,S-36825511000001104,Prasugrel 5mg tablets
+182,prasugrel,S-37777711000001104,Prasugrel 5mg tablets
+183,edoxaban,S-29903311000001100,Edoxaban 30mg tablets
+184,edoxaban,S-29903411000001100,Edoxaban 60mg tablets
+185,ticagrelor,S-704465002,Ticagrelor 90mg tablets
+186,apixaban,S-703908001,Apixaban 5mg tablets
+187,apixaban,S-21677511000001100,Eliquis 5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)
+188,rivaroxaban,S-34819111000001100,Rivaroxaban 15mg tablets and Rivaroxaban 20mg tablets
+189,warfarin,S-17877111000001100,Warfarin 5mg tablets (Phoenix Healthcare Distribution Ltd)
+190,warfarin,S-919811000001107,Warfarin 5mg tablets (Sandoz Ltd)
+191,warfarin,S-34760611000001100,Warfarin 5mg tablets (Sun Pharmaceutical Industries Europe B.V.)
+192,warfarin,S-617811000001100,Warfarin 5mg tablets (Teva UK Ltd)
+193,warfarin,S-504911000001105,Warfarin 5mg tablets (The Boots Company Plc)
+194,warfarin,S-36844311000001104,Warfarin 5mg tablets (Torrent Pharma (UK) Ltd)
+195,warfarin,S-10138911000001100,Warfarin 1mg tablets (Zentiva)
+196,warfarin,S-8729811000001100,Warfarin 1mg/5ml oral solution (Special Order)
+197,warfarin,S-8730111000001100,Warfarin 1mg/5ml oral suspension (Special Order)
+198,warfarin,S-20367411000001100,Warfarin 1mg/ml oral suspension sugar free (A A H Pharmaceuticals Ltd)
+199,warfarin,S-18723611000001100,Warfarin 1mg/ml oral suspension sugar free (Alliance Healthcare (Distribution) Ltd)
+200,warfarin,S-22736911000001100,Warfarin 1mg/ml oral suspension sugar free (DE Pharmaceuticals)
+201,warfarin,S-22735311000001100,Warfarin 1mg tablets (DE Pharmaceuticals)
+202,warfarin,S-272711000001102,Warfarin 1mg tablets (IVAX Pharmaceuticals UK Ltd)
+203,warfarin,S-524811000001109,Warfarin 1mg tablets (Kent Pharmaceuticals Ltd)
+204,warfarin,S-30945211000001100,Warfarin 1mg tablets (Mawdsley-Brooks & Company Ltd)
+205,warfarin,S-746411000001102,Warfarin 1mg tablets (Mylan)
+206,warfarin,S-17876711000001100,Warfarin 1mg tablets (Phoenix Healthcare Distribution Ltd)
+207,warfarin,S-32742211000001100,Warfarin 3mg capsules (Special Order)
+208,warfarin,S-456711000001104,Warfarin 3mg tablets (A A H Pharmaceuticals Ltd)
+209,warfarin,S-19835611000001100,Warfarin 3mg tablets (APC Pharmaceuticals & Chemicals (Europe) Ltd)
+210,warfarin,S-555911000001104,Warfarin 3mg tablets (Actavis UK Ltd)
+211,warfarin,S-584211000001100,Warfarin 3mg tablets (Alliance Healthcare (Distribution) Ltd)
+212,warfarin,S-9798011000001100,Warfarin 3mg tablets (Almus Pharmaceuticals Ltd)
+213,dipyridamole,S-31940111000001100,Dipyridamole 200mg/5ml oral suspension sugar free
+214,dipyridamole,S-8456311000001100,Dipyridamole 200mg/5ml oral suspension
+215,dipyridamole,S-8444611000001100,Dipyridamole 200mg/5ml oral suspension
+216,dipyridamole,S-36069911000001104,Dipyridamole 200mg modified-release / Aspirin 25mg capsules
+217,warfarin,S-473111000001108,Warfarin 3mg tablets (The Boots Company Plc)
+218,warfarin,S-36844011000001104,Warfarin 3mg tablets (Torrent Pharma (UK) Ltd)
+219,warfarin,S-21919811000001100,Warfarin 3mg tablets (Waymade Healthcare Plc)
+220,warfarin,S-10139111000001100,Warfarin 3mg tablets (Zentiva)
+221,warfarin,S-8728611000001100,Warfarin 3mg/5ml oral solution (Special Order)
+222,warfarin,S-8729111000001100,Warfarin 3mg/5ml oral suspension (Special Order)
+223,aspirin,S-281711000001100,Aspirin 75mg gastro-resistant tablets
+224,aspirin,S-307211000001105,Aspirin 75mg gastro-resistant tablets
+225,aspirin,S-9790111000001100,Aspirin 75mg gastro-resistant tablets
+226,aspirin,S-10450211000001100,Aspirin 75mg gastro-resistant tablets
+227,aspirin,S-15985411000001100,Aspirin 75mg gastro-resistant tablets
+228,aspirin,S-17786111000001100,Aspirin 75mg gastro-resistant tablets
+229,aspirin,S-476711000001102,Aspirin 75mg gastro-resistant tablets
+230,aspirin,S-29771211000001100,Aspirin 75mg gastro-resistant tablets
+231,aspirin,S-370411000001104,Aspirin 75mg gastro-resistant tablets
+232,aspirin,S-295211000001106,Aspirin 75mg gastro-resistant tablets
+233,warfarin,S-30945411000001100,Warfarin 3mg tablets (Mawdsley-Brooks & Company Ltd)
+234,warfarin,S-347911000001109,Warfarin 3mg tablets (Mylan)
+235,warfarin,S-17876911000001100,Warfarin 3mg tablets (Phoenix Healthcare Distribution Ltd)
+236,warfarin,S-550411000001100,Warfarin 3mg tablets (Sandoz Ltd)
+237,warfarin,S-34760411000001100,Warfarin 3mg tablets (Sun Pharmaceutical Industries Europe B.V.)
+238,warfarin,S-508311000001104,Warfarin 3mg tablets (Teva UK Ltd)
+239,aspirin,S-50611000001102,Aspirin 75mg gastro-resistant tablets
+240,aspirin,S-12534311000001100,Aspirin 75mg gastro-resistant tablets
+241,aspirin,S-29996711000001100,Aspirin 75mg gastro-resistant tablets
+242,aspirin,S-38797311000001104,Aspirin 75mg gastro-resistant tablets
+243,aspirin,S-795611000001102,Aspirin 75mg gastro-resistant tablets
+244,clopidogrel,S-16089411000001100,Clopidogrel 11mg oral powder sachets
+245,clopidogrel,S-16087211000001100,Clopidogrel 11mg oral powder sachets
+246,warfarin,S-321511000001106,Warfarin 1mg tablets (Sandoz Ltd)
+247,warfarin,S-34760111000001100,Warfarin 1mg tablets (Sun Pharmaceutical Industries Europe B.V.)
+248,warfarin,S-437711000001102,Warfarin 1mg tablets (Teva UK Ltd)
+249,warfarin,S-590411000001106,Warfarin 1mg tablets (The Boots Company Plc)
+250,warfarin,S-36843011000001104,Warfarin 1mg tablets (Torrent Pharma (UK) Ltd)
+251,warfarin,S-21919511000001100,Warfarin 1mg tablets (Waymade Healthcare Plc)
+252,clopidogrel,S-30919611000001100,Clopidogrel 6mg oral powder sachets
+253,clopidogrel,S-30874811000001100,Clopidogrel 6mg oral powder sachets
+254,warfarin,S-21920111000001100,Warfarin 5mg tablets (Waymade Healthcare Plc)
+255,warfarin,S-10139311000001100,Warfarin 5mg tablets (Zentiva)
+256,warfarin,S-8730911000001100,Warfarin 5mg/5ml oral solution (Special Order)
+257,warfarin,S-8732411000001100,Warfarin 5mg/5ml oral suspension (Special Order)
+258,warfarin,S-13016611000001100,Warfarin 1.5mg/5ml oral solution
+259,warfarin,S-13016711000001100,Warfarin 100micrograms/5ml oral solution
+260,aspirin,S-173911000001105,Aspirin 75mg dispersible tablets
+261,aspirin,S-12430611000001100,Aspirin 75mg dispersible tablets
+262,aspirin,S-37148811000001104,Aspirin 75mg dispersible tablets
+263,aspirin,S-29996011000001100,Aspirin 75mg dispersible tablets
+264,aspirin,S-38796611000001104,Aspirin 75mg dispersible tablets
+265,aspirin,S-13662311000001100,Aspirin 75mg dispersible tablets
+266,aspirin,S-17785711000001100,Aspirin 75mg dispersible tablets
+267,aspirin,S-15069611000001100,Aspirin 75mg dispersible tablets
+268,aspirin,S-33511000001106,Aspirin 75mg dispersible tablets
+269,aspirin,S-594611000001102,Aspirin 75mg dispersible tablets
+270,dabigatran,S-13532811000001100,Dabigatran etexilate 110mg capsules
+271,dipyridamole,S-752511000001101,Dipyridamole 100mg tablets
+272,dipyridamole,S-17893111000001100,Dipyridamole 100mg tablets
+273,dipyridamole,S-29829411000001100,Dipyridamole 100mg tablets
+274,dipyridamole,S-21931211000001100,Dipyridamole 100mg tablets
+275,dipyridamole,S-11020711000001100,Dipyridamole 100mg tablets
+276,dipyridamole,S-477911000001102,Dipyridamole 100mg tablets
+277,dipyridamole,S-38873911000001104,Dipyridamole 100mg tablets
+278,warfarin,S-28989311000001100,Warfarin 5mg tablets (Crescent Pharma Ltd)
+279,warfarin,S-22736411000001100,Warfarin 5mg tablets (DE Pharmaceuticals)
+280,warfarin,S-729811000001109,Warfarin 5mg tablets (IVAX Pharmaceuticals UK Ltd)
+281,warfarin,S-36911000001105,Warfarin 5mg tablets (Kent Pharmaceuticals Ltd)
+282,warfarin,S-30945711000001100,Warfarin 5mg tablets (Mawdsley-Brooks & Company Ltd)
+283,warfarin,S-727111000001108,Warfarin 5mg tablets (Mylan)
+284,dipyridamole,S-203211000001105,Dipyridamole 25mg tablets
+285,dipyridamole,S-894811000001102,Dipyridamole 25mg tablets
+286,dipyridamole,S-23877911000001100,Dipyridamole 25mg tablets
+287,dipyridamole,S-11020511000001100,Dipyridamole 25mg tablets
+288,dipyridamole,S-12010311000001100,Dipyridamole 10mg/5ml oral suspension
+289,dipyridamole,S-36070011000001104,Dipyridamole 50mg/5ml oral suspension sugar free
+290,dipyridamole,S-3995111000001100,Dipyridamole 50mg/5ml oral suspension sugar free
+291,dipyridamole,S-104211000001106,Dipyridamole 50mg/5ml oral suspension sugar free
+292,clopidogrel,S-15926111000001100,Clopidogrel 75mg tablets
+293,clopidogrel,S-36870711000001104,Clopidogrel 75mg tablets
+294,clopidogrel,S-21936211000001100,Clopidogrel 75mg tablets
+295,dipyridamole,S-12027211000001100,Dipyridamole 5mg/5ml oral suspension
+296,dipyridamole,S-12028311000001100,Dipyridamole 10mg/5ml oral solution
+297,dipyridamole,S-12028411000001100,Dipyridamole 10mg/5ml oral suspension
+298,dipyridamole,S-12011211000001100,Dipyridamole 10mg/5ml oral solution
+299,dipyridamole,S-8455911000001100,Dipyridamole 25mg/5ml oral suspension
+300,dipyridamole,S-8445911000001100,Dipyridamole 25mg/5ml oral solution
+301,dipyridamole,S-8446211000001100,Dipyridamole 25mg/5ml oral suspension
+302,dipyridamole,S-12029011000001100,Dipyridamole 15mg/5ml oral solution
+303,dipyridamole,S-36069811000001104,Dipyridamole 10mg/2ml solution for injection ampoules
+304,dipyridamole,S-319758005,Dipyridamole 25mg tablets
+305,dipyridamole,S-848311000001106,Dipyridamole 25mg tablets
+306,clopidogrel,S-18548711000001100,Clopidogrel 75mg tablets
+307,clopidogrel,S-22700111000001100,Clopidogrel 75mg tablets
+308,clopidogrel,S-18045011000001100,Clopidogrel 75mg tablets
+309,clopidogrel,S-17217211000001100,Clopidogrel 75mg tablets
+310,clopidogrel,S-30015311000001100,Clopidogrel 75mg tablets
+311,clopidogrel,S-38846011000001104,Clopidogrel 75mg tablets
+312,aspirin,S-8248411000001100,Aspirin 225mg/5ml oral solution
+313,aspirin,S-8249211000001100,Aspirin 225mg/5ml oral suspension
+314,aspirin,S-16100911000001100,Aspirin 37.5mg oral powder sachets
+315,aspirin,S-16096411000001100,Aspirin 37.5mg oral powder sachets
+316,aspirin,S-14012211000001100,Aspirin 40mg oral powder sachets
+317,aspirin,S-13980411000001100,Aspirin 40mg oral powder sachets
+318,dipyridamole,S-8456611000001100,Dipyridamole 100mg/5ml oral solution
+319,dipyridamole,S-8456511000001100,Dipyridamole 100mg/5ml oral suspension
+320,dipyridamole,S-8441811000001100,Dipyridamole 100mg/5ml oral solution
+321,dipyridamole,S-8442111000001100,Dipyridamole 100mg/5ml oral suspension
+322,dipyridamole,S-12029311000001100,Dipyridamole 20mg/5ml oral solution
+323,dipyridamole,S-12029511000001100,Dipyridamole 20mg/5ml oral suspension
+324,dipyridamole,S-12021211000001100,Dipyridamole 20mg/5ml oral solution
+325,dipyridamole,S-12018111000001100,Dipyridamole 20mg/5ml oral suspension
+326,dipyridamole,S-12029611000001100,Dipyridamole 30mg/5ml oral solution
+327,dipyridamole,S-12029711000001100,Dipyridamole 30mg/5ml oral suspension
+328,dipyridamole,S-12025511000001100,Dipyridamole 30mg/5ml oral solution
+329,dipyridamole,S-12023911000001100,Dipyridamole 30mg/5ml oral suspension
+330,warfarin,S-319736008,Warfarin 500microgram tablets
+331,warfarin,S-13017211000001100,Warfarin 500micrograms/5ml oral solution
+332,warfarin,S-32751311000001100,Warfarin 5mg capsules
+333,warfarin,S-319735007,Warfarin 5mg tablets
+334,warfarin,S-8798711000001100,Warfarin 5mg/5ml oral solution
+335,warfarin,S-8798811000001100,Warfarin 5mg/5ml oral suspension
+336,dipyridamole,S-12029811000001100,Dipyridamole 5mg/5ml oral solution
+337,dipyridamole,S-12029911000001100,Dipyridamole 5mg/5ml oral suspension
+338,dipyridamole,S-12028511000001100,Dipyridamole 5mg/5ml oral solution
+339,dipyridamole,S-8456411000001100,Dipyridamole 200mg/5ml oral solution
+340,dipyridamole,S-8444111000001100,Dipyridamole 200mg/5ml oral solution
+341,dipyridamole,S-8456211000001100,Dipyridamole 250mg/5ml oral solution
+342,clopidogrel,S-319799004,Clopidogrel 75mg tablets
+343,clopidogrel,S-15933611000001100,Clopidogrel 75mg tablets
+344,clopidogrel,S-34676811000001100,Clopidogrel 7mg/ml oral suspension
+345,clopidogrel,S-36903411000001104,Clopidogrel 5mg/5ml oral solution
+346,clopidogrel,S-36894011000001104,Clopidogrel 5mg/5ml oral solution
+347,aspirin,S-12013311000001100,Aspirin 37.5mg/5ml oral suspension
+348,aspirin,S-11978911000001100,Aspirin 37.5mg/5ml oral solution
+349,aspirin,S-11978311000001100,Aspirin 37.5mg/5ml oral suspension
+350,aspirin,S-8280211000001100,Aspirin 225mg/5ml oral solution
+351,aspirin,S-8280311000001100,Aspirin 225mg/5ml oral suspension
+352,rivaroxaban,S-19842211000001100,Rivaroxaban 20mg tablets
+353,rivaroxaban,S-19842111000001100,Rivaroxaban 15mg tablets
+354,aspirin,S-12013711000001100,Aspirin 40mg/5ml oral suspension
+355,aspirin,S-11980211000001100,Aspirin 40mg/5ml oral solution
+356,aspirin,S-11979511000001100,Aspirin 40mg/5ml oral suspension
+357,aspirin,S-8280711000001100,Aspirin 50mg/5ml oral solution
+358,aspirin,S-8280811000001100,Aspirin 50mg/5ml oral suspension
+359,aspirin,S-34175711000001100,Aspirin 75mg tablets
+360,aspirin,S-17423311000001100,Aspirin 75mg tablets
+361,aspirin,S-17629911000001100,Aspirin 75mg tablets
+362,aspirin,S-22611811000001100,Aspirin 75mg tablets
+363,aspirin,S-36611211000001104,Aspirin 75mg tablets
+364,prasugrel,S-36778111000001104,Prasugrel 10mg tablets
+365,prasugrel,S-36882611000001104,Prasugrel 10mg tablets
+366,aspirin,S-35841711000001100,Aspirin 75mg tablets
+367,aspirin,S-32394411000001100,Aspirin 75mg tablets
+368,aspirin,S-38796811000001104,Aspirin 75mg tablets
+369,aspirin,S-36492711000001104,Aspirin 75mg tablets
+370,aspirin,S-37570511000001104,Aspirin 75mg tablets
+371,ticagrelor,S-32472211000001100,Ticagrelor 60mg tablets
+372,aspirin,S-12013811000001100,Aspirin 62.5mg/5ml oral solution
+373,aspirin,S-12013911000001100,Aspirin 62.5mg/5ml oral suspension
+374,aspirin,S-11981411000001100,Aspirin 62.5mg/5ml oral solution
+375,aspirin,S-11980811000001100,Aspirin 62.5mg/5ml oral suspension
+376,aspirin,S-12012111000001100,Aspirin 100mg/5ml oral solution
+377,warfarin,S-319734006,Warfarin 3mg tablets
+378,warfarin,S-8798511000001100,Warfarin 3mg/5ml oral solution
+379,warfarin,S-8798611000001100,Warfarin 3mg/5ml oral suspension
+380,warfarin,S-13017011000001100,Warfarin 4.16mg/5ml oral solution
+381,warfarin,S-375374009,Warfarin 4mg tablets
+382,warfarin,S-13017111000001100,Warfarin 4mg/5ml oral solution
+383,aspirin,S-21777711000001100,Aspirin 75mg gastro-resistant tablets
+384,aspirin,S-16431611000001100,Aspirin 75mg gastro-resistant tablets
+385,aspirin,S-15967511000001100,Aspirin 75mg gastro-resistant tablets
+386,aspirin,S-30798211000001100,Aspirin 25mg capsules
+387,aspirin,S-30791611000001100,Aspirin 25mg capsules
+388,dabigatran,S-19465811000001100,Pradaxa 150mg capsules
+389,clopidogrel,S-16072911000001100,Clopidogrel 25mg/5ml oral suspension
+390,clopidogrel,S-16060011000001100,Clopidogrel 25mg/5ml oral suspension
+391,clopidogrel,S-429540001,Clopidogrel 300mg tablets
+392,rivaroxaban,S-27160311000001100,Xarelto 2.5mg tablets
+393,aspirin,S-12012211000001100,Aspirin 15mg/5ml oral solution
+394,aspirin,S-12012311000001100,Aspirin 15mg/5ml oral suspension
+395,aspirin,S-11972611000001100,Aspirin 15mg/5ml oral solution
+396,aspirin,S-11971811000001100,Aspirin 15mg/5ml oral suspension
+397,aspirin,S-12013211000001100,Aspirin 37.5mg/5ml oral solution
+398,rivaroxaban,S-19841411000001100,Xarelto 20mg tablets
+399,clopidogrel,S-8400511000001100,Clopidogrel 75mg/5ml oral suspension
+400,clopidogrel,S-18747911000001100,Clopidogrel 1mg/ml oral suspension
+401,clopidogrel,S-22244311000001100,Clopidogrel 75mg/5ml oral solution
+402,clopidogrel,S-8426611000001100,Clopidogrel 75mg/5ml oral suspension
+403,prasugrel,S-36760211000001104,Prasugrel 10mg tablets
+404,dabigatran,S-13504711000001100,Pradaxa 75mg capsules
+405,prasugrel,S-36916911000001104,Prasugrel 10mg tablets
+406,prasugrel,S-36760011000001104,Prasugrel 5mg tablets
+407,prasugrel,S-36882311000001104,Prasugrel 5mg tablets
+408,prasugrel,S-36927711000001104,Prasugrel 5mg tablets
+409,clopidogrel,S-32338411000001100,Clopidogrel 6mg/ml oral suspension
+410,clopidogrel,S-34682711000001100,Clopidogrel 7mg/ml oral suspension
+411,aspirin,S-852711000001109,Aspirin 75mg dispersible tablets
+412,aspirin,S-21776611000001100,Aspirin 75mg dispersible tablets
+413,aspirin,S-19429611000001100,Aspirin 75mg dispersible tablets
+414,aspirin,S-319775004,Aspirin 75mg tablets
+415,aspirin,S-17879711000001100,Aspirin 75mg tablets
+416,aspirin,S-18082911000001100,Aspirin 75mg tablets
+417,aspirin,S-29774911000001100,Aspirin 75mg tablets
+418,aspirin,S-21777311000001100,Aspirin 75mg tablets
+419,aspirin,S-319781007,Aspirin 75mg gastro-resistant tablets
+420,aspirin,S-138011000001102,Aspirin 75mg gastro-resistant tablets
+421,edoxaban,S-29903211000001100,Edoxaban 15mg tablets
+422,edoxaban,S-29902411000001100,Lixiana 30mg tablets
+423,edoxaban,S-29902111000001100,Lixiana 15mg tablets
+424,edoxaban,S-29902711000001100,Lixiana 60mg tablets
+425,prasugrel,S-443469008,Prasugrel 10mg tablets
+426,prasugrel,S-443088009,Prasugrel 5mg tablets
+427,apixaban,S-703907006,Apixaban 2.5mg tablets
+428,apixaban,S-698090000,Apixaban (substance)
+429,rivaroxaban,S-442031002,Rivaroxaban (substance)
+430,dabigatran,S-698871007,Dabigatran (substance)
+431,edoxaban,S-712778008,Edoxaban (substance)
+432,warfarin,S-372756006,Warfarin (substance)
+433,aspirin,S-387458008,Aspirin (substance)
+434,clopidogrel,S-386952008,Clopidogrel (substance)
+435,dipyridamole,S-387371005,Dipyridamole (substance)
+436,ticagrelor,S-698805004,Ticagrelor (substance)
+437,prasugrel,S-443129001,Prasugrel (substance)
