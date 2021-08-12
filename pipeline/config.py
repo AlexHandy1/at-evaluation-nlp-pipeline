@@ -5,16 +5,10 @@ class Config():
             
             #for use in cohort builder module
             
-            #gae02 (Internal server name)
-            "gae02_user": "xxx",
-            "gae02_password": "xxx",
-            
-            #gae03 (Internal server name)
-            "gae03_ca_certs_path": "xxx",
-            "gae03_hosts": "xxx",
-            "gae03_port": "xxx",
-            "gae03_user": "xxx",
-            "gae03_password": "xxx",
+            #UCLH - gae02 (Pre-EPIC)
+            "es_url": "xxx",
+            "es_user": "xxx",
+            "es_password": "xxx",
             
             #csv with date of birth and gender that could not be ingested into cogstack due to ethics
             "non_es_demographics_path": "./pipeline/cohort_metadata/xxx.csv"

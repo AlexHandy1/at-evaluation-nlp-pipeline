@@ -24,9 +24,7 @@ import pipeline.risk_scorer as rs
 import pipeline.analyzer as al
 import pipeline.config as config
 
-es_index = "gae02"
-
-builder = cb.CohortBuilder(es_index)
+builder = cb.CohortBuilder()
 annotator = an.Annotator()
 risk_scorer = rs.RiskScorer()
 analyzer = al.Analyzer()
@@ -35,7 +33,7 @@ analyzer = al.Analyzer()
 search_term = "atrial fibrillation"
 es_index_name = "ads_letters"
 batch_size = 10000
-cohort = builder.build_cohort(search_term, es_index_name, batch_size, note_type = "Discharge Summary")
+cohort = builder.build_cohort(search_term, es_index_name, batch_size, trust_site = "UCLH")
 
 #annotate cohort
 annotated_cohort = annotator.annotate_cohort(cohort, config.Config().es_config["non_es_demographics_path"])

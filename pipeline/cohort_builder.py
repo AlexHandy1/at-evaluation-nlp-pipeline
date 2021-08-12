@@ -8,33 +8,16 @@ import os
 import ssl
 
 class CohortBuilder:
-    def __init__(self, server="gae03"):
+    def __init__(self):
         print("Initializing Cohort Builder")
         
         print("Connect to ES...")
-        print("Connecting to ES on server: " + server)
-        
-        #NOTE - this reflects the bespoke server setup where pipeline was developed and will require refactoring for clearer interpretation and implementation at other NHS Trusts
-        if server == "gae03":
-            es_ssl_config = esconn.SslConnectionConfig(ca_certs_path=config.Config().es_config["gae03_ca_certs_path"])
-            es_conn_config = esconn.ElasticConnectorConfig(hosts=config.Config().es_config["gae03_hosts"], 
-                                                           port=config.Config().es_config["gae03_port"], 
-                                                           user_name=config.Config().es_config["gae03_user"], 
-                                                           user_pass=config.Config().es_config["gae03_password"], 
-                                                           ssl_config=es_ssl_config)
 
-            es_conn = esconn.ElasticConnector(es_conn_config)
-            es_conn = es_conn.es
-        #target index
-        elif server == "gae02":
-            es_conn = Elasticsearch(['http://uclvlddpragae02:9200'], http_auth=(config.Config().es_config["gae02_user"],config.Config().es_config["gae02_password"]))
-        else:
-            print("Please try another server which has CogStack data")
-            es_conn = None
+        es_conn = Elasticsearch([config.Config().es_config["es_url"]], http_auth=(config.Config().es_config["es_user"],config.Config().es_config["es_password"]))
         
         if es_conn.ping() is True:
             print("Connected to ES")
-        
+    
         self.es = es_conn
         
     def construct_query(self, search_term, batch_size=10000):
@@ -74,6 +57,54 @@ class CohortBuilder:
         
         return es_response
     
+    #NOTE: these are a set of optional functions for removing invalid discharge summaries at UCLH which could only be filtered with access to the free text note. They will not be relevant at other Trusts.
+    def remove_stroke_ds(self, x):
+        '''
+        Given a cohort note text, add flag for stroke pad discharge summaries at UCLH
+        x: row with notetext data
+        '''
+        target = x[0:7]
+        target_cl = target.strip()
+
+        if target_cl == "Please":
+            return True
+        else:
+            return False
+        
+    def remove_emergency_ds(self, x):
+        '''
+        Given a cohort note text, add flag for emergency discharge summaries at UCLH
+        x: row with notetext data
+        '''
+        target = x[0:41]
+        target_cl = target.strip()
+
+        if target_cl == "Discharge Summary (Emergency Department)":
+            return True
+        else:
+            return False
+        
+    def remove_cc_ds(self, x):
+        '''
+        Given a cohort note text, add flag for critical care discharge summaries at UCLH
+        x: row with notetext data
+        '''
+        if "UCH Critical Care Discharge Summary" in x:
+            return True
+        else:
+            return False
+        
+    def add_keep_doc_flag(self, x):
+        '''
+        Given a cohort as a pandas dataframe, add keep doc flag based on previously assigned invalid discharge summary columns
+        x: row with all columns for cohort
+        '''
+        if x["invalid_stroke_ds"] or x["invalid_emergency_ds"] or x["invalid_cc_ds"]:
+            return False
+        else:
+            return True
+    
+    #NOTE: functions relevant across Trusts from here again
     def select_most_recent_patient_doc(self, cohort):
         '''
         Given a cohort as a pandas dataframe, return an individual entry for each patient id based on most recent encounter date
@@ -102,15 +133,36 @@ class CohortBuilder:
         es_response_source_docs.extend([result['_source'] for result in es_response])
         cohort = pd.DataFrame(es_response_source_docs)
         
-        if "note_type" in kwargs:
-            try: 
-                cohort = cohort[cohort["notetype"] == kwargs["note_type"]]
-            except:
-                print("No note type field available")
-        
-        print("Number of rows pre individual selection:", len(cohort))
+        if "trust_site" in kwargs:
+            if kwargs["trust_site"] == "UCLH":
+                print("Remove strokepad, emergency department and critical care discharge summaries")
+                print("Number of rows pre invalid discharge summary removal:", len(cohort))
+                print("Number of individuals pre invalid discharge summary removal:",len(cohort.groupby("patientprimarymrn").count()))
+                
+                cohort["invalid_stroke_ds"] = cohort["notetext"].apply(self.remove_stroke_ds)
+                cohort["invalid_emergency_ds"] = cohort["notetext"].apply(self.remove_emergency_ds)
+                cohort["invalid_cc_ds"] = cohort["notetext"].apply(self.remove_cc_ds)
+                
+                pct_stroke_ds = len(cohort[cohort["invalid_stroke_ds"]]) / len(cohort)
+                pct_emergency_ds = len(cohort[cohort["invalid_emergency_ds"]]) / len(cohort)
+                pct_cc_ds = len(cohort[cohort["invalid_cc_ds"]]) / len(cohort)
+                print("Invalid stroke ds %: ", pct_stroke_ds)
+                print("Invalid emergency ds %: ", pct_emergency_ds)
+                print("Invalid critical care ds %: ", pct_cc_ds)
+                
+                cohort["keep_doc"] = cohort.apply(self.add_keep_doc_flag, axis=1)
+                
+                cohort = cohort[cohort["keep_doc"]]
+                cohort = cohort.reset_index()
+
+                print("Number of rows post invalid discharge summary removal:", len(cohort))
+                print("Number of individuals post invalid discharge summary removal:",len(cohort.groupby("patientprimarymrn").count()))
+                
+        print("Number of rows pre most recent document selection:", len(cohort))
+        print("Number of individuals pre most recent document selection:",len(cohort.groupby("patientprimarymrn").count()))
         cohort = self.select_most_recent_patient_doc(cohort)
-        print("Number of rows post individual selection:", len(cohort))
+        print("Number of rows post most recent document selection:", len(cohort))
+        print("Number of individuals post most recent document selection:",len(cohort.groupby("patientprimarymrn").count()))
        
         return cohort
         
@@ -139,11 +191,12 @@ class CohortBuilder:
         
         query = self.construct_query(search_term, batch_size)
         es_response = self.query_es(query, index)
-        
-        if "note_type" in kwargs:
-            cohort = self.package_cohort(es_response, note_type = kwargs["note_type"])
+            
+        if "trust_site" in kwargs:
+            cohort = self.package_cohort(es_response, trust_site = kwargs["trust_site"])
         else:
             cohort = self.package_cohort(es_response)
+        
                 
         self.get_cohort_size(cohort)
         end = time.time()
