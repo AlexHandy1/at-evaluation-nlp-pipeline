@@ -18,5 +18,5 @@ Metadata for the discharge summaries should also be available and mapped to the 
 All other data (e.g. risk scores, medication summaries) will be created and summarised automatically from document annotations.   
 
 Sensitive, NHS Trust specific implementation details (e.g. passwords, server configurations, pre-trained annotation models) are not included in this repository so the code will not work out of the box.
-Please get in touch with a.handy@ucl.ac.uk if you would like to install this pipeline at your hospital. 
+Please get in touch with a.handy@ucl.ac.uk if you would like to install this pipeline at your hospital.  
 
